@@ -1,6 +1,7 @@
 # google-material-color
 
-[![NPM version](https://badge.fury.io/js/google-material-color.svg)](https://badge.fury.io/js/google-material-color)
+[![GitHub version](https://badge.fury.io/gh/danlevan%2Fgoogle-material-color.svg)](http://badge.fury.io/gh/danlevan%2Fgoogle-material-color)
+[![npm version](https://badge.fury.io/js/google-material-color.svg)](http://badge.fury.io/js/google-material-color) [![Bower version](https://badge.fury.io/bo/google-material-color.svg)](http://badge.fury.io/bo/google-material-color)
 
 [Google material color](http://www.google.com/design/spec/style/color.html#color-color-palette) implementation for Sass, Less, Stylus, CSS and JS.
 
