@@ -1,0 +1,16 @@
+<% _.forIn(colors, function(shades, color) {
+%>.palette-<%- color.replace(' ', '-') %>.bg {
+  background-color: <%- shades['500'] %>;
+}
+.palette-<%- color.replace(' ', '-') %>.text {
+  color: <%- shades['500'] %>;
+}
+<% _.forIn(shades, function(hex, shade) {
+%>.palette-<%- color.replace(' ', '-') %>-<%- shade.replace(' ', '-') %>.bg {
+  background-color: <%- hex %>;
+}
+.palette-<%- color.replace(' ', '-') %>-<%- shade.replace(' ', '-') %>.text {
+  color: <%- hex %>;
+}
+<% }) %>
+<% }) %>

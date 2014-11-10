@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title></title>
+    <link href='stylus.css' rel='stylesheet' type='text/css'>
+    <link href='sass.css' rel='stylesheet' type='text/css'>
+    <link href='less.css' rel='stylesheet' type='text/css'>
+    <link href='<%- path.css %>' rel='stylesheet' type='text/css'>
+    <script src='<%- path.js %>'></script>
+
+    <style type="text/css">
+      body {
+        width: 900px;
+        margin: 0 auto;
+      }
+
+      table {
+        margin: 0;
+        padding: 0;
+        border-spacing: 1px;
+        border-collapse: separate;
+      }
+
+      td {
+        width: 300px;
+        height: 50px;
+        text-align: center;
+        vertical-align: middle;
+      }
+    </style>
+  </head>
+  <body>
+
+    <h1>Test result</h1>
+
+<% _.forIn(colors, function(shades, color) { %>
+    <h2><%- color %></h2>
+
+    <table>
+      <tr>
+        <th>stylus</th>
+        <th>sass</th>
+        <th>less</th>
+        <th>css</th>
+        <th>js</th>
+      </tr>
+
+      <tr>
+        <td class="stylus <%- color.replace(' ', '-') %>">
+          palette('<%- color %>')
+        </td>
+        <td class="sass <%- color.replace(' ', '-') %>">
+          palette(<%- color %>)
+        </td>
+        <td class="less <%- color.replace(' ', '-') %>">
+          .palette('<%- color %>')
+        </td>
+        <td class="palette-<%- color.replace(' ', '-') %> bg">
+          palette-<%- color.replace(' ', '-') %>
+        </td>
+        <td class="js" data-color="<%- color %>">
+          palette.get('<%- color %>')
+        </td>
+      </tr>
+
+<% _.forIn(shades, function(hex, shade) { %>
+      <tr>
+        <td class="stylus <%- color.replace(' ', '-') %>-<%- shade.replace(' ', '-') %>">
+          palette('<%- color %>', '<%- shade %>')
+        </td>
+        <td class="sass <%- color.replace(' ', '-') %>-<%- shade.replace(' ', '-') %>">
+          palette(<%- color %>, <%- shade %>)
+        </td>
+        <td class="less <%- color.replace(' ', '-') %>-<%- shade.replace(' ', '-') %>">
+          .palette('<%- color %>'; '<%- shade %>')
+        </td>
+        <td class="palette-<%- color.replace(' ', '-') %>-<%- shade.replace(' ', '-') %> bg">
+          palette-<%- color.replace(' ', '-') %>-<%- shade.replace(' ', '-') %>
+        </td>
+        <td class="js" data-color="<%- color %>" data-shade="<%- shade %>">
+          palette.get('<%- color %>', '<%- shade %>')
+        </td>
+      </tr>
+<% }) %>
+    </table>
+<% }) %>
+
+    <script>
+      (function() {
+        var tds = document.getElementsByClassName('js');
+        for(var i=0; i<tds.length; i++) {
+          tds[i].style['background-color'] = palette.get(tds[i].dataset.color, tds[i].dataset.shade);
+        }
+      })();
+    </script>
+  </body>
+</html>

@@ -1,0 +1,1120 @@
+@import 'color.scss';
+
+.sass {
+
+  &.Red {
+    background-color: palette(Red)
+  }
+
+  &.Red-50 {
+    background-color: palette(Red, 50)
+  }
+
+  &.Red-100 {
+    background-color: palette(Red, 100)
+  }
+
+  &.Red-200 {
+    background-color: palette(Red, 200)
+  }
+
+  &.Red-300 {
+    background-color: palette(Red, 300)
+  }
+
+  &.Red-400 {
+    background-color: palette(Red, 400)
+  }
+
+  &.Red-500 {
+    background-color: palette(Red, 500)
+  }
+
+  &.Red-600 {
+    background-color: palette(Red, 600)
+  }
+
+  &.Red-700 {
+    background-color: palette(Red, 700)
+  }
+
+  &.Red-800 {
+    background-color: palette(Red, 800)
+  }
+
+  &.Red-900 {
+    background-color: palette(Red, 900)
+  }
+
+  &.Red-A100 {
+    background-color: palette(Red, A100)
+  }
+
+  &.Red-A200 {
+    background-color: palette(Red, A200)
+  }
+
+  &.Red-A400 {
+    background-color: palette(Red, A400)
+  }
+
+  &.Red-A700 {
+    background-color: palette(Red, A700)
+  }
+
+
+  &.Pink {
+    background-color: palette(Pink)
+  }
+
+  &.Pink-50 {
+    background-color: palette(Pink, 50)
+  }
+
+  &.Pink-100 {
+    background-color: palette(Pink, 100)
+  }
+
+  &.Pink-200 {
+    background-color: palette(Pink, 200)
+  }
+
+  &.Pink-300 {
+    background-color: palette(Pink, 300)
+  }
+
+  &.Pink-400 {
+    background-color: palette(Pink, 400)
+  }
+
+  &.Pink-500 {
+    background-color: palette(Pink, 500)
+  }
+
+  &.Pink-600 {
+    background-color: palette(Pink, 600)
+  }
+
+  &.Pink-700 {
+    background-color: palette(Pink, 700)
+  }
+
+  &.Pink-800 {
+    background-color: palette(Pink, 800)
+  }
+
+  &.Pink-900 {
+    background-color: palette(Pink, 900)
+  }
+
+  &.Pink-A100 {
+    background-color: palette(Pink, A100)
+  }
+
+  &.Pink-A200 {
+    background-color: palette(Pink, A200)
+  }
+
+  &.Pink-A400 {
+    background-color: palette(Pink, A400)
+  }
+
+  &.Pink-A700 {
+    background-color: palette(Pink, A700)
+  }
+
+
+  &.Purple {
+    background-color: palette(Purple)
+  }
+
+  &.Purple-50 {
+    background-color: palette(Purple, 50)
+  }
+
+  &.Purple-100 {
+    background-color: palette(Purple, 100)
+  }
+
+  &.Purple-200 {
+    background-color: palette(Purple, 200)
+  }
+
+  &.Purple-300 {
+    background-color: palette(Purple, 300)
+  }
+
+  &.Purple-400 {
+    background-color: palette(Purple, 400)
+  }
+
+  &.Purple-500 {
+    background-color: palette(Purple, 500)
+  }
+
+  &.Purple-600 {
+    background-color: palette(Purple, 600)
+  }
+
+  &.Purple-700 {
+    background-color: palette(Purple, 700)
+  }
+
+  &.Purple-800 {
+    background-color: palette(Purple, 800)
+  }
+
+  &.Purple-900 {
+    background-color: palette(Purple, 900)
+  }
+
+  &.Purple-A100 {
+    background-color: palette(Purple, A100)
+  }
+
+  &.Purple-A200 {
+    background-color: palette(Purple, A200)
+  }
+
+  &.Purple-A400 {
+    background-color: palette(Purple, A400)
+  }
+
+  &.Purple-A700 {
+    background-color: palette(Purple, A700)
+  }
+
+
+  &.Deep-Purple {
+    background-color: palette(Deep Purple)
+  }
+
+  &.Deep-Purple-50 {
+    background-color: palette(Deep Purple, 50)
+  }
+
+  &.Deep-Purple-100 {
+    background-color: palette(Deep Purple, 100)
+  }
+
+  &.Deep-Purple-200 {
+    background-color: palette(Deep Purple, 200)
+  }
+
+  &.Deep-Purple-300 {
+    background-color: palette(Deep Purple, 300)
+  }
+
+  &.Deep-Purple-400 {
+    background-color: palette(Deep Purple, 400)
+  }
+
+  &.Deep-Purple-500 {
+    background-color: palette(Deep Purple, 500)
+  }
+
+  &.Deep-Purple-600 {
+    background-color: palette(Deep Purple, 600)
+  }
+
+  &.Deep-Purple-700 {
+    background-color: palette(Deep Purple, 700)
+  }
+
+  &.Deep-Purple-800 {
+    background-color: palette(Deep Purple, 800)
+  }
+
+  &.Deep-Purple-900 {
+    background-color: palette(Deep Purple, 900)
+  }
+
+  &.Deep-Purple-A100 {
+    background-color: palette(Deep Purple, A100)
+  }
+
+  &.Deep-Purple-A200 {
+    background-color: palette(Deep Purple, A200)
+  }
+
+  &.Deep-Purple-A400 {
+    background-color: palette(Deep Purple, A400)
+  }
+
+  &.Deep-Purple-A700 {
+    background-color: palette(Deep Purple, A700)
+  }
+
+
+  &.Indigo {
+    background-color: palette(Indigo)
+  }
+
+  &.Indigo-50 {
+    background-color: palette(Indigo, 50)
+  }
+
+  &.Indigo-100 {
+    background-color: palette(Indigo, 100)
+  }
+
+  &.Indigo-200 {
+    background-color: palette(Indigo, 200)
+  }
+
+  &.Indigo-300 {
+    background-color: palette(Indigo, 300)
+  }
+
+  &.Indigo-400 {
+    background-color: palette(Indigo, 400)
+  }
+
+  &.Indigo-500 {
+    background-color: palette(Indigo, 500)
+  }
+
+  &.Indigo-600 {
+    background-color: palette(Indigo, 600)
+  }
+
+  &.Indigo-700 {
+    background-color: palette(Indigo, 700)
+  }
+
+  &.Indigo-800 {
+    background-color: palette(Indigo, 800)
+  }
+
+  &.Indigo-900 {
+    background-color: palette(Indigo, 900)
+  }
+
+  &.Indigo-A100 {
+    background-color: palette(Indigo, A100)
+  }
+
+  &.Indigo-A200 {
+    background-color: palette(Indigo, A200)
+  }
+
+  &.Indigo-A400 {
+    background-color: palette(Indigo, A400)
+  }
+
+  &.Indigo-A700 {
+    background-color: palette(Indigo, A700)
+  }
+
+
+  &.Blue {
+    background-color: palette(Blue)
+  }
+
+  &.Blue-50 {
+    background-color: palette(Blue, 50)
+  }
+
+  &.Blue-100 {
+    background-color: palette(Blue, 100)
+  }
+
+  &.Blue-200 {
+    background-color: palette(Blue, 200)
+  }
+
+  &.Blue-300 {
+    background-color: palette(Blue, 300)
+  }
+
+  &.Blue-400 {
+    background-color: palette(Blue, 400)
+  }
+
+  &.Blue-500 {
+    background-color: palette(Blue, 500)
+  }
+
+  &.Blue-600 {
+    background-color: palette(Blue, 600)
+  }
+
+  &.Blue-700 {
+    background-color: palette(Blue, 700)
+  }
+
+  &.Blue-800 {
+    background-color: palette(Blue, 800)
+  }
+
+  &.Blue-900 {
+    background-color: palette(Blue, 900)
+  }
+
+  &.Blue-A100 {
+    background-color: palette(Blue, A100)
+  }
+
+  &.Blue-A200 {
+    background-color: palette(Blue, A200)
+  }
+
+  &.Blue-A400 {
+    background-color: palette(Blue, A400)
+  }
+
+  &.Blue-A700 {
+    background-color: palette(Blue, A700)
+  }
+
+
+  &.Light-Blue {
+    background-color: palette(Light Blue)
+  }
+
+  &.Light-Blue-50 {
+    background-color: palette(Light Blue, 50)
+  }
+
+  &.Light-Blue-100 {
+    background-color: palette(Light Blue, 100)
+  }
+
+  &.Light-Blue-200 {
+    background-color: palette(Light Blue, 200)
+  }
+
+  &.Light-Blue-300 {
+    background-color: palette(Light Blue, 300)
+  }
+
+  &.Light-Blue-400 {
+    background-color: palette(Light Blue, 400)
+  }
+
+  &.Light-Blue-500 {
+    background-color: palette(Light Blue, 500)
+  }
+
+  &.Light-Blue-600 {
+    background-color: palette(Light Blue, 600)
+  }
+
+  &.Light-Blue-700 {
+    background-color: palette(Light Blue, 700)
+  }
+
+  &.Light-Blue-800 {
+    background-color: palette(Light Blue, 800)
+  }
+
+  &.Light-Blue-900 {
+    background-color: palette(Light Blue, 900)
+  }
+
+  &.Light-Blue-A100 {
+    background-color: palette(Light Blue, A100)
+  }
+
+  &.Light-Blue-A200 {
+    background-color: palette(Light Blue, A200)
+  }
+
+  &.Light-Blue-A400 {
+    background-color: palette(Light Blue, A400)
+  }
+
+  &.Light-Blue-A700 {
+    background-color: palette(Light Blue, A700)
+  }
+
+
+  &.Cyan {
+    background-color: palette(Cyan)
+  }
+
+  &.Cyan-50 {
+    background-color: palette(Cyan, 50)
+  }
+
+  &.Cyan-100 {
+    background-color: palette(Cyan, 100)
+  }
+
+  &.Cyan-200 {
+    background-color: palette(Cyan, 200)
+  }
+
+  &.Cyan-300 {
+    background-color: palette(Cyan, 300)
+  }
+
+  &.Cyan-400 {
+    background-color: palette(Cyan, 400)
+  }
+
+  &.Cyan-500 {
+    background-color: palette(Cyan, 500)
+  }
+
+  &.Cyan-600 {
+    background-color: palette(Cyan, 600)
+  }
+
+  &.Cyan-700 {
+    background-color: palette(Cyan, 700)
+  }
+
+  &.Cyan-800 {
+    background-color: palette(Cyan, 800)
+  }
+
+  &.Cyan-900 {
+    background-color: palette(Cyan, 900)
+  }
+
+  &.Cyan-A100 {
+    background-color: palette(Cyan, A100)
+  }
+
+  &.Cyan-A200 {
+    background-color: palette(Cyan, A200)
+  }
+
+  &.Cyan-A400 {
+    background-color: palette(Cyan, A400)
+  }
+
+  &.Cyan-A700 {
+    background-color: palette(Cyan, A700)
+  }
+
+
+  &.Teal {
+    background-color: palette(Teal)
+  }
+
+  &.Teal-50 {
+    background-color: palette(Teal, 50)
+  }
+
+  &.Teal-100 {
+    background-color: palette(Teal, 100)
+  }
+
+  &.Teal-200 {
+    background-color: palette(Teal, 200)
+  }
+
+  &.Teal-300 {
+    background-color: palette(Teal, 300)
+  }
+
+  &.Teal-400 {
+    background-color: palette(Teal, 400)
+  }
+
+  &.Teal-500 {
+    background-color: palette(Teal, 500)
+  }
+
+  &.Teal-600 {
+    background-color: palette(Teal, 600)
+  }
+
+  &.Teal-700 {
+    background-color: palette(Teal, 700)
+  }
+
+  &.Teal-800 {
+    background-color: palette(Teal, 800)
+  }
+
+  &.Teal-900 {
+    background-color: palette(Teal, 900)
+  }
+
+  &.Teal-A100 {
+    background-color: palette(Teal, A100)
+  }
+
+  &.Teal-A200 {
+    background-color: palette(Teal, A200)
+  }
+
+  &.Teal-A400 {
+    background-color: palette(Teal, A400)
+  }
+
+  &.Teal-A700 {
+    background-color: palette(Teal, A700)
+  }
+
+
+  &.Green {
+    background-color: palette(Green)
+  }
+
+  &.Green-50 {
+    background-color: palette(Green, 50)
+  }
+
+  &.Green-100 {
+    background-color: palette(Green, 100)
+  }
+
+  &.Green-200 {
+    background-color: palette(Green, 200)
+  }
+
+  &.Green-300 {
+    background-color: palette(Green, 300)
+  }
+
+  &.Green-400 {
+    background-color: palette(Green, 400)
+  }
+
+  &.Green-500 {
+    background-color: palette(Green, 500)
+  }
+
+  &.Green-600 {
+    background-color: palette(Green, 600)
+  }
+
+  &.Green-700 {
+    background-color: palette(Green, 700)
+  }
+
+  &.Green-800 {
+    background-color: palette(Green, 800)
+  }
+
+  &.Green-900 {
+    background-color: palette(Green, 900)
+  }
+
+  &.Green-A100 {
+    background-color: palette(Green, A100)
+  }
+
+  &.Green-A200 {
+    background-color: palette(Green, A200)
+  }
+
+  &.Green-A400 {
+    background-color: palette(Green, A400)
+  }
+
+  &.Green-A700 {
+    background-color: palette(Green, A700)
+  }
+
+
+  &.Light-Green {
+    background-color: palette(Light Green)
+  }
+
+  &.Light-Green-50 {
+    background-color: palette(Light Green, 50)
+  }
+
+  &.Light-Green-100 {
+    background-color: palette(Light Green, 100)
+  }
+
+  &.Light-Green-200 {
+    background-color: palette(Light Green, 200)
+  }
+
+  &.Light-Green-300 {
+    background-color: palette(Light Green, 300)
+  }
+
+  &.Light-Green-400 {
+    background-color: palette(Light Green, 400)
+  }
+
+  &.Light-Green-500 {
+    background-color: palette(Light Green, 500)
+  }
+
+  &.Light-Green-600 {
+    background-color: palette(Light Green, 600)
+  }
+
+  &.Light-Green-700 {
+    background-color: palette(Light Green, 700)
+  }
+
+  &.Light-Green-800 {
+    background-color: palette(Light Green, 800)
+  }
+
+  &.Light-Green-900 {
+    background-color: palette(Light Green, 900)
+  }
+
+  &.Light-Green-A100 {
+    background-color: palette(Light Green, A100)
+  }
+
+  &.Light-Green-A200 {
+    background-color: palette(Light Green, A200)
+  }
+
+  &.Light-Green-A400 {
+    background-color: palette(Light Green, A400)
+  }
+
+  &.Light-Green-A700 {
+    background-color: palette(Light Green, A700)
+  }
+
+
+  &.Lime {
+    background-color: palette(Lime)
+  }
+
+  &.Lime-50 {
+    background-color: palette(Lime, 50)
+  }
+
+  &.Lime-100 {
+    background-color: palette(Lime, 100)
+  }
+
+  &.Lime-200 {
+    background-color: palette(Lime, 200)
+  }
+
+  &.Lime-300 {
+    background-color: palette(Lime, 300)
+  }
+
+  &.Lime-400 {
+    background-color: palette(Lime, 400)
+  }
+
+  &.Lime-500 {
+    background-color: palette(Lime, 500)
+  }
+
+  &.Lime-600 {
+    background-color: palette(Lime, 600)
+  }
+
+  &.Lime-700 {
+    background-color: palette(Lime, 700)
+  }
+
+  &.Lime-800 {
+    background-color: palette(Lime, 800)
+  }
+
+  &.Lime-900 {
+    background-color: palette(Lime, 900)
+  }
+
+  &.Lime-A100 {
+    background-color: palette(Lime, A100)
+  }
+
+  &.Lime-A200 {
+    background-color: palette(Lime, A200)
+  }
+
+  &.Lime-A400 {
+    background-color: palette(Lime, A400)
+  }
+
+  &.Lime-A700 {
+    background-color: palette(Lime, A700)
+  }
+
+
+  &.Yellow {
+    background-color: palette(Yellow)
+  }
+
+  &.Yellow-50 {
+    background-color: palette(Yellow, 50)
+  }
+
+  &.Yellow-100 {
+    background-color: palette(Yellow, 100)
+  }
+
+  &.Yellow-200 {
+    background-color: palette(Yellow, 200)
+  }
+
+  &.Yellow-300 {
+    background-color: palette(Yellow, 300)
+  }
+
+  &.Yellow-400 {
+    background-color: palette(Yellow, 400)
+  }
+
+  &.Yellow-500 {
+    background-color: palette(Yellow, 500)
+  }
+
+  &.Yellow-600 {
+    background-color: palette(Yellow, 600)
+  }
+
+  &.Yellow-700 {
+    background-color: palette(Yellow, 700)
+  }
+
+  &.Yellow-800 {
+    background-color: palette(Yellow, 800)
+  }
+
+  &.Yellow-900 {
+    background-color: palette(Yellow, 900)
+  }
+
+  &.Yellow-A100 {
+    background-color: palette(Yellow, A100)
+  }
+
+  &.Yellow-A200 {
+    background-color: palette(Yellow, A200)
+  }
+
+  &.Yellow-A400 {
+    background-color: palette(Yellow, A400)
+  }
+
+  &.Yellow-A700 {
+    background-color: palette(Yellow, A700)
+  }
+
+
+  &.Amber {
+    background-color: palette(Amber)
+  }
+
+  &.Amber-50 {
+    background-color: palette(Amber, 50)
+  }
+
+  &.Amber-100 {
+    background-color: palette(Amber, 100)
+  }
+
+  &.Amber-200 {
+    background-color: palette(Amber, 200)
+  }
+
+  &.Amber-300 {
+    background-color: palette(Amber, 300)
+  }
+
+  &.Amber-400 {
+    background-color: palette(Amber, 400)
+  }
+
+  &.Amber-500 {
+    background-color: palette(Amber, 500)
+  }
+
+  &.Amber-600 {
+    background-color: palette(Amber, 600)
+  }
+
+  &.Amber-700 {
+    background-color: palette(Amber, 700)
+  }
+
+  &.Amber-800 {
+    background-color: palette(Amber, 800)
+  }
+
+  &.Amber-900 {
+    background-color: palette(Amber, 900)
+  }
+
+  &.Amber-A100 {
+    background-color: palette(Amber, A100)
+  }
+
+  &.Amber-A200 {
+    background-color: palette(Amber, A200)
+  }
+
+  &.Amber-A400 {
+    background-color: palette(Amber, A400)
+  }
+
+  &.Amber-A700 {
+    background-color: palette(Amber, A700)
+  }
+
+
+  &.Orange {
+    background-color: palette(Orange)
+  }
+
+  &.Orange-50 {
+    background-color: palette(Orange, 50)
+  }
+
+  &.Orange-100 {
+    background-color: palette(Orange, 100)
+  }
+
+  &.Orange-200 {
+    background-color: palette(Orange, 200)
+  }
+
+  &.Orange-300 {
+    background-color: palette(Orange, 300)
+  }
+
+  &.Orange-400 {
+    background-color: palette(Orange, 400)
+  }
+
+  &.Orange-500 {
+    background-color: palette(Orange, 500)
+  }
+
+  &.Orange-600 {
+    background-color: palette(Orange, 600)
+  }
+
+  &.Orange-700 {
+    background-color: palette(Orange, 700)
+  }
+
+  &.Orange-800 {
+    background-color: palette(Orange, 800)
+  }
+
+  &.Orange-900 {
+    background-color: palette(Orange, 900)
+  }
+
+  &.Orange-A100 {
+    background-color: palette(Orange, A100)
+  }
+
+  &.Orange-A200 {
+    background-color: palette(Orange, A200)
+  }
+
+  &.Orange-A400 {
+    background-color: palette(Orange, A400)
+  }
+
+  &.Orange-A700 {
+    background-color: palette(Orange, A700)
+  }
+
+
+  &.Deep-Orange {
+    background-color: palette(Deep Orange)
+  }
+
+  &.Deep-Orange-50 {
+    background-color: palette(Deep Orange, 50)
+  }
+
+  &.Deep-Orange-100 {
+    background-color: palette(Deep Orange, 100)
+  }
+
+  &.Deep-Orange-200 {
+    background-color: palette(Deep Orange, 200)
+  }
+
+  &.Deep-Orange-300 {
+    background-color: palette(Deep Orange, 300)
+  }
+
+  &.Deep-Orange-400 {
+    background-color: palette(Deep Orange, 400)
+  }
+
+  &.Deep-Orange-500 {
+    background-color: palette(Deep Orange, 500)
+  }
+
+  &.Deep-Orange-600 {
+    background-color: palette(Deep Orange, 600)
+  }
+
+  &.Deep-Orange-700 {
+    background-color: palette(Deep Orange, 700)
+  }
+
+  &.Deep-Orange-800 {
+    background-color: palette(Deep Orange, 800)
+  }
+
+  &.Deep-Orange-900 {
+    background-color: palette(Deep Orange, 900)
+  }
+
+  &.Deep-Orange-A100 {
+    background-color: palette(Deep Orange, A100)
+  }
+
+  &.Deep-Orange-A200 {
+    background-color: palette(Deep Orange, A200)
+  }
+
+  &.Deep-Orange-A400 {
+    background-color: palette(Deep Orange, A400)
+  }
+
+  &.Deep-Orange-A700 {
+    background-color: palette(Deep Orange, A700)
+  }
+
+
+  &.Brown {
+    background-color: palette(Brown)
+  }
+
+  &.Brown-50 {
+    background-color: palette(Brown, 50)
+  }
+
+  &.Brown-100 {
+    background-color: palette(Brown, 100)
+  }
+
+  &.Brown-200 {
+    background-color: palette(Brown, 200)
+  }
+
+  &.Brown-300 {
+    background-color: palette(Brown, 300)
+  }
+
+  &.Brown-400 {
+    background-color: palette(Brown, 400)
+  }
+
+  &.Brown-500 {
+    background-color: palette(Brown, 500)
+  }
+
+  &.Brown-600 {
+    background-color: palette(Brown, 600)
+  }
+
+  &.Brown-700 {
+    background-color: palette(Brown, 700)
+  }
+
+  &.Brown-800 {
+    background-color: palette(Brown, 800)
+  }
+
+  &.Brown-900 {
+    background-color: palette(Brown, 900)
+  }
+
+
+  &.Grey {
+    background-color: palette(Grey)
+  }
+
+  &.Grey-50 {
+    background-color: palette(Grey, 50)
+  }
+
+  &.Grey-100 {
+    background-color: palette(Grey, 100)
+  }
+
+  &.Grey-200 {
+    background-color: palette(Grey, 200)
+  }
+
+  &.Grey-300 {
+    background-color: palette(Grey, 300)
+  }
+
+  &.Grey-400 {
+    background-color: palette(Grey, 400)
+  }
+
+  &.Grey-500 {
+    background-color: palette(Grey, 500)
+  }
+
+  &.Grey-600 {
+    background-color: palette(Grey, 600)
+  }
+
+  &.Grey-700 {
+    background-color: palette(Grey, 700)
+  }
+
+  &.Grey-800 {
+    background-color: palette(Grey, 800)
+  }
+
+  &.Grey-900 {
+    background-color: palette(Grey, 900)
+  }
+
+  &.Grey-1000 {
+    background-color: palette(Grey, 1000)
+  }
+
+
+  &.Blue-Grey {
+    background-color: palette(Blue Grey)
+  }
+
+  &.Blue-Grey-50 {
+    background-color: palette(Blue Grey, 50)
+  }
+
+  &.Blue-Grey-100 {
+    background-color: palette(Blue Grey, 100)
+  }
+
+  &.Blue-Grey-200 {
+    background-color: palette(Blue Grey, 200)
+  }
+
+  &.Blue-Grey-300 {
+    background-color: palette(Blue Grey, 300)
+  }
+
+  &.Blue-Grey-400 {
+    background-color: palette(Blue Grey, 400)
+  }
+
+  &.Blue-Grey-500 {
+    background-color: palette(Blue Grey, 500)
+  }
+
+  &.Blue-Grey-600 {
+    background-color: palette(Blue Grey, 600)
+  }
+
+  &.Blue-Grey-700 {
+    background-color: palette(Blue Grey, 700)
+  }
+
+  &.Blue-Grey-800 {
+    background-color: palette(Blue Grey, 800)
+  }
+
+  &.Blue-Grey-900 {
+    background-color: palette(Blue Grey, 900)
+  }
+
+
+}

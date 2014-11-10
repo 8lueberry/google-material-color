@@ -1,0 +1,15 @@
+var palette = {
+  palette: { <%
+_.forIn(colors, function(shades, color) { %>
+    '<%- color %>': { <%
+_.forIn(shades, function(hex, shade) { %>
+      '<%- shade %>': '<%- hex %>', <%
+}) %>
+    },
+<% }) %>
+  },
+
+  get: function get(color, shade) {
+    return this.palette[color][shade || '500'];
+  },
+}

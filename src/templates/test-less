@@ -1,0 +1,16 @@
+@import '<%- path %>';
+
+.less {
+<% _.forIn(colors, function(shades, color) { %>
+  &.<%- color.replace(' ', '-') %> {
+    .palette('<%- color %>');
+    background-color: @palette;
+  }
+<% _.forIn(shades, function(hex, shade) { %>
+  &.<%- color.replace(' ', '-') %>-<%- shade.replace(' ', '-') %> {
+    .palette('<%- color %>'; '<%- shade %>');
+    background-color: @palette;
+  }
+<% }) %>
+<% }) %>
+}

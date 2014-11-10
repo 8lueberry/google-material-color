@@ -1,0 +1,12 @@
+$palette = {<%
+  _.forIn(colors, function(shades, color) { %>
+  '<%- color %>': {<%
+    _.forIn(shades, function(hex, shade) { %>
+    '<%- shade %>': <%- hex %>,<%
+    }) %>
+  },<%
+})%>
+}
+
+palette(color, accent='500')
+  return $palette[color][accent]

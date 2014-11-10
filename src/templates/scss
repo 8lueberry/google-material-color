@@ -1,0 +1,15 @@
+$palette: (<%
+  _.forIn(colors, function(shades, color) { %>
+  <%- color %>: (<%
+    _.forIn(shades, function(hex, shade) { %>
+    <%- shade %>: <%- hex %>,<%
+    }) %>
+  ),<%
+})%>
+);
+
+@function palette($color, $shade: 500) {
+  $colorMap: map-get($palette, $color);
+  $result: map-get($colorMap, $shade);
+  @return $result;
+}
