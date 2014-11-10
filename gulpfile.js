@@ -14,11 +14,11 @@ var paths = {
   destination: 'dist',
   test: 'test/',
 
-  stylus: 'color.styl',
-  sass: 'color.scss',
-  less: 'color.less',
-  css: 'color.css',
-  js: 'color.js',
+  stylus: 'palette.styl',
+  sass: 'palette.scss',
+  less: 'palette.less',
+  css: 'palette.css',
+  js: 'palette.js',
 };
 
 /**
