@@ -5,11 +5,15 @@
   "authors": [
     "Dan Le Van <danlevan@gmail.com>"
   ],
-  "description": "Google material color (http://www.google.com/design/spec/style/color.html) for SASS, LESS, Stylus, CSS, JS.",
+  "description": "Google material color (http://www.google.com/design/spec/style/color.html) implementation for Sass, Less, Stylus, CSS and JS.",
   "main": "dist",
   "keywords": [
     "google",
-    "color"
+    "color",
+    "sass",
+    "less",
+    "stylus",
+    "css"
   ],
   "license": "MIT",
   "ignore": [
