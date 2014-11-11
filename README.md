@@ -33,7 +33,7 @@ Details can be found on the [google design specs website](http://www.google.com/
 > 50, 100, 200, 300, 400, 500, 600, 700, 800, 900, 1000, A100, A200, A400, A700
 
 
-## Getting started
+## Usage
 
 ### Stylus
 
@@ -43,12 +43,14 @@ Import [palette.styl](http://danlevan.github.io/google-material-color/dist/palet
 
 `example.styl`
 
-    @import 'palette'
-    ...
+```stylus
+@import 'palette'
+...
 
-    .my-div
-      background-color palette('Light Blue', '700')
-      color palette('Red') // default shade is 500
+.my-div
+  background-color palette('Light Blue', '700')
+  color palette('Red') // default shade is 500
+```
 
 > If you need direct access to the variables, you can access it like `$palette['Light Blue']['500']`
 
@@ -60,13 +62,15 @@ Import [palette.scss](http://danlevan.github.io/google-material-color/dist/palet
 
 `example.scss`
 
-    @import 'palette';
-    ...
+```scss
+@import 'palette';
+...
 
-    .my-div {
-      background-color: palette(Light Blue, 700);
-      color: palette(Red); // default shade is 500
-    }
+.my-div {
+  background-color: palette(Light Blue, 700);
+  color: palette(Red); // default shade is 500
+}
+```
 
 > If you need direct access to the variables, you can access it through a map like `$colorMap: map-get($palette, Light Blue); $color: map-get($colorMap, 700);`.
 
@@ -78,16 +82,18 @@ Import [palette.less](http://danlevan.github.io/google-material-color/dist/palet
 
 `example.scss`
 
-    @import 'palette';
-    ...
+```less
+@import 'palette';
+...
 
-    .my-div {
-      .palette('Light Blue', '700');
-      background-color: @palette;
+.my-div {
+  .palette('Light Blue', '700');
+  background-color: @palette;
 
-      .palette('Red'); // default shade is 500
-      color: @palette;
-    }
+  .palette('Red'); // default shade is 500
+  color: @palette;
+}
+```
 
 If you need access to the variables, you can access it through variablec like `@palette-Light-Blue-500`
 
@@ -102,16 +108,18 @@ The CSS provides colors for the background and text
 
 `example.html`
 
-    <link href='palette.css' rel='stylesheet' type='text/css'>
-    ...
+```html
+<link href='palette.css' rel='stylesheet' type='text/css'>
+...
 
-    <div class="palette-Light-Blue-700 bg">
-      The background is Light Blue
-    </div>
+<div class="palette-Light-Blue-700 bg">
+  The background is Light Blue
+</div>
 
-    <div class="palette-Light-Blue-700 text">
-      The text is Light Blue
-    </div>
+<div class="palette-Light-Blue-700 text">
+  The text is Light Blue
+</div>
+```
 
 ### JS
 
@@ -119,13 +127,15 @@ You can import the [palette.js](http://danlevan.github.io/google-material-color/
 
 `example.html`
 
-    <script src='../dist/palette.js'></script>
-    ...
+```javascript
+<script src='../dist/palette.js'></script>
+...
 
-    <script>
-      document.getElementById('my-div')
-        .style['background-color'] = palette.get('Light Blue', '700');
-    </script>
+<script>
+  document.getElementById('my-div')
+    .style['background-color'] = palette.get('Light Blue', '700');
+</script>
+```
 
 
 ## Issues

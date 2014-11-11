@@ -1,14 +1,19 @@
 {
   "name": "google-material-color",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "description": "Google material color (http://www.google.com/design/spec/style/color.html) implementation for Sass, Less, Stylus, CSS and JS.",
   "homepage": "https://github.com/danlevan/google-material-color",
   "authors": [
-    "Dan Le Van <danlevan@gmail.com>"
+    "Dan Le Van"
   ],
-  "description": "Google material color (http://www.google.com/design/spec/style/color.html) implementation for Sass, Less, Stylus, CSS and JS.",
   "main": "dist",
+  "moduleType": [
+    "amd",
+    "node"
+  ],
   "keywords": [
     "google",
+    "material",
     "color",
     "sass",
     "less",
@@ -22,7 +27,5 @@
     "bower_components",
     "test",
     "tests"
-  ],
-  "dependencies": {
-  }
+  ]
 }

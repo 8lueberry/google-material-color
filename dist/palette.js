@@ -1,3 +1,7 @@
+/**
+ * google-material-color v0.0.2
+ * https://github.com/danlevan/google-material-color
+ */
 (function(root, factory) {
   if (typeof define === 'function' && define.amd) {
     define([], factory);

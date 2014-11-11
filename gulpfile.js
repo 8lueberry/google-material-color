@@ -3,12 +3,16 @@ var clean = require('gulp-clean');
 var colors = require('./src/colors');
 var compass = require('gulp-compass')
 var gulp = require('gulp');
+var header = require('gulp-header');
 var less = require('gulp-less');
 var path = require('path');
+var packageConfig = require('./package.json');
 var rename = require('gulp-rename');
 var sass = require('gulp-ruby-sass');
 var stylus = require('gulp-stylus');
+var sync = require('gulp-config-sync');
 var template = require('gulp-template');
+var util = require('util');
 
 var paths = {
   destination: 'dist',
@@ -21,10 +25,16 @@ var paths = {
   js: 'palette.js',
 };
 
+var banner = '' +
+  '/**\n' +
+  ' * <%= name %> v<%= version %>\n' +
+  ' * <%= homepage %>\n' +
+  ' */\n';
+
 /**
  * Generates all the plugins
  */
-gulp.task('default', ['clean-dist', 'stylus', 'sass', 'less', 'css', 'js']);
+gulp.task('default', ['sync', 'clean-dist', 'stylus', 'sass', 'less', 'css', 'js']);
 
 /**
  * Generates the test files: compile lib to css
@@ -42,6 +52,7 @@ gulp.task('css', function() {
   return gulp.src('src/templates/css')
     .pipe(template({ colors: colors, }))
     .pipe(rename(paths.css))
+    .pipe(header(banner, packageConfig))
     .pipe(gulp.dest(paths.destination));
 });
 
@@ -50,12 +61,13 @@ gulp.task('css', function() {
 ////////////////////////////////////////////////////////////////////////////////
 
 /**
- * Generates the json files
+ * Generates the js files
  */
 gulp.task('js', function() {
   return gulp.src('src/templates/js')
     .pipe(template({ colors: colors, }))
     .pipe(rename(paths.js))
+    .pipe(header(banner, packageConfig))
     .pipe(gulp.dest(paths.destination));
 });
 
@@ -70,6 +82,7 @@ gulp.task('stylus', function() {
   return gulp.src('src/templates/stylus')
     .pipe(template({ colors: colors, }))
     .pipe(rename(paths.stylus))
+    .pipe(header(banner, packageConfig))
     .pipe(gulp.dest(paths.destination));
 });
 
@@ -98,6 +111,7 @@ gulp.task('sass', function() {
   return gulp.src('src/templates/scss')
     .pipe(template({ colors: colors, }))
     .pipe(rename(paths.sass))
+    .pipe(header(banner, packageConfig))
     .pipe(gulp.dest(paths.destination));
 });
 
@@ -107,6 +121,7 @@ gulp.task('sass', function() {
 gulp.task('test-sass', ['sass', 'test-sass-template'], function() {
   gulp.src(path.join(paths.test, '*.scss'))
     .pipe(compass({
+      css: paths.test,
       sass: paths.test,
       import_path: paths.destination,
     }))
@@ -134,6 +149,7 @@ gulp.task('less', function() {
   return gulp.src('src/templates/less')
     .pipe(template({ colors: colors, }))
     .pipe(rename(paths.less))
+    .pipe(header(banner, packageConfig))
     .pipe(gulp.dest(paths.destination));
 });
 
@@ -196,6 +212,19 @@ gulp.task('clean-test', function() {
     .pipe(clean());
 });
 
+////////////////////////////////////////////////////////////////////////////////
+// VERSIONING
+////////////////////////////////////////////////////////////////////////////////
+
+gulp.task('sync', function() {
+  return gulp.src('bower.json')
+    .pipe(sync())
+    .pipe(gulp.dest('.'));
+});
+
+////////////////////////////////////////////////////////////////////////////////
+// CLEAN
+////////////////////////////////////////////////////////////////////////////////
 
 /**
  * Watch dev
