@@ -1,5 +1,5 @@
 /**
- * google-material-color v0.0.2
+ * google-material-color v1.0.0
  * https://github.com/danlevan/google-material-color
  */
 .palette-Red.bg {
@@ -1591,12 +1591,6 @@
 .palette-Grey-900.text {
   color: #212121;
 }
-.palette-Grey-1000.bg {
-  background-color: #ffffff;
-}
-.palette-Grey-1000.text {
-  color: #ffffff;
-}
 
 .palette-Blue-Grey.bg {
   background-color: #607d8b;
@@ -1663,6 +1657,32 @@
 }
 .palette-Blue-Grey-900.text {
   color: #263238;
+}
+
+.palette-Black.bg {
+  background-color: #000000;
+}
+.palette-Black.text {
+  color: #000000;
+}
+.palette-Black-500.bg {
+  background-color: #000000;
+}
+.palette-Black-500.text {
+  color: #000000;
+}
+
+.palette-White.bg {
+  background-color: #ffffff;
+}
+.palette-White.text {
+  color: #ffffff;
+}
+.palette-White-500.bg {
+  background-color: #ffffff;
+}
+.palette-White-500.text {
+  color: #ffffff;
 }
 
 

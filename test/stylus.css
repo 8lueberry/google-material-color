@@ -784,9 +784,6 @@
 .stylus.Grey-900 {
   background-color: #212121;
 }
-.stylus.Grey-1000 {
-  background-color: #fff;
-}
 .stylus.Blue-Grey {
   background-color: #607d8b;
 }
@@ -819,4 +816,16 @@
 }
 .stylus.Blue-Grey-900 {
   background-color: #263238;
+}
+.stylus.Black {
+  background-color: #000;
+}
+.stylus.Black-500 {
+  background-color: #000;
+}
+.stylus.White {
+  background-color: #fff;
+}
+.stylus.White-500 {
+  background-color: #fff;
 }

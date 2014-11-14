@@ -1067,10 +1067,6 @@
     background-color: palette(Grey, 900);
   }
 
-  &.Grey-1000 {
-    background-color: palette(Grey, 1000);
-  }
-
 
   &.Blue-Grey {
     background-color: palette(Blue Grey);
@@ -1114,6 +1110,24 @@
 
   &.Blue-Grey-900 {
     background-color: palette(Blue Grey, 900);
+  }
+
+
+  &.Black {
+    background-color: palette(Black);
+  }
+
+  &.Black-500 {
+    background-color: palette(Black, 500);
+  }
+
+
+  &.White {
+    background-color: palette(White);
+  }
+
+  &.White-500 {
+    background-color: palette(White, 500);
   }
 
 

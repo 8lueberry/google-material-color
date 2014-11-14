@@ -1,5 +1,5 @@
 /**
- * google-material-color v0.0.2
+ * google-material-color v1.0.0
  * https://github.com/danlevan/google-material-color
  */
 (function(root, factory) {
@@ -309,7 +309,6 @@
         '700': '#616161', 
         '800': '#424242', 
         '900': '#212121', 
-        '1000': '#ffffff', 
       },
 
       'Blue Grey': { 
@@ -323,6 +322,14 @@
         '700': '#455a64', 
         '800': '#37474f', 
         '900': '#263238', 
+      },
+
+      'Black': { 
+        '500': '#000000', 
+      },
+
+      'White': { 
+        '500': '#ffffff', 
       },
 
     },
