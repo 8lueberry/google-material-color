@@ -788,9 +788,6 @@
 .less.Grey-900 {
   background-color: #212121;
 }
-.less.Grey-1000 {
-  background-color: #ffffff;
-}
 .less.Blue-Grey {
   background-color: #607d8b;
 }
@@ -823,4 +820,16 @@
 }
 .less.Blue-Grey-900 {
   background-color: #263238;
+}
+.less.Black {
+  background-color: #000000;
+}
+.less.Black-500 {
+  background-color: #000000;
+}
+.less.White {
+  background-color: #ffffff;
+}
+.less.White-500 {
+  background-color: #ffffff;
 }

@@ -788,9 +788,6 @@
 .sass.Grey-900 {
   background-color: #212121;
 }
-.sass.Grey-1000 {
-  background-color: #ffffff;
-}
 .sass.Blue-Grey {
   background-color: #607d8b;
 }
@@ -823,4 +820,16 @@
 }
 .sass.Blue-Grey-900 {
   background-color: #263238;
+}
+.sass.Black {
+  background-color: #000000;
+}
+.sass.Black-500 {
+  background-color: #000000;
+}
+.sass.White {
+  background-color: #ffffff;
+}
+.sass.White-500 {
+  background-color: #ffffff;
 }
