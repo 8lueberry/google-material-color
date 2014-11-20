@@ -12,3 +12,16 @@
 <% }) %>
 <% }) %>
 }
+
+.sass-text {
+<% _.forIn(colors, function(shades, color) { %>
+  &.<%- color.replace(' ', '-') %> {
+    color: palette(<%- color %>);
+  }
+<% _.forIn(shades, function(hex, shade) { %>
+  &.<%- color.replace(' ', '-') %>-<%- shade.replace(' ', '-') %> {
+    color: palette(<%- color %>, <%- shade %>);
+  }
+<% }) %>
+<% }) %>
+}

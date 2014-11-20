@@ -314,9 +314,23 @@ module.exports = {
 
   'Black': {
     '500': '#000000',
+
+    'Text': 'rgba(0,0,0,0.87)',
+    'Secondary Text': 'rgba(0,0,0,0.54)',
+    'Icons': 'rgba(0,0,0,0.54)',
+    'Disabled': 'rgba(0,0,0,0.26)',
+    'Hint Text': 'rgba(0,0,0,0.26)',
+    'Dividers': 'rgba(0,0,0,0.12)',
   },
 
   'White': {
     '500': '#ffffff',
+
+    'Text': '#ffffff',
+    'Secondary Text': 'rgba(255,255,255,0.7)',
+    'Icons': '#ffffff',
+    'Disabled': 'rgba(255,255,255,0.3)',
+    'Hint Text': 'rgba(255,255,255,0.3)',
+    'Dividers': 'rgba(255,255,255,0.12)',
   },
 }

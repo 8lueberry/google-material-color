@@ -33,7 +33,9 @@
 
     <h1>Test result</h1>
 
-<% _.forIn(colors, function(shades, color) { %>
+<% _.chain(colors)
+    .omit(['Black', 'White'])
+    .forIn(function(shades, color) { %>
     <h2><%- color %></h2>
 
     <table>
@@ -85,11 +87,72 @@
     </table>
 <% }) %>
 
+<h1>Test result: Text</h1>
+
+<% _.chain(colors)
+    .pick(['Black', 'White'])
+    .forIn(function(shades, color) { %>
+    <h2><%- color %></h2>
+
+    <table class="text">
+      <tr>
+        <th>stylus</th>
+        <th>sass</th>
+        <th>less</th>
+        <th>css</th>
+        <th>js</th>
+      </tr>
+
+      <tr>
+        <td class="stylus <%- color.replace(' ', '-') %> %>">
+          palette('<%- color %>')
+        </td>
+        <td class="sass <%- color.replace(' ', '-') %> %>">
+          palette(<%- color %>)
+        </td>
+        <td class="less <%- color.replace(' ', '-') %> %>">
+          .palette('<%- color %>')
+        </td>
+        <td class="palette-<%- color.replace(' ', '-') %> bg">
+          palette-<%- color.replace(' ', '-') %>
+        </td>
+        <td class="js" data-color="<%- color %>">
+          palette.get('<%- color %>')
+        </td>
+      </tr>
+
+<% _.forIn(shades, function(hex, shade) { %>
+      <tr <% if (color === 'White') { %> style="background-color: #000;" <% } %>>
+        <td class="stylus-text <%- color.replace(' ', '-') %>-<%- shade.replace(' ', '-') %>">
+          palette('<%- color %>', '<%- shade %>')
+        </td>
+        <td class="sass-text <%- color.replace(' ', '-') %>-<%- shade.replace(' ', '-') %>">
+          palette(<%- color %>, <%- shade %>)
+        </td>
+        <td class="less-text <%- color.replace(' ', '-') %>-<%- shade.replace(' ', '-') %>">
+          .palette('<%- color %>'; '<%- shade %>')
+        </td>
+        <td class="palette-<%- color.replace(' ', '-') %>-<%- shade.replace(' ', '-') %> text">
+          palette-<%- color.replace(' ', '-') %>-<%- shade.replace(' ', '-') %>
+        </td>
+        <td class="js-text" data-color="<%- color %>" data-shade="<%- shade %>">
+          palette.get('<%- color %>', '<%- shade %>')
+        </td>
+      </tr>
+<% }) %>
+    </table>
+<% }) %>
+
     <script>
       (function() {
         var tds = document.getElementsByClassName('js');
         for(var i=0; i<tds.length; i++) {
           tds[i].style['background-color'] = palette.get(tds[i].dataset.color, tds[i].dataset.shade);
+        }
+
+        var tdsText = document.getElementsByClassName('js-text');
+        for(var i=0; i<tdsText.length; i++) {
+          tdsText[i].style['color'] = palette.get(tdsText[i].dataset.color, tdsText[i].dataset.shade);
         }
       })();
     </script>

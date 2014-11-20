@@ -1,3 +1,9 @@
+# 1.1.0
+
+2014-11-20
+
+- Added text color (alpha) for black and white
+
 # 1.0.0
 
 2014-11-14

@@ -5214,9 +5214,13 @@
 
     </table>
 
+
+<h1>Test result: Text</h1>
+
+
     <h2>Black</h2>
 
-    <table>
+    <table class="text">
       <tr>
         <th>stylus</th>
         <th>sass</th>
@@ -5226,13 +5230,13 @@
       </tr>
 
       <tr>
-        <td class="stylus Black">
+        <td class="stylus Black %>">
           palette('Black')
         </td>
-        <td class="sass Black">
+        <td class="sass Black %>">
           palette(Black)
         </td>
-        <td class="less Black">
+        <td class="less Black %>">
           .palette('Black')
         </td>
         <td class="palette-Black bg">
@@ -5244,21 +5248,129 @@
       </tr>
 
 
-      <tr>
-        <td class="stylus Black-500">
+      <tr >
+        <td class="stylus-text Black-500">
           palette('Black', '500')
         </td>
-        <td class="sass Black-500">
+        <td class="sass-text Black-500">
           palette(Black, 500)
         </td>
-        <td class="less Black-500">
+        <td class="less-text Black-500">
           .palette('Black'; '500')
         </td>
-        <td class="palette-Black-500 bg">
+        <td class="palette-Black-500 text">
           palette-Black-500
         </td>
-        <td class="js" data-color="Black" data-shade="500">
+        <td class="js-text" data-color="Black" data-shade="500">
           palette.get('Black', '500')
+        </td>
+      </tr>
+
+      <tr >
+        <td class="stylus-text Black-Text">
+          palette('Black', 'Text')
+        </td>
+        <td class="sass-text Black-Text">
+          palette(Black, Text)
+        </td>
+        <td class="less-text Black-Text">
+          .palette('Black'; 'Text')
+        </td>
+        <td class="palette-Black-Text text">
+          palette-Black-Text
+        </td>
+        <td class="js-text" data-color="Black" data-shade="Text">
+          palette.get('Black', 'Text')
+        </td>
+      </tr>
+
+      <tr >
+        <td class="stylus-text Black-Secondary-Text">
+          palette('Black', 'Secondary Text')
+        </td>
+        <td class="sass-text Black-Secondary-Text">
+          palette(Black, Secondary Text)
+        </td>
+        <td class="less-text Black-Secondary-Text">
+          .palette('Black'; 'Secondary Text')
+        </td>
+        <td class="palette-Black-Secondary-Text text">
+          palette-Black-Secondary-Text
+        </td>
+        <td class="js-text" data-color="Black" data-shade="Secondary Text">
+          palette.get('Black', 'Secondary Text')
+        </td>
+      </tr>
+
+      <tr >
+        <td class="stylus-text Black-Icons">
+          palette('Black', 'Icons')
+        </td>
+        <td class="sass-text Black-Icons">
+          palette(Black, Icons)
+        </td>
+        <td class="less-text Black-Icons">
+          .palette('Black'; 'Icons')
+        </td>
+        <td class="palette-Black-Icons text">
+          palette-Black-Icons
+        </td>
+        <td class="js-text" data-color="Black" data-shade="Icons">
+          palette.get('Black', 'Icons')
+        </td>
+      </tr>
+
+      <tr >
+        <td class="stylus-text Black-Disabled">
+          palette('Black', 'Disabled')
+        </td>
+        <td class="sass-text Black-Disabled">
+          palette(Black, Disabled)
+        </td>
+        <td class="less-text Black-Disabled">
+          .palette('Black'; 'Disabled')
+        </td>
+        <td class="palette-Black-Disabled text">
+          palette-Black-Disabled
+        </td>
+        <td class="js-text" data-color="Black" data-shade="Disabled">
+          palette.get('Black', 'Disabled')
+        </td>
+      </tr>
+
+      <tr >
+        <td class="stylus-text Black-Hint-Text">
+          palette('Black', 'Hint Text')
+        </td>
+        <td class="sass-text Black-Hint-Text">
+          palette(Black, Hint Text)
+        </td>
+        <td class="less-text Black-Hint-Text">
+          .palette('Black'; 'Hint Text')
+        </td>
+        <td class="palette-Black-Hint-Text text">
+          palette-Black-Hint-Text
+        </td>
+        <td class="js-text" data-color="Black" data-shade="Hint Text">
+          palette.get('Black', 'Hint Text')
+        </td>
+      </tr>
+
+      <tr >
+        <td class="stylus-text Black-Dividers">
+          palette('Black', 'Dividers')
+        </td>
+        <td class="sass-text Black-Dividers">
+          palette(Black, Dividers)
+        </td>
+        <td class="less-text Black-Dividers">
+          .palette('Black'; 'Dividers')
+        </td>
+        <td class="palette-Black-Dividers text">
+          palette-Black-Dividers
+        </td>
+        <td class="js-text" data-color="Black" data-shade="Dividers">
+          palette.get('Black', 'Dividers')
         </td>
       </tr>
 
@@ -5266,7 +5378,7 @@
 
     <h2>White</h2>
 
-    <table>
+    <table class="text">
       <tr>
         <th>stylus</th>
         <th>sass</th>
@@ -5276,13 +5388,13 @@
       </tr>
 
       <tr>
-        <td class="stylus White">
+        <td class="stylus White %>">
           palette('White')
         </td>
-        <td class="sass White">
+        <td class="sass White %>">
           palette(White)
         </td>
-        <td class="less White">
+        <td class="less White %>">
           .palette('White')
         </td>
         <td class="palette-White bg">
@@ -5294,21 +5406,129 @@
       </tr>
 
 
-      <tr>
-        <td class="stylus White-500">
+      <tr  style="background-color: #000;" >
+        <td class="stylus-text White-500">
           palette('White', '500')
         </td>
-        <td class="sass White-500">
+        <td class="sass-text White-500">
           palette(White, 500)
         </td>
-        <td class="less White-500">
+        <td class="less-text White-500">
           .palette('White'; '500')
         </td>
-        <td class="palette-White-500 bg">
+        <td class="palette-White-500 text">
           palette-White-500
         </td>
-        <td class="js" data-color="White" data-shade="500">
+        <td class="js-text" data-color="White" data-shade="500">
           palette.get('White', '500')
+        </td>
+      </tr>
+
+      <tr  style="background-color: #000;" >
+        <td class="stylus-text White-Text">
+          palette('White', 'Text')
+        </td>
+        <td class="sass-text White-Text">
+          palette(White, Text)
+        </td>
+        <td class="less-text White-Text">
+          .palette('White'; 'Text')
+        </td>
+        <td class="palette-White-Text text">
+          palette-White-Text
+        </td>
+        <td class="js-text" data-color="White" data-shade="Text">
+          palette.get('White', 'Text')
+        </td>
+      </tr>
+
+      <tr  style="background-color: #000;" >
+        <td class="stylus-text White-Secondary-Text">
+          palette('White', 'Secondary Text')
+        </td>
+        <td class="sass-text White-Secondary-Text">
+          palette(White, Secondary Text)
+        </td>
+        <td class="less-text White-Secondary-Text">
+          .palette('White'; 'Secondary Text')
+        </td>
+        <td class="palette-White-Secondary-Text text">
+          palette-White-Secondary-Text
+        </td>
+        <td class="js-text" data-color="White" data-shade="Secondary Text">
+          palette.get('White', 'Secondary Text')
+        </td>
+      </tr>
+
+      <tr  style="background-color: #000;" >
+        <td class="stylus-text White-Icons">
+          palette('White', 'Icons')
+        </td>
+        <td class="sass-text White-Icons">
+          palette(White, Icons)
+        </td>
+        <td class="less-text White-Icons">
+          .palette('White'; 'Icons')
+        </td>
+        <td class="palette-White-Icons text">
+          palette-White-Icons
+        </td>
+        <td class="js-text" data-color="White" data-shade="Icons">
+          palette.get('White', 'Icons')
+        </td>
+      </tr>
+
+      <tr  style="background-color: #000;" >
+        <td class="stylus-text White-Disabled">
+          palette('White', 'Disabled')
+        </td>
+        <td class="sass-text White-Disabled">
+          palette(White, Disabled)
+        </td>
+        <td class="less-text White-Disabled">
+          .palette('White'; 'Disabled')
+        </td>
+        <td class="palette-White-Disabled text">
+          palette-White-Disabled
+        </td>
+        <td class="js-text" data-color="White" data-shade="Disabled">
+          palette.get('White', 'Disabled')
+        </td>
+      </tr>
+
+      <tr  style="background-color: #000;" >
+        <td class="stylus-text White-Hint-Text">
+          palette('White', 'Hint Text')
+        </td>
+        <td class="sass-text White-Hint-Text">
+          palette(White, Hint Text)
+        </td>
+        <td class="less-text White-Hint-Text">
+          .palette('White'; 'Hint Text')
+        </td>
+        <td class="palette-White-Hint-Text text">
+          palette-White-Hint-Text
+        </td>
+        <td class="js-text" data-color="White" data-shade="Hint Text">
+          palette.get('White', 'Hint Text')
+        </td>
+      </tr>
+
+      <tr  style="background-color: #000;" >
+        <td class="stylus-text White-Dividers">
+          palette('White', 'Dividers')
+        </td>
+        <td class="sass-text White-Dividers">
+          palette(White, Dividers)
+        </td>
+        <td class="less-text White-Dividers">
+          .palette('White'; 'Dividers')
+        </td>
+        <td class="palette-White-Dividers text">
+          palette-White-Dividers
+        </td>
+        <td class="js-text" data-color="White" data-shade="Dividers">
+          palette.get('White', 'Dividers')
         </td>
       </tr>
 
@@ -5320,6 +5540,11 @@
         var tds = document.getElementsByClassName('js');
         for(var i=0; i<tds.length; i++) {
           tds[i].style['background-color'] = palette.get(tds[i].dataset.color, tds[i].dataset.shade);
+        }
+
+        var tdsText = document.getElementsByClassName('js-text');
+        for(var i=0; i<tdsText.length; i++) {
+          tdsText[i].style['color'] = palette.get(tdsText[i].dataset.color, tdsText[i].dataset.shade);
         }
       })();
     </script>

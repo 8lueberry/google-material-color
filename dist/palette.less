@@ -257,7 +257,19 @@
 @palette-Blue-Grey-800: #37474f;
 @palette-Blue-Grey-900: #263238;
 @palette-Black-500: #000000;
+@palette-Black-Text: rgba(0,0,0,0.87);
+@palette-Black-Secondary-Text: rgba(0,0,0,0.54);
+@palette-Black-Icons: rgba(0,0,0,0.54);
+@palette-Black-Disabled: rgba(0,0,0,0.26);
+@palette-Black-Hint-Text: rgba(0,0,0,0.26);
+@palette-Black-Dividers: rgba(0,0,0,0.12);
 @palette-White-500: #ffffff;
+@palette-White-Text: #ffffff;
+@palette-White-Secondary-Text: rgba(255,255,255,0.7);
+@palette-White-Icons: #ffffff;
+@palette-White-Disabled: rgba(255,255,255,0.3);
+@palette-White-Hint-Text: rgba(255,255,255,0.3);
+@palette-White-Dividers: rgba(255,255,255,0.12);
 
 .palette(@color; @shade: '500') {
   @colorVar: %('palette-%s-%s', replace(@color, ' ', '-'), replace(@shade, ' ', '-'));

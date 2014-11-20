@@ -14,3 +14,18 @@
 <% }) %>
 <% }) %>
 }
+
+.less-text {
+<% _.forIn(colors, function(shades, color) { %>
+  &.<%- color.replace(' ', '-') %> {
+    .palette('<%- color %>');
+    color: @palette;
+  }
+<% _.forIn(shades, function(hex, shade) { %>
+  &.<%- color.replace(' ', '-') %>-<%- shade.replace(' ', '-') %> {
+    .palette('<%- color %>'; '<%- shade %>');
+    color: @palette;
+  }
+<% }) %>
+<% }) %>
+}
