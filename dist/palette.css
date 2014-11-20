@@ -1671,6 +1671,42 @@
 .palette-Black-500.text {
   color: #000000;
 }
+.palette-Black-Text.bg {
+  background-color: rgba(0,0,0,0.87);
+}
+.palette-Black-Text.text {
+  color: rgba(0,0,0,0.87);
+}
+.palette-Black-Secondary-Text.bg {
+  background-color: rgba(0,0,0,0.54);
+}
+.palette-Black-Secondary-Text.text {
+  color: rgba(0,0,0,0.54);
+}
+.palette-Black-Icons.bg {
+  background-color: rgba(0,0,0,0.54);
+}
+.palette-Black-Icons.text {
+  color: rgba(0,0,0,0.54);
+}
+.palette-Black-Disabled.bg {
+  background-color: rgba(0,0,0,0.26);
+}
+.palette-Black-Disabled.text {
+  color: rgba(0,0,0,0.26);
+}
+.palette-Black-Hint-Text.bg {
+  background-color: rgba(0,0,0,0.26);
+}
+.palette-Black-Hint-Text.text {
+  color: rgba(0,0,0,0.26);
+}
+.palette-Black-Dividers.bg {
+  background-color: rgba(0,0,0,0.12);
+}
+.palette-Black-Dividers.text {
+  color: rgba(0,0,0,0.12);
+}
 
 .palette-White.bg {
   background-color: #ffffff;
@@ -1683,6 +1719,42 @@
 }
 .palette-White-500.text {
   color: #ffffff;
+}
+.palette-White-Text.bg {
+  background-color: #ffffff;
+}
+.palette-White-Text.text {
+  color: #ffffff;
+}
+.palette-White-Secondary-Text.bg {
+  background-color: rgba(255,255,255,0.7);
+}
+.palette-White-Secondary-Text.text {
+  color: rgba(255,255,255,0.7);
+}
+.palette-White-Icons.bg {
+  background-color: #ffffff;
+}
+.palette-White-Icons.text {
+  color: #ffffff;
+}
+.palette-White-Disabled.bg {
+  background-color: rgba(255,255,255,0.3);
+}
+.palette-White-Disabled.text {
+  color: rgba(255,255,255,0.3);
+}
+.palette-White-Hint-Text.bg {
+  background-color: rgba(255,255,255,0.3);
+}
+.palette-White-Hint-Text.text {
+  color: rgba(255,255,255,0.3);
+}
+.palette-White-Dividers.bg {
+  background-color: rgba(255,255,255,0.12);
+}
+.palette-White-Dividers.text {
+  color: rgba(255,255,255,0.12);
 }
 
 
