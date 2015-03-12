@@ -30,7 +30,7 @@ _.forIn(shades, function(hex, shade) { %>
       
       if (_.isUndefined(shade)) {
         shades = _.keys(color);
-        shade = shades[_.random(0, shades.length - 1);
+        shade = shades[_.random(0, shades.length - 1)];
       }
       
       return this.get(color, shade);
