@@ -2,7 +2,7 @@
   "name": "google-material-color",
   "version": "1.2.0",
   "description": "Google material color (http://www.google.com/design/spec/style/color.html) implementation for Sass, Less, Stylus, CSS and JS.",
-  "main": "src/index.js",
+  "main": "dist/palette.js",
   "scripts": {
     "test": "test"
   },
