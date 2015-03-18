@@ -1,3 +1,10 @@
+# 1.2.1
+
+2015-03-18
+
+- Add random function in the js version
+
+
 # 1.2.0
 
 2014-11-21
