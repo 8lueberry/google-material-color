@@ -1,5 +1,5 @@
 /**
- * google-material-color v1.1.0
+ * google-material-color v1.2.1
  * https://github.com/danlevan/google-material-color
  */
 (function(root, factory) {
@@ -346,8 +346,22 @@
 
     },
 
-    get: function get(color, shade) {
+    get: function (color, shade) {
       return this.palette[color][shade || '500'];
     },
+    
+    random: function(shade) {
+      var colors, color, shades;
+    
+      colors = _.keys(this.palette);
+      color = colors[_.random(0, colors.length - 1)];
+      
+      if (_.isUndefined(shade)) {
+        shades = _.keys(color);
+        shade = shades[_.random(0, shades.length - 1)];
+      }
+      
+      return this.get(color, shade);
+    }
   };
 });

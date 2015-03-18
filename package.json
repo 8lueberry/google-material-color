@@ -1,6 +1,6 @@
 {
   "name": "google-material-color",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Google material color (http://www.google.com/design/spec/style/color.html) implementation for Sass, Less, Stylus, CSS and JS.",
   "main": "dist/palette.js",
   "scripts": {
@@ -34,6 +34,7 @@
     "gulp-header": "^1.2.2",
     "gulp-less": "^1.3.6",
     "gulp-rename": "^1.2.0",
+    "gulp-ruby-sass": "^1.0.0-alpha.3",
     "gulp-stylus": "^1.3.4",
     "gulp-template": "^1.1.1"
   },
