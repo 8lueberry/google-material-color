@@ -4,7 +4,8 @@
   "description": "Google material color (http://www.google.com/design/spec/style/color.html) implementation for Sass, Less, Stylus, CSS and JS.",
   "main": "dist/palette.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "prepublish": "gulp default"
   },
   "repository": {
     "type": "git",
