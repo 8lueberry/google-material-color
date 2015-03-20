@@ -1,6 +1,6 @@
-# 1.2.1
+# 1.2.2
 
-2015-03-18
+2015-03-20
 
 - Add random function in the js version
 
