@@ -1,6 +1,6 @@
 {
   "name": "google-material-color",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "Google material color (http://www.google.com/design/spec/style/color.html) implementation for Sass, Less, Stylus, CSS and JS.",
   "homepage": "https://github.com/danlevan/google-material-color",
   "authors": [
