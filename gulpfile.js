@@ -22,6 +22,7 @@ var paths = {
   sass: 'palette.scss',
   less: 'palette.less',
   css: 'palette.css',
+  cssVar: 'palette.var.css',
   js: 'palette.js',
 };
 
@@ -34,12 +35,12 @@ var banner = '' +
 /**
  * Generates all the plugins
  */
-gulp.task('default', ['sync', 'clean-dist', 'stylus', 'sass', 'less', 'css', 'js']);
+gulp.task('default', ['sync', 'clean-dist', 'stylus', 'sass', 'less', 'css', 'css-var', 'js']);
 
 /**
  * Generates the test files: compile lib to css
  */
-gulp.task('test', ['clean-test', 'test-page', 'test-stylus', 'test-sass', 'test-less', 'css', 'js']);
+gulp.task('test', ['clean-test', 'test-page', 'test-stylus', 'test-sass', 'test-less', 'css', 'css-var', 'js']);
 
 ////////////////////////////////////////////////////////////////////////////////
 // CSS
@@ -48,10 +49,21 @@ gulp.task('test', ['clean-test', 'test-page', 'test-stylus', 'test-sass', 'test-
 /**
  * Generates the css files
  */
-gulp.task('css', function() {
+gulp.task('css', ['clean-dist', 'clean-test'], function() {
   return gulp.src('src/templates/css')
     .pipe(template({ colors: colors, }))
     .pipe(rename(paths.css))
+    .pipe(header(banner, packageConfig))
+    .pipe(gulp.dest(paths.destination));
+});
+
+/**
+ * Generates the css-var files
+ */
+gulp.task('css-var', ['clean-dist', 'clean-test'], function() {
+  return gulp.src('src/templates/css-var')
+    .pipe(template({ colors: colors, }))
+    .pipe(rename(paths.cssVar))
     .pipe(header(banner, packageConfig))
     .pipe(gulp.dest(paths.destination));
 });
@@ -63,7 +75,7 @@ gulp.task('css', function() {
 /**
  * Generates the js files
  */
-gulp.task('js', function() {
+gulp.task('js', ['clean-dist', 'clean-test'], function() {
   return gulp.src('src/templates/js')
     .pipe(template({ colors: colors, }))
     .pipe(rename(paths.js))
@@ -78,7 +90,7 @@ gulp.task('js', function() {
 /**
  * Generates the stylus files
  */
-gulp.task('stylus', function() {
+gulp.task('stylus', ['clean-dist', 'clean-test'], function() {
   return gulp.src('src/templates/stylus')
     .pipe(template({ colors: colors, }))
     .pipe(rename(paths.stylus))
@@ -107,7 +119,7 @@ gulp.task('test-stylus', ['stylus'], function() {
 /**
  * Generates the sass files
  */
-gulp.task('sass', function() {
+gulp.task('sass', ['clean-dist', 'clean-test'], function() {
   return gulp.src('src/templates/scss')
     .pipe(template({ colors: colors, }))
     .pipe(rename(paths.sass))
@@ -145,7 +157,7 @@ gulp.task('test-sass-template', function() {
 /**
  * Generates the less files
  */
-gulp.task('less', function() {
+gulp.task('less', ['clean-dist', 'clean-test'], function() {
   return gulp.src('src/templates/less')
     .pipe(template({ colors: colors, }))
     .pipe(rename(paths.less))
@@ -179,7 +191,7 @@ gulp.task('test-less-template', function() {
 /**
  * Test page html
  */
-gulp.task('test-page', function() {
+gulp.task('test-page', ['clean-dist', 'clean-test'], function() {
   gulp.src('src/templates/test-page')
     .pipe(template({
       path: {
@@ -200,7 +212,7 @@ gulp.task('test-page', function() {
  * Cleans the distribution folder
  */
 gulp.task('clean-dist', function() {
-  return gulp.src(path.join(paths.destination, '*'), {read: false})
+  return gulp.src(path.join(paths.destination, '**'), {read: false})
     .pipe(clean());
 });
 
@@ -208,7 +220,7 @@ gulp.task('clean-dist', function() {
  * Cleans the test
  */
 gulp.task('clean-test', function() {
-  return gulp.src(path.join(paths.test, '*'), {read: false})
+  return gulp.src(path.join(paths.test, '**'), {read: false})
     .pipe(clean());
 });
 

@@ -17,6 +17,7 @@ See the [demo](http://danlevan.github.io/google-material-color/test/) generated 
   * Less:  [palette.less](http://danlevan.github.io/google-material-color/dist/palette.less)
   * Sass (SCSS) 3.3+:  [palette.scss](http://danlevan.github.io/google-material-color/dist/palette.scss)
   * CSS:  [palette.css](http://danlevan.github.io/google-material-color/dist/palette.css)
+  * CSS variable:  [palette.css](http://danlevan.github.io/google-material-color/dist/palette-var.css)
   * JS:  [palette.js](http://danlevan.github.io/google-material-color/dist/palette.js) supports (AMD, node, browser)
 * NPM: `$ npm install google-material-color --save`
 * Bower: `$ bower install google-material-color --save`
@@ -123,6 +124,19 @@ The CSS provides colors for the background and text
 <div class="palette-Light-Blue-700 text">
   The text is Light Blue
 </div>
+```
+
+### CSS variable
+
+If you're using cssnext, this project also includes a variable files for css. Read more here [Custom properties](http://cssnext.io/features/#custom-properties-var).
+
+Include [palette.css](http://danlevan.github.io/google-material-color/dist/palette-var.css) in your html.
+```css
+:root {
+  --Red-50: #FFEBEE
+  --Red-100: #FFCDD2
+  --Red-200: #EF9A9A
+  ...
 ```
 
 ### JS
