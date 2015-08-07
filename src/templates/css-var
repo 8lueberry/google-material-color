@@ -1,7 +1,7 @@
 :root { <%
   _.forIn(colors, function(shades, color) { %><%
   _.forIn(shades, function(hex, shade) { %>
-  --palette-<%- color.replace(' ', '-') %>-<%- shade.replace(' ', '-') %>: <%- hex %><%
+  --palette-<%- color.replace(' ', '-') %>-<%- shade.replace(' ', '-') %>: <%- hex %>;<%
   }) %>
 <% })
 %>}
