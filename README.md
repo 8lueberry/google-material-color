@@ -86,7 +86,7 @@ Import [palette.less](http://danlevan.github.io/google-material-color/dist/palet
 @import 'palette';
 ...
 
-.issue-7 {
+.my-div {
   .palette('Light Blue', '700');
   background-color: @palette;
 

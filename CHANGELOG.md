@@ -1,3 +1,9 @@
+# 1.2.3
+
+2015-08-07
+
+- Fix documentation for less (issue #7)
+
 # 1.2.2
 
 2015-03-20
