@@ -86,16 +86,20 @@ Import [palette.less](http://danlevan.github.io/google-material-color/dist/palet
 @import 'palette';
 ...
 
-.my-div {
+.issue-7 {
   .palette('Light Blue', '700');
   background-color: @palette;
 
-  .palette('Red'); // default shade is 500
-  color: @palette;
+  // get @palette in its own scope otherwise @palette will be overwritten
+  &{
+    .palette('Red'); // default shade is 500
+    color: @palette;
+  }
 }
+
 ```
 
-If you need access to the variables, you can access it through variablec like `@palette-Light-Blue-500`
+If you need access to the variables, you can access it through variable like `@palette-Light-Blue-500`
 
 
 ### CSS
