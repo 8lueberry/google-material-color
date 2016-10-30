@@ -1110,7 +1110,7 @@
   background-color: rgba(0, 0, 0, 0.87);
   color: #ffffff;
 }
-.less.Black-Secondary-text {
+.less.Black-Secondary {
   background-color: rgba(0, 0, 0, 0.54);
   color: #ffffff;
 }
@@ -1122,7 +1122,7 @@
   background-color: rgba(0, 0, 0, 0.38);
   color: #ffffff;
 }
-.less.Black-Hint-text {
+.less.Black-Hint {
   background-color: rgba(0, 0, 0, 0.38);
   color: #ffffff;
 }
@@ -1146,7 +1146,7 @@
   background-color: #ffffff;
   color: rgba(0, 0, 0, 0.87);
 }
-.less.White-Secondary-text {
+.less.White-Secondary {
   background-color: rgba(255, 255, 255, 0.7);
   color: rgba(0, 0, 0, 0.87);
 }
@@ -1158,7 +1158,7 @@
   background-color: rgba(255, 255, 255, 0.5);
   color: rgba(0, 0, 0, 0.87);
 }
-.less.White-Hint-text {
+.less.White-Hint {
   background-color: rgba(255, 255, 255, 0.5);
   color: rgba(0, 0, 0, 0.87);
 }
@@ -1997,7 +1997,7 @@
 .less-text.Black-Primary {
   color: rgba(0, 0, 0, 0.87);
 }
-.less-text.Black-Secondary-text {
+.less-text.Black-Secondary {
   color: rgba(0, 0, 0, 0.54);
 }
 .less-text.Black-Icons {
@@ -2006,7 +2006,7 @@
 .less-text.Black-Disabled {
   color: rgba(0, 0, 0, 0.38);
 }
-.less-text.Black-Hint-text {
+.less-text.Black-Hint {
   color: rgba(0, 0, 0, 0.38);
 }
 .less-text.Black-Dividers {
@@ -2024,7 +2024,7 @@
 .less-text.White-Primary {
   color: #ffffff;
 }
-.less-text.White-Secondary-text {
+.less-text.White-Secondary {
   color: rgba(255, 255, 255, 0.7);
 }
 .less-text.White-Icons {
@@ -2033,7 +2033,7 @@
 .less-text.White-Disabled {
   color: rgba(255, 255, 255, 0.5);
 }
-.less-text.White-Hint-text {
+.less-text.White-Hint {
   color: rgba(255, 255, 255, 0.5);
 }
 .less-text.White-Dividers {

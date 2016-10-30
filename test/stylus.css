@@ -1106,7 +1106,7 @@
   background-color: rgba(0,0,0,0.87);
   color: #fff;
 }
-.stylus.Black-Secondary-text {
+.stylus.Black-Secondary {
   background-color: rgba(0,0,0,0.54);
   color: #fff;
 }
@@ -1118,7 +1118,7 @@
   background-color: rgba(0,0,0,0.38);
   color: #fff;
 }
-.stylus.Black-Hint-text {
+.stylus.Black-Hint {
   background-color: rgba(0,0,0,0.38);
   color: #fff;
 }
@@ -1142,7 +1142,7 @@
   background-color: #fff;
   color: rgba(0,0,0,0.87);
 }
-.stylus.White-Secondary-text {
+.stylus.White-Secondary {
   background-color: rgba(255,255,255,0.7);
   color: rgba(0,0,0,0.87);
 }
@@ -1154,7 +1154,7 @@
   background-color: rgba(255,255,255,0.5);
   color: rgba(0,0,0,0.87);
 }
-.stylus.White-Hint-text {
+.stylus.White-Hint {
   background-color: rgba(255,255,255,0.5);
   color: rgba(0,0,0,0.87);
 }
@@ -1993,7 +1993,7 @@
 .stylus-text.Black-Primary {
   color: rgba(0,0,0,0.87);
 }
-.stylus-text.Black-Secondary-text {
+.stylus-text.Black-Secondary {
   color: rgba(0,0,0,0.54);
 }
 .stylus-text.Black-Icons {
@@ -2002,7 +2002,7 @@
 .stylus-text.Black-Disabled {
   color: rgba(0,0,0,0.38);
 }
-.stylus-text.Black-Hint-text {
+.stylus-text.Black-Hint {
   color: rgba(0,0,0,0.38);
 }
 .stylus-text.Black-Dividers {
@@ -2020,7 +2020,7 @@
 .stylus-text.White-Primary {
   color: #fff;
 }
-.stylus-text.White-Secondary-text {
+.stylus-text.White-Secondary {
   color: rgba(255,255,255,0.7);
 }
 .stylus-text.White-Icons {
@@ -2029,7 +2029,7 @@
 .stylus-text.White-Disabled {
   color: rgba(255,255,255,0.5);
 }
-.stylus-text.White-Hint-text {
+.stylus-text.White-Hint {
   color: rgba(255,255,255,0.5);
 }
 .stylus-text.White-Dividers {

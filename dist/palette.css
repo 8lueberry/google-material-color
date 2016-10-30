@@ -13,7 +13,7 @@
   background-color: #F44336;
   color: #ffffff;
 }
-.palette-Red-Secondary-text.bg {
+.palette-Red-Secondary.bg {
   background-color: #F44336;
   color: rgba(255,255,255,0.7);
 }
@@ -25,7 +25,7 @@
   background-color: #F44336;
   color: rgba(255,255,255,0.5);
 }
-.palette-Red-Hint-text.bg {
+.palette-Red-Hint.bg {
   background-color: #F44336;
   color: rgba(255,255,255,0.5);
 }
@@ -45,7 +45,7 @@
   background-color: #F44336;
   color: #ffffff;
 }
-.palette-Red-50-Secondary-text.bg {
+.palette-Red-50-Secondary.bg {
   background-color: #F44336;
   color: rgba(255,255,255,0.7);
 }
@@ -57,7 +57,7 @@
   background-color: #F44336;
   color: rgba(255,255,255,0.5);
 }
-.palette-Red-50-Hint-text.bg {
+.palette-Red-50-Hint.bg {
   background-color: #F44336;
   color: rgba(255,255,255,0.5);
 }
@@ -77,7 +77,7 @@
   background-color: #F44336;
   color: #ffffff;
 }
-.palette-Red-100-Secondary-text.bg {
+.palette-Red-100-Secondary.bg {
   background-color: #F44336;
   color: rgba(255,255,255,0.7);
 }
@@ -89,7 +89,7 @@
   background-color: #F44336;
   color: rgba(255,255,255,0.5);
 }
-.palette-Red-100-Hint-text.bg {
+.palette-Red-100-Hint.bg {
   background-color: #F44336;
   color: rgba(255,255,255,0.5);
 }
@@ -109,7 +109,7 @@
   background-color: #F44336;
   color: #ffffff;
 }
-.palette-Red-200-Secondary-text.bg {
+.palette-Red-200-Secondary.bg {
   background-color: #F44336;
   color: rgba(255,255,255,0.7);
 }
@@ -121,7 +121,7 @@
   background-color: #F44336;
   color: rgba(255,255,255,0.5);
 }
-.palette-Red-200-Hint-text.bg {
+.palette-Red-200-Hint.bg {
   background-color: #F44336;
   color: rgba(255,255,255,0.5);
 }
@@ -141,7 +141,7 @@
   background-color: #F44336;
   color: #ffffff;
 }
-.palette-Red-300-Secondary-text.bg {
+.palette-Red-300-Secondary.bg {
   background-color: #F44336;
   color: rgba(255,255,255,0.7);
 }
@@ -153,7 +153,7 @@
   background-color: #F44336;
   color: rgba(255,255,255,0.5);
 }
-.palette-Red-300-Hint-text.bg {
+.palette-Red-300-Hint.bg {
   background-color: #F44336;
   color: rgba(255,255,255,0.5);
 }
@@ -173,7 +173,7 @@
   background-color: #F44336;
   color: #ffffff;
 }
-.palette-Red-400-Secondary-text.bg {
+.palette-Red-400-Secondary.bg {
   background-color: #F44336;
   color: rgba(255,255,255,0.7);
 }
@@ -185,7 +185,7 @@
   background-color: #F44336;
   color: rgba(255,255,255,0.5);
 }
-.palette-Red-400-Hint-text.bg {
+.palette-Red-400-Hint.bg {
   background-color: #F44336;
   color: rgba(255,255,255,0.5);
 }
@@ -205,7 +205,7 @@
   background-color: #F44336;
   color: #ffffff;
 }
-.palette-Red-500-Secondary-text.bg {
+.palette-Red-500-Secondary.bg {
   background-color: #F44336;
   color: rgba(255,255,255,0.7);
 }
@@ -217,7 +217,7 @@
   background-color: #F44336;
   color: rgba(255,255,255,0.5);
 }
-.palette-Red-500-Hint-text.bg {
+.palette-Red-500-Hint.bg {
   background-color: #F44336;
   color: rgba(255,255,255,0.5);
 }
@@ -237,7 +237,7 @@
   background-color: #F44336;
   color: #ffffff;
 }
-.palette-Red-600-Secondary-text.bg {
+.palette-Red-600-Secondary.bg {
   background-color: #F44336;
   color: rgba(255,255,255,0.7);
 }
@@ -249,7 +249,7 @@
   background-color: #F44336;
   color: rgba(255,255,255,0.5);
 }
-.palette-Red-600-Hint-text.bg {
+.palette-Red-600-Hint.bg {
   background-color: #F44336;
   color: rgba(255,255,255,0.5);
 }
@@ -269,7 +269,7 @@
   background-color: #F44336;
   color: #ffffff;
 }
-.palette-Red-700-Secondary-text.bg {
+.palette-Red-700-Secondary.bg {
   background-color: #F44336;
   color: rgba(255,255,255,0.7);
 }
@@ -281,7 +281,7 @@
   background-color: #F44336;
   color: rgba(255,255,255,0.5);
 }
-.palette-Red-700-Hint-text.bg {
+.palette-Red-700-Hint.bg {
   background-color: #F44336;
   color: rgba(255,255,255,0.5);
 }
@@ -301,7 +301,7 @@
   background-color: #F44336;
   color: #ffffff;
 }
-.palette-Red-800-Secondary-text.bg {
+.palette-Red-800-Secondary.bg {
   background-color: #F44336;
   color: rgba(255,255,255,0.7);
 }
@@ -313,7 +313,7 @@
   background-color: #F44336;
   color: rgba(255,255,255,0.5);
 }
-.palette-Red-800-Hint-text.bg {
+.palette-Red-800-Hint.bg {
   background-color: #F44336;
   color: rgba(255,255,255,0.5);
 }
@@ -333,7 +333,7 @@
   background-color: #F44336;
   color: #ffffff;
 }
-.palette-Red-900-Secondary-text.bg {
+.palette-Red-900-Secondary.bg {
   background-color: #F44336;
   color: rgba(255,255,255,0.7);
 }
@@ -345,7 +345,7 @@
   background-color: #F44336;
   color: rgba(255,255,255,0.5);
 }
-.palette-Red-900-Hint-text.bg {
+.palette-Red-900-Hint.bg {
   background-color: #F44336;
   color: rgba(255,255,255,0.5);
 }
@@ -365,7 +365,7 @@
   background-color: #F44336;
   color: #ffffff;
 }
-.palette-Red-A100-Secondary-text.bg {
+.palette-Red-A100-Secondary.bg {
   background-color: #F44336;
   color: rgba(255,255,255,0.7);
 }
@@ -377,7 +377,7 @@
   background-color: #F44336;
   color: rgba(255,255,255,0.5);
 }
-.palette-Red-A100-Hint-text.bg {
+.palette-Red-A100-Hint.bg {
   background-color: #F44336;
   color: rgba(255,255,255,0.5);
 }
@@ -397,7 +397,7 @@
   background-color: #F44336;
   color: #ffffff;
 }
-.palette-Red-A200-Secondary-text.bg {
+.palette-Red-A200-Secondary.bg {
   background-color: #F44336;
   color: rgba(255,255,255,0.7);
 }
@@ -409,7 +409,7 @@
   background-color: #F44336;
   color: rgba(255,255,255,0.5);
 }
-.palette-Red-A200-Hint-text.bg {
+.palette-Red-A200-Hint.bg {
   background-color: #F44336;
   color: rgba(255,255,255,0.5);
 }
@@ -429,7 +429,7 @@
   background-color: #F44336;
   color: #ffffff;
 }
-.palette-Red-A400-Secondary-text.bg {
+.palette-Red-A400-Secondary.bg {
   background-color: #F44336;
   color: rgba(255,255,255,0.7);
 }
@@ -441,7 +441,7 @@
   background-color: #F44336;
   color: rgba(255,255,255,0.5);
 }
-.palette-Red-A400-Hint-text.bg {
+.palette-Red-A400-Hint.bg {
   background-color: #F44336;
   color: rgba(255,255,255,0.5);
 }
@@ -461,7 +461,7 @@
   background-color: #F44336;
   color: #ffffff;
 }
-.palette-Red-A700-Secondary-text.bg {
+.palette-Red-A700-Secondary.bg {
   background-color: #F44336;
   color: rgba(255,255,255,0.7);
 }
@@ -473,7 +473,7 @@
   background-color: #F44336;
   color: rgba(255,255,255,0.5);
 }
-.palette-Red-A700-Hint-text.bg {
+.palette-Red-A700-Hint.bg {
   background-color: #F44336;
   color: rgba(255,255,255,0.5);
 }
@@ -494,7 +494,7 @@
   background-color: #E91E63;
   color: #ffffff;
 }
-.palette-Pink-Secondary-text.bg {
+.palette-Pink-Secondary.bg {
   background-color: #E91E63;
   color: rgba(255,255,255,0.7);
 }
@@ -506,7 +506,7 @@
   background-color: #E91E63;
   color: rgba(255,255,255,0.5);
 }
-.palette-Pink-Hint-text.bg {
+.palette-Pink-Hint.bg {
   background-color: #E91E63;
   color: rgba(255,255,255,0.5);
 }
@@ -526,7 +526,7 @@
   background-color: #E91E63;
   color: #ffffff;
 }
-.palette-Pink-50-Secondary-text.bg {
+.palette-Pink-50-Secondary.bg {
   background-color: #E91E63;
   color: rgba(255,255,255,0.7);
 }
@@ -538,7 +538,7 @@
   background-color: #E91E63;
   color: rgba(255,255,255,0.5);
 }
-.palette-Pink-50-Hint-text.bg {
+.palette-Pink-50-Hint.bg {
   background-color: #E91E63;
   color: rgba(255,255,255,0.5);
 }
@@ -558,7 +558,7 @@
   background-color: #E91E63;
   color: #ffffff;
 }
-.palette-Pink-100-Secondary-text.bg {
+.palette-Pink-100-Secondary.bg {
   background-color: #E91E63;
   color: rgba(255,255,255,0.7);
 }
@@ -570,7 +570,7 @@
   background-color: #E91E63;
   color: rgba(255,255,255,0.5);
 }
-.palette-Pink-100-Hint-text.bg {
+.palette-Pink-100-Hint.bg {
   background-color: #E91E63;
   color: rgba(255,255,255,0.5);
 }
@@ -590,7 +590,7 @@
   background-color: #E91E63;
   color: #ffffff;
 }
-.palette-Pink-200-Secondary-text.bg {
+.palette-Pink-200-Secondary.bg {
   background-color: #E91E63;
   color: rgba(255,255,255,0.7);
 }
@@ -602,7 +602,7 @@
   background-color: #E91E63;
   color: rgba(255,255,255,0.5);
 }
-.palette-Pink-200-Hint-text.bg {
+.palette-Pink-200-Hint.bg {
   background-color: #E91E63;
   color: rgba(255,255,255,0.5);
 }
@@ -622,7 +622,7 @@
   background-color: #E91E63;
   color: #ffffff;
 }
-.palette-Pink-300-Secondary-text.bg {
+.palette-Pink-300-Secondary.bg {
   background-color: #E91E63;
   color: rgba(255,255,255,0.7);
 }
@@ -634,7 +634,7 @@
   background-color: #E91E63;
   color: rgba(255,255,255,0.5);
 }
-.palette-Pink-300-Hint-text.bg {
+.palette-Pink-300-Hint.bg {
   background-color: #E91E63;
   color: rgba(255,255,255,0.5);
 }
@@ -654,7 +654,7 @@
   background-color: #E91E63;
   color: #ffffff;
 }
-.palette-Pink-400-Secondary-text.bg {
+.palette-Pink-400-Secondary.bg {
   background-color: #E91E63;
   color: rgba(255,255,255,0.7);
 }
@@ -666,7 +666,7 @@
   background-color: #E91E63;
   color: rgba(255,255,255,0.5);
 }
-.palette-Pink-400-Hint-text.bg {
+.palette-Pink-400-Hint.bg {
   background-color: #E91E63;
   color: rgba(255,255,255,0.5);
 }
@@ -686,7 +686,7 @@
   background-color: #E91E63;
   color: #ffffff;
 }
-.palette-Pink-500-Secondary-text.bg {
+.palette-Pink-500-Secondary.bg {
   background-color: #E91E63;
   color: rgba(255,255,255,0.7);
 }
@@ -698,7 +698,7 @@
   background-color: #E91E63;
   color: rgba(255,255,255,0.5);
 }
-.palette-Pink-500-Hint-text.bg {
+.palette-Pink-500-Hint.bg {
   background-color: #E91E63;
   color: rgba(255,255,255,0.5);
 }
@@ -718,7 +718,7 @@
   background-color: #E91E63;
   color: #ffffff;
 }
-.palette-Pink-600-Secondary-text.bg {
+.palette-Pink-600-Secondary.bg {
   background-color: #E91E63;
   color: rgba(255,255,255,0.7);
 }
@@ -730,7 +730,7 @@
   background-color: #E91E63;
   color: rgba(255,255,255,0.5);
 }
-.palette-Pink-600-Hint-text.bg {
+.palette-Pink-600-Hint.bg {
   background-color: #E91E63;
   color: rgba(255,255,255,0.5);
 }
@@ -750,7 +750,7 @@
   background-color: #E91E63;
   color: #ffffff;
 }
-.palette-Pink-700-Secondary-text.bg {
+.palette-Pink-700-Secondary.bg {
   background-color: #E91E63;
   color: rgba(255,255,255,0.7);
 }
@@ -762,7 +762,7 @@
   background-color: #E91E63;
   color: rgba(255,255,255,0.5);
 }
-.palette-Pink-700-Hint-text.bg {
+.palette-Pink-700-Hint.bg {
   background-color: #E91E63;
   color: rgba(255,255,255,0.5);
 }
@@ -782,7 +782,7 @@
   background-color: #E91E63;
   color: #ffffff;
 }
-.palette-Pink-800-Secondary-text.bg {
+.palette-Pink-800-Secondary.bg {
   background-color: #E91E63;
   color: rgba(255,255,255,0.7);
 }
@@ -794,7 +794,7 @@
   background-color: #E91E63;
   color: rgba(255,255,255,0.5);
 }
-.palette-Pink-800-Hint-text.bg {
+.palette-Pink-800-Hint.bg {
   background-color: #E91E63;
   color: rgba(255,255,255,0.5);
 }
@@ -814,7 +814,7 @@
   background-color: #E91E63;
   color: #ffffff;
 }
-.palette-Pink-900-Secondary-text.bg {
+.palette-Pink-900-Secondary.bg {
   background-color: #E91E63;
   color: rgba(255,255,255,0.7);
 }
@@ -826,7 +826,7 @@
   background-color: #E91E63;
   color: rgba(255,255,255,0.5);
 }
-.palette-Pink-900-Hint-text.bg {
+.palette-Pink-900-Hint.bg {
   background-color: #E91E63;
   color: rgba(255,255,255,0.5);
 }
@@ -846,7 +846,7 @@
   background-color: #E91E63;
   color: #ffffff;
 }
-.palette-Pink-A100-Secondary-text.bg {
+.palette-Pink-A100-Secondary.bg {
   background-color: #E91E63;
   color: rgba(255,255,255,0.7);
 }
@@ -858,7 +858,7 @@
   background-color: #E91E63;
   color: rgba(255,255,255,0.5);
 }
-.palette-Pink-A100-Hint-text.bg {
+.palette-Pink-A100-Hint.bg {
   background-color: #E91E63;
   color: rgba(255,255,255,0.5);
 }
@@ -878,7 +878,7 @@
   background-color: #E91E63;
   color: #ffffff;
 }
-.palette-Pink-A200-Secondary-text.bg {
+.palette-Pink-A200-Secondary.bg {
   background-color: #E91E63;
   color: rgba(255,255,255,0.7);
 }
@@ -890,7 +890,7 @@
   background-color: #E91E63;
   color: rgba(255,255,255,0.5);
 }
-.palette-Pink-A200-Hint-text.bg {
+.palette-Pink-A200-Hint.bg {
   background-color: #E91E63;
   color: rgba(255,255,255,0.5);
 }
@@ -910,7 +910,7 @@
   background-color: #E91E63;
   color: #ffffff;
 }
-.palette-Pink-A400-Secondary-text.bg {
+.palette-Pink-A400-Secondary.bg {
   background-color: #E91E63;
   color: rgba(255,255,255,0.7);
 }
@@ -922,7 +922,7 @@
   background-color: #E91E63;
   color: rgba(255,255,255,0.5);
 }
-.palette-Pink-A400-Hint-text.bg {
+.palette-Pink-A400-Hint.bg {
   background-color: #E91E63;
   color: rgba(255,255,255,0.5);
 }
@@ -942,7 +942,7 @@
   background-color: #E91E63;
   color: #ffffff;
 }
-.palette-Pink-A700-Secondary-text.bg {
+.palette-Pink-A700-Secondary.bg {
   background-color: #E91E63;
   color: rgba(255,255,255,0.7);
 }
@@ -954,7 +954,7 @@
   background-color: #E91E63;
   color: rgba(255,255,255,0.5);
 }
-.palette-Pink-A700-Hint-text.bg {
+.palette-Pink-A700-Hint.bg {
   background-color: #E91E63;
   color: rgba(255,255,255,0.5);
 }
@@ -975,7 +975,7 @@
   background-color: #9C27B0;
   color: #ffffff;
 }
-.palette-Purple-Secondary-text.bg {
+.palette-Purple-Secondary.bg {
   background-color: #9C27B0;
   color: rgba(255,255,255,0.7);
 }
@@ -987,7 +987,7 @@
   background-color: #9C27B0;
   color: rgba(255,255,255,0.5);
 }
-.palette-Purple-Hint-text.bg {
+.palette-Purple-Hint.bg {
   background-color: #9C27B0;
   color: rgba(255,255,255,0.5);
 }
@@ -1007,7 +1007,7 @@
   background-color: #9C27B0;
   color: #ffffff;
 }
-.palette-Purple-50-Secondary-text.bg {
+.palette-Purple-50-Secondary.bg {
   background-color: #9C27B0;
   color: rgba(255,255,255,0.7);
 }
@@ -1019,7 +1019,7 @@
   background-color: #9C27B0;
   color: rgba(255,255,255,0.5);
 }
-.palette-Purple-50-Hint-text.bg {
+.palette-Purple-50-Hint.bg {
   background-color: #9C27B0;
   color: rgba(255,255,255,0.5);
 }
@@ -1039,7 +1039,7 @@
   background-color: #9C27B0;
   color: #ffffff;
 }
-.palette-Purple-100-Secondary-text.bg {
+.palette-Purple-100-Secondary.bg {
   background-color: #9C27B0;
   color: rgba(255,255,255,0.7);
 }
@@ -1051,7 +1051,7 @@
   background-color: #9C27B0;
   color: rgba(255,255,255,0.5);
 }
-.palette-Purple-100-Hint-text.bg {
+.palette-Purple-100-Hint.bg {
   background-color: #9C27B0;
   color: rgba(255,255,255,0.5);
 }
@@ -1071,7 +1071,7 @@
   background-color: #9C27B0;
   color: #ffffff;
 }
-.palette-Purple-200-Secondary-text.bg {
+.palette-Purple-200-Secondary.bg {
   background-color: #9C27B0;
   color: rgba(255,255,255,0.7);
 }
@@ -1083,7 +1083,7 @@
   background-color: #9C27B0;
   color: rgba(255,255,255,0.5);
 }
-.palette-Purple-200-Hint-text.bg {
+.palette-Purple-200-Hint.bg {
   background-color: #9C27B0;
   color: rgba(255,255,255,0.5);
 }
@@ -1103,7 +1103,7 @@
   background-color: #9C27B0;
   color: #ffffff;
 }
-.palette-Purple-300-Secondary-text.bg {
+.palette-Purple-300-Secondary.bg {
   background-color: #9C27B0;
   color: rgba(255,255,255,0.7);
 }
@@ -1115,7 +1115,7 @@
   background-color: #9C27B0;
   color: rgba(255,255,255,0.5);
 }
-.palette-Purple-300-Hint-text.bg {
+.palette-Purple-300-Hint.bg {
   background-color: #9C27B0;
   color: rgba(255,255,255,0.5);
 }
@@ -1135,7 +1135,7 @@
   background-color: #9C27B0;
   color: #ffffff;
 }
-.palette-Purple-400-Secondary-text.bg {
+.palette-Purple-400-Secondary.bg {
   background-color: #9C27B0;
   color: rgba(255,255,255,0.7);
 }
@@ -1147,7 +1147,7 @@
   background-color: #9C27B0;
   color: rgba(255,255,255,0.5);
 }
-.palette-Purple-400-Hint-text.bg {
+.palette-Purple-400-Hint.bg {
   background-color: #9C27B0;
   color: rgba(255,255,255,0.5);
 }
@@ -1167,7 +1167,7 @@
   background-color: #9C27B0;
   color: #ffffff;
 }
-.palette-Purple-500-Secondary-text.bg {
+.palette-Purple-500-Secondary.bg {
   background-color: #9C27B0;
   color: rgba(255,255,255,0.7);
 }
@@ -1179,7 +1179,7 @@
   background-color: #9C27B0;
   color: rgba(255,255,255,0.5);
 }
-.palette-Purple-500-Hint-text.bg {
+.palette-Purple-500-Hint.bg {
   background-color: #9C27B0;
   color: rgba(255,255,255,0.5);
 }
@@ -1199,7 +1199,7 @@
   background-color: #9C27B0;
   color: #ffffff;
 }
-.palette-Purple-600-Secondary-text.bg {
+.palette-Purple-600-Secondary.bg {
   background-color: #9C27B0;
   color: rgba(255,255,255,0.7);
 }
@@ -1211,7 +1211,7 @@
   background-color: #9C27B0;
   color: rgba(255,255,255,0.5);
 }
-.palette-Purple-600-Hint-text.bg {
+.palette-Purple-600-Hint.bg {
   background-color: #9C27B0;
   color: rgba(255,255,255,0.5);
 }
@@ -1231,7 +1231,7 @@
   background-color: #9C27B0;
   color: #ffffff;
 }
-.palette-Purple-700-Secondary-text.bg {
+.palette-Purple-700-Secondary.bg {
   background-color: #9C27B0;
   color: rgba(255,255,255,0.7);
 }
@@ -1243,7 +1243,7 @@
   background-color: #9C27B0;
   color: rgba(255,255,255,0.5);
 }
-.palette-Purple-700-Hint-text.bg {
+.palette-Purple-700-Hint.bg {
   background-color: #9C27B0;
   color: rgba(255,255,255,0.5);
 }
@@ -1263,7 +1263,7 @@
   background-color: #9C27B0;
   color: #ffffff;
 }
-.palette-Purple-800-Secondary-text.bg {
+.palette-Purple-800-Secondary.bg {
   background-color: #9C27B0;
   color: rgba(255,255,255,0.7);
 }
@@ -1275,7 +1275,7 @@
   background-color: #9C27B0;
   color: rgba(255,255,255,0.5);
 }
-.palette-Purple-800-Hint-text.bg {
+.palette-Purple-800-Hint.bg {
   background-color: #9C27B0;
   color: rgba(255,255,255,0.5);
 }
@@ -1295,7 +1295,7 @@
   background-color: #9C27B0;
   color: #ffffff;
 }
-.palette-Purple-900-Secondary-text.bg {
+.palette-Purple-900-Secondary.bg {
   background-color: #9C27B0;
   color: rgba(255,255,255,0.7);
 }
@@ -1307,7 +1307,7 @@
   background-color: #9C27B0;
   color: rgba(255,255,255,0.5);
 }
-.palette-Purple-900-Hint-text.bg {
+.palette-Purple-900-Hint.bg {
   background-color: #9C27B0;
   color: rgba(255,255,255,0.5);
 }
@@ -1327,7 +1327,7 @@
   background-color: #9C27B0;
   color: #ffffff;
 }
-.palette-Purple-A100-Secondary-text.bg {
+.palette-Purple-A100-Secondary.bg {
   background-color: #9C27B0;
   color: rgba(255,255,255,0.7);
 }
@@ -1339,7 +1339,7 @@
   background-color: #9C27B0;
   color: rgba(255,255,255,0.5);
 }
-.palette-Purple-A100-Hint-text.bg {
+.palette-Purple-A100-Hint.bg {
   background-color: #9C27B0;
   color: rgba(255,255,255,0.5);
 }
@@ -1359,7 +1359,7 @@
   background-color: #9C27B0;
   color: #ffffff;
 }
-.palette-Purple-A200-Secondary-text.bg {
+.palette-Purple-A200-Secondary.bg {
   background-color: #9C27B0;
   color: rgba(255,255,255,0.7);
 }
@@ -1371,7 +1371,7 @@
   background-color: #9C27B0;
   color: rgba(255,255,255,0.5);
 }
-.palette-Purple-A200-Hint-text.bg {
+.palette-Purple-A200-Hint.bg {
   background-color: #9C27B0;
   color: rgba(255,255,255,0.5);
 }
@@ -1391,7 +1391,7 @@
   background-color: #9C27B0;
   color: #ffffff;
 }
-.palette-Purple-A400-Secondary-text.bg {
+.palette-Purple-A400-Secondary.bg {
   background-color: #9C27B0;
   color: rgba(255,255,255,0.7);
 }
@@ -1403,7 +1403,7 @@
   background-color: #9C27B0;
   color: rgba(255,255,255,0.5);
 }
-.palette-Purple-A400-Hint-text.bg {
+.palette-Purple-A400-Hint.bg {
   background-color: #9C27B0;
   color: rgba(255,255,255,0.5);
 }
@@ -1423,7 +1423,7 @@
   background-color: #9C27B0;
   color: #ffffff;
 }
-.palette-Purple-A700-Secondary-text.bg {
+.palette-Purple-A700-Secondary.bg {
   background-color: #9C27B0;
   color: rgba(255,255,255,0.7);
 }
@@ -1435,7 +1435,7 @@
   background-color: #9C27B0;
   color: rgba(255,255,255,0.5);
 }
-.palette-Purple-A700-Hint-text.bg {
+.palette-Purple-A700-Hint.bg {
   background-color: #9C27B0;
   color: rgba(255,255,255,0.5);
 }
@@ -1456,7 +1456,7 @@
   background-color: #673AB7;
   color: #ffffff;
 }
-.palette-Deep-Purple-Secondary-text.bg {
+.palette-Deep-Purple-Secondary.bg {
   background-color: #673AB7;
   color: rgba(255,255,255,0.7);
 }
@@ -1468,7 +1468,7 @@
   background-color: #673AB7;
   color: rgba(255,255,255,0.5);
 }
-.palette-Deep-Purple-Hint-text.bg {
+.palette-Deep-Purple-Hint.bg {
   background-color: #673AB7;
   color: rgba(255,255,255,0.5);
 }
@@ -1488,7 +1488,7 @@
   background-color: #673AB7;
   color: #ffffff;
 }
-.palette-Deep-Purple-50-Secondary-text.bg {
+.palette-Deep-Purple-50-Secondary.bg {
   background-color: #673AB7;
   color: rgba(255,255,255,0.7);
 }
@@ -1500,7 +1500,7 @@
   background-color: #673AB7;
   color: rgba(255,255,255,0.5);
 }
-.palette-Deep-Purple-50-Hint-text.bg {
+.palette-Deep-Purple-50-Hint.bg {
   background-color: #673AB7;
   color: rgba(255,255,255,0.5);
 }
@@ -1520,7 +1520,7 @@
   background-color: #673AB7;
   color: #ffffff;
 }
-.palette-Deep-Purple-100-Secondary-text.bg {
+.palette-Deep-Purple-100-Secondary.bg {
   background-color: #673AB7;
   color: rgba(255,255,255,0.7);
 }
@@ -1532,7 +1532,7 @@
   background-color: #673AB7;
   color: rgba(255,255,255,0.5);
 }
-.palette-Deep-Purple-100-Hint-text.bg {
+.palette-Deep-Purple-100-Hint.bg {
   background-color: #673AB7;
   color: rgba(255,255,255,0.5);
 }
@@ -1552,7 +1552,7 @@
   background-color: #673AB7;
   color: #ffffff;
 }
-.palette-Deep-Purple-200-Secondary-text.bg {
+.palette-Deep-Purple-200-Secondary.bg {
   background-color: #673AB7;
   color: rgba(255,255,255,0.7);
 }
@@ -1564,7 +1564,7 @@
   background-color: #673AB7;
   color: rgba(255,255,255,0.5);
 }
-.palette-Deep-Purple-200-Hint-text.bg {
+.palette-Deep-Purple-200-Hint.bg {
   background-color: #673AB7;
   color: rgba(255,255,255,0.5);
 }
@@ -1584,7 +1584,7 @@
   background-color: #673AB7;
   color: #ffffff;
 }
-.palette-Deep-Purple-300-Secondary-text.bg {
+.palette-Deep-Purple-300-Secondary.bg {
   background-color: #673AB7;
   color: rgba(255,255,255,0.7);
 }
@@ -1596,7 +1596,7 @@
   background-color: #673AB7;
   color: rgba(255,255,255,0.5);
 }
-.palette-Deep-Purple-300-Hint-text.bg {
+.palette-Deep-Purple-300-Hint.bg {
   background-color: #673AB7;
   color: rgba(255,255,255,0.5);
 }
@@ -1616,7 +1616,7 @@
   background-color: #673AB7;
   color: #ffffff;
 }
-.palette-Deep-Purple-400-Secondary-text.bg {
+.palette-Deep-Purple-400-Secondary.bg {
   background-color: #673AB7;
   color: rgba(255,255,255,0.7);
 }
@@ -1628,7 +1628,7 @@
   background-color: #673AB7;
   color: rgba(255,255,255,0.5);
 }
-.palette-Deep-Purple-400-Hint-text.bg {
+.palette-Deep-Purple-400-Hint.bg {
   background-color: #673AB7;
   color: rgba(255,255,255,0.5);
 }
@@ -1648,7 +1648,7 @@
   background-color: #673AB7;
   color: #ffffff;
 }
-.palette-Deep-Purple-500-Secondary-text.bg {
+.palette-Deep-Purple-500-Secondary.bg {
   background-color: #673AB7;
   color: rgba(255,255,255,0.7);
 }
@@ -1660,7 +1660,7 @@
   background-color: #673AB7;
   color: rgba(255,255,255,0.5);
 }
-.palette-Deep-Purple-500-Hint-text.bg {
+.palette-Deep-Purple-500-Hint.bg {
   background-color: #673AB7;
   color: rgba(255,255,255,0.5);
 }
@@ -1680,7 +1680,7 @@
   background-color: #673AB7;
   color: #ffffff;
 }
-.palette-Deep-Purple-600-Secondary-text.bg {
+.palette-Deep-Purple-600-Secondary.bg {
   background-color: #673AB7;
   color: rgba(255,255,255,0.7);
 }
@@ -1692,7 +1692,7 @@
   background-color: #673AB7;
   color: rgba(255,255,255,0.5);
 }
-.palette-Deep-Purple-600-Hint-text.bg {
+.palette-Deep-Purple-600-Hint.bg {
   background-color: #673AB7;
   color: rgba(255,255,255,0.5);
 }
@@ -1712,7 +1712,7 @@
   background-color: #673AB7;
   color: #ffffff;
 }
-.palette-Deep-Purple-700-Secondary-text.bg {
+.palette-Deep-Purple-700-Secondary.bg {
   background-color: #673AB7;
   color: rgba(255,255,255,0.7);
 }
@@ -1724,7 +1724,7 @@
   background-color: #673AB7;
   color: rgba(255,255,255,0.5);
 }
-.palette-Deep-Purple-700-Hint-text.bg {
+.palette-Deep-Purple-700-Hint.bg {
   background-color: #673AB7;
   color: rgba(255,255,255,0.5);
 }
@@ -1744,7 +1744,7 @@
   background-color: #673AB7;
   color: #ffffff;
 }
-.palette-Deep-Purple-800-Secondary-text.bg {
+.palette-Deep-Purple-800-Secondary.bg {
   background-color: #673AB7;
   color: rgba(255,255,255,0.7);
 }
@@ -1756,7 +1756,7 @@
   background-color: #673AB7;
   color: rgba(255,255,255,0.5);
 }
-.palette-Deep-Purple-800-Hint-text.bg {
+.palette-Deep-Purple-800-Hint.bg {
   background-color: #673AB7;
   color: rgba(255,255,255,0.5);
 }
@@ -1776,7 +1776,7 @@
   background-color: #673AB7;
   color: #ffffff;
 }
-.palette-Deep-Purple-900-Secondary-text.bg {
+.palette-Deep-Purple-900-Secondary.bg {
   background-color: #673AB7;
   color: rgba(255,255,255,0.7);
 }
@@ -1788,7 +1788,7 @@
   background-color: #673AB7;
   color: rgba(255,255,255,0.5);
 }
-.palette-Deep-Purple-900-Hint-text.bg {
+.palette-Deep-Purple-900-Hint.bg {
   background-color: #673AB7;
   color: rgba(255,255,255,0.5);
 }
@@ -1808,7 +1808,7 @@
   background-color: #673AB7;
   color: #ffffff;
 }
-.palette-Deep-Purple-A100-Secondary-text.bg {
+.palette-Deep-Purple-A100-Secondary.bg {
   background-color: #673AB7;
   color: rgba(255,255,255,0.7);
 }
@@ -1820,7 +1820,7 @@
   background-color: #673AB7;
   color: rgba(255,255,255,0.5);
 }
-.palette-Deep-Purple-A100-Hint-text.bg {
+.palette-Deep-Purple-A100-Hint.bg {
   background-color: #673AB7;
   color: rgba(255,255,255,0.5);
 }
@@ -1840,7 +1840,7 @@
   background-color: #673AB7;
   color: #ffffff;
 }
-.palette-Deep-Purple-A200-Secondary-text.bg {
+.palette-Deep-Purple-A200-Secondary.bg {
   background-color: #673AB7;
   color: rgba(255,255,255,0.7);
 }
@@ -1852,7 +1852,7 @@
   background-color: #673AB7;
   color: rgba(255,255,255,0.5);
 }
-.palette-Deep-Purple-A200-Hint-text.bg {
+.palette-Deep-Purple-A200-Hint.bg {
   background-color: #673AB7;
   color: rgba(255,255,255,0.5);
 }
@@ -1872,7 +1872,7 @@
   background-color: #673AB7;
   color: #ffffff;
 }
-.palette-Deep-Purple-A400-Secondary-text.bg {
+.palette-Deep-Purple-A400-Secondary.bg {
   background-color: #673AB7;
   color: rgba(255,255,255,0.7);
 }
@@ -1884,7 +1884,7 @@
   background-color: #673AB7;
   color: rgba(255,255,255,0.5);
 }
-.palette-Deep-Purple-A400-Hint-text.bg {
+.palette-Deep-Purple-A400-Hint.bg {
   background-color: #673AB7;
   color: rgba(255,255,255,0.5);
 }
@@ -1904,7 +1904,7 @@
   background-color: #673AB7;
   color: #ffffff;
 }
-.palette-Deep-Purple-A700-Secondary-text.bg {
+.palette-Deep-Purple-A700-Secondary.bg {
   background-color: #673AB7;
   color: rgba(255,255,255,0.7);
 }
@@ -1916,7 +1916,7 @@
   background-color: #673AB7;
   color: rgba(255,255,255,0.5);
 }
-.palette-Deep-Purple-A700-Hint-text.bg {
+.palette-Deep-Purple-A700-Hint.bg {
   background-color: #673AB7;
   color: rgba(255,255,255,0.5);
 }
@@ -1937,7 +1937,7 @@
   background-color: #3F51B5;
   color: #ffffff;
 }
-.palette-Indigo-Secondary-text.bg {
+.palette-Indigo-Secondary.bg {
   background-color: #3F51B5;
   color: rgba(255,255,255,0.7);
 }
@@ -1949,7 +1949,7 @@
   background-color: #3F51B5;
   color: rgba(255,255,255,0.5);
 }
-.palette-Indigo-Hint-text.bg {
+.palette-Indigo-Hint.bg {
   background-color: #3F51B5;
   color: rgba(255,255,255,0.5);
 }
@@ -1969,7 +1969,7 @@
   background-color: #3F51B5;
   color: #ffffff;
 }
-.palette-Indigo-50-Secondary-text.bg {
+.palette-Indigo-50-Secondary.bg {
   background-color: #3F51B5;
   color: rgba(255,255,255,0.7);
 }
@@ -1981,7 +1981,7 @@
   background-color: #3F51B5;
   color: rgba(255,255,255,0.5);
 }
-.palette-Indigo-50-Hint-text.bg {
+.palette-Indigo-50-Hint.bg {
   background-color: #3F51B5;
   color: rgba(255,255,255,0.5);
 }
@@ -2001,7 +2001,7 @@
   background-color: #3F51B5;
   color: #ffffff;
 }
-.palette-Indigo-100-Secondary-text.bg {
+.palette-Indigo-100-Secondary.bg {
   background-color: #3F51B5;
   color: rgba(255,255,255,0.7);
 }
@@ -2013,7 +2013,7 @@
   background-color: #3F51B5;
   color: rgba(255,255,255,0.5);
 }
-.palette-Indigo-100-Hint-text.bg {
+.palette-Indigo-100-Hint.bg {
   background-color: #3F51B5;
   color: rgba(255,255,255,0.5);
 }
@@ -2033,7 +2033,7 @@
   background-color: #3F51B5;
   color: #ffffff;
 }
-.palette-Indigo-200-Secondary-text.bg {
+.palette-Indigo-200-Secondary.bg {
   background-color: #3F51B5;
   color: rgba(255,255,255,0.7);
 }
@@ -2045,7 +2045,7 @@
   background-color: #3F51B5;
   color: rgba(255,255,255,0.5);
 }
-.palette-Indigo-200-Hint-text.bg {
+.palette-Indigo-200-Hint.bg {
   background-color: #3F51B5;
   color: rgba(255,255,255,0.5);
 }
@@ -2065,7 +2065,7 @@
   background-color: #3F51B5;
   color: #ffffff;
 }
-.palette-Indigo-300-Secondary-text.bg {
+.palette-Indigo-300-Secondary.bg {
   background-color: #3F51B5;
   color: rgba(255,255,255,0.7);
 }
@@ -2077,7 +2077,7 @@
   background-color: #3F51B5;
   color: rgba(255,255,255,0.5);
 }
-.palette-Indigo-300-Hint-text.bg {
+.palette-Indigo-300-Hint.bg {
   background-color: #3F51B5;
   color: rgba(255,255,255,0.5);
 }
@@ -2097,7 +2097,7 @@
   background-color: #3F51B5;
   color: #ffffff;
 }
-.palette-Indigo-400-Secondary-text.bg {
+.palette-Indigo-400-Secondary.bg {
   background-color: #3F51B5;
   color: rgba(255,255,255,0.7);
 }
@@ -2109,7 +2109,7 @@
   background-color: #3F51B5;
   color: rgba(255,255,255,0.5);
 }
-.palette-Indigo-400-Hint-text.bg {
+.palette-Indigo-400-Hint.bg {
   background-color: #3F51B5;
   color: rgba(255,255,255,0.5);
 }
@@ -2129,7 +2129,7 @@
   background-color: #3F51B5;
   color: #ffffff;
 }
-.palette-Indigo-500-Secondary-text.bg {
+.palette-Indigo-500-Secondary.bg {
   background-color: #3F51B5;
   color: rgba(255,255,255,0.7);
 }
@@ -2141,7 +2141,7 @@
   background-color: #3F51B5;
   color: rgba(255,255,255,0.5);
 }
-.palette-Indigo-500-Hint-text.bg {
+.palette-Indigo-500-Hint.bg {
   background-color: #3F51B5;
   color: rgba(255,255,255,0.5);
 }
@@ -2161,7 +2161,7 @@
   background-color: #3F51B5;
   color: #ffffff;
 }
-.palette-Indigo-600-Secondary-text.bg {
+.palette-Indigo-600-Secondary.bg {
   background-color: #3F51B5;
   color: rgba(255,255,255,0.7);
 }
@@ -2173,7 +2173,7 @@
   background-color: #3F51B5;
   color: rgba(255,255,255,0.5);
 }
-.palette-Indigo-600-Hint-text.bg {
+.palette-Indigo-600-Hint.bg {
   background-color: #3F51B5;
   color: rgba(255,255,255,0.5);
 }
@@ -2193,7 +2193,7 @@
   background-color: #3F51B5;
   color: #ffffff;
 }
-.palette-Indigo-700-Secondary-text.bg {
+.palette-Indigo-700-Secondary.bg {
   background-color: #3F51B5;
   color: rgba(255,255,255,0.7);
 }
@@ -2205,7 +2205,7 @@
   background-color: #3F51B5;
   color: rgba(255,255,255,0.5);
 }
-.palette-Indigo-700-Hint-text.bg {
+.palette-Indigo-700-Hint.bg {
   background-color: #3F51B5;
   color: rgba(255,255,255,0.5);
 }
@@ -2225,7 +2225,7 @@
   background-color: #3F51B5;
   color: #ffffff;
 }
-.palette-Indigo-800-Secondary-text.bg {
+.palette-Indigo-800-Secondary.bg {
   background-color: #3F51B5;
   color: rgba(255,255,255,0.7);
 }
@@ -2237,7 +2237,7 @@
   background-color: #3F51B5;
   color: rgba(255,255,255,0.5);
 }
-.palette-Indigo-800-Hint-text.bg {
+.palette-Indigo-800-Hint.bg {
   background-color: #3F51B5;
   color: rgba(255,255,255,0.5);
 }
@@ -2257,7 +2257,7 @@
   background-color: #3F51B5;
   color: #ffffff;
 }
-.palette-Indigo-900-Secondary-text.bg {
+.palette-Indigo-900-Secondary.bg {
   background-color: #3F51B5;
   color: rgba(255,255,255,0.7);
 }
@@ -2269,7 +2269,7 @@
   background-color: #3F51B5;
   color: rgba(255,255,255,0.5);
 }
-.palette-Indigo-900-Hint-text.bg {
+.palette-Indigo-900-Hint.bg {
   background-color: #3F51B5;
   color: rgba(255,255,255,0.5);
 }
@@ -2289,7 +2289,7 @@
   background-color: #3F51B5;
   color: #ffffff;
 }
-.palette-Indigo-A100-Secondary-text.bg {
+.palette-Indigo-A100-Secondary.bg {
   background-color: #3F51B5;
   color: rgba(255,255,255,0.7);
 }
@@ -2301,7 +2301,7 @@
   background-color: #3F51B5;
   color: rgba(255,255,255,0.5);
 }
-.palette-Indigo-A100-Hint-text.bg {
+.palette-Indigo-A100-Hint.bg {
   background-color: #3F51B5;
   color: rgba(255,255,255,0.5);
 }
@@ -2321,7 +2321,7 @@
   background-color: #3F51B5;
   color: #ffffff;
 }
-.palette-Indigo-A200-Secondary-text.bg {
+.palette-Indigo-A200-Secondary.bg {
   background-color: #3F51B5;
   color: rgba(255,255,255,0.7);
 }
@@ -2333,7 +2333,7 @@
   background-color: #3F51B5;
   color: rgba(255,255,255,0.5);
 }
-.palette-Indigo-A200-Hint-text.bg {
+.palette-Indigo-A200-Hint.bg {
   background-color: #3F51B5;
   color: rgba(255,255,255,0.5);
 }
@@ -2353,7 +2353,7 @@
   background-color: #3F51B5;
   color: #ffffff;
 }
-.palette-Indigo-A400-Secondary-text.bg {
+.palette-Indigo-A400-Secondary.bg {
   background-color: #3F51B5;
   color: rgba(255,255,255,0.7);
 }
@@ -2365,7 +2365,7 @@
   background-color: #3F51B5;
   color: rgba(255,255,255,0.5);
 }
-.palette-Indigo-A400-Hint-text.bg {
+.palette-Indigo-A400-Hint.bg {
   background-color: #3F51B5;
   color: rgba(255,255,255,0.5);
 }
@@ -2385,7 +2385,7 @@
   background-color: #3F51B5;
   color: #ffffff;
 }
-.palette-Indigo-A700-Secondary-text.bg {
+.palette-Indigo-A700-Secondary.bg {
   background-color: #3F51B5;
   color: rgba(255,255,255,0.7);
 }
@@ -2397,7 +2397,7 @@
   background-color: #3F51B5;
   color: rgba(255,255,255,0.5);
 }
-.palette-Indigo-A700-Hint-text.bg {
+.palette-Indigo-A700-Hint.bg {
   background-color: #3F51B5;
   color: rgba(255,255,255,0.5);
 }
@@ -2418,7 +2418,7 @@
   background-color: #2196F3;
   color: #ffffff;
 }
-.palette-Blue-Secondary-text.bg {
+.palette-Blue-Secondary.bg {
   background-color: #2196F3;
   color: rgba(255,255,255,0.7);
 }
@@ -2430,7 +2430,7 @@
   background-color: #2196F3;
   color: rgba(255,255,255,0.5);
 }
-.palette-Blue-Hint-text.bg {
+.palette-Blue-Hint.bg {
   background-color: #2196F3;
   color: rgba(255,255,255,0.5);
 }
@@ -2450,7 +2450,7 @@
   background-color: #2196F3;
   color: #ffffff;
 }
-.palette-Blue-50-Secondary-text.bg {
+.palette-Blue-50-Secondary.bg {
   background-color: #2196F3;
   color: rgba(255,255,255,0.7);
 }
@@ -2462,7 +2462,7 @@
   background-color: #2196F3;
   color: rgba(255,255,255,0.5);
 }
-.palette-Blue-50-Hint-text.bg {
+.palette-Blue-50-Hint.bg {
   background-color: #2196F3;
   color: rgba(255,255,255,0.5);
 }
@@ -2482,7 +2482,7 @@
   background-color: #2196F3;
   color: #ffffff;
 }
-.palette-Blue-100-Secondary-text.bg {
+.palette-Blue-100-Secondary.bg {
   background-color: #2196F3;
   color: rgba(255,255,255,0.7);
 }
@@ -2494,7 +2494,7 @@
   background-color: #2196F3;
   color: rgba(255,255,255,0.5);
 }
-.palette-Blue-100-Hint-text.bg {
+.palette-Blue-100-Hint.bg {
   background-color: #2196F3;
   color: rgba(255,255,255,0.5);
 }
@@ -2514,7 +2514,7 @@
   background-color: #2196F3;
   color: #ffffff;
 }
-.palette-Blue-200-Secondary-text.bg {
+.palette-Blue-200-Secondary.bg {
   background-color: #2196F3;
   color: rgba(255,255,255,0.7);
 }
@@ -2526,7 +2526,7 @@
   background-color: #2196F3;
   color: rgba(255,255,255,0.5);
 }
-.palette-Blue-200-Hint-text.bg {
+.palette-Blue-200-Hint.bg {
   background-color: #2196F3;
   color: rgba(255,255,255,0.5);
 }
@@ -2546,7 +2546,7 @@
   background-color: #2196F3;
   color: #ffffff;
 }
-.palette-Blue-300-Secondary-text.bg {
+.palette-Blue-300-Secondary.bg {
   background-color: #2196F3;
   color: rgba(255,255,255,0.7);
 }
@@ -2558,7 +2558,7 @@
   background-color: #2196F3;
   color: rgba(255,255,255,0.5);
 }
-.palette-Blue-300-Hint-text.bg {
+.palette-Blue-300-Hint.bg {
   background-color: #2196F3;
   color: rgba(255,255,255,0.5);
 }
@@ -2578,7 +2578,7 @@
   background-color: #2196F3;
   color: #ffffff;
 }
-.palette-Blue-400-Secondary-text.bg {
+.palette-Blue-400-Secondary.bg {
   background-color: #2196F3;
   color: rgba(255,255,255,0.7);
 }
@@ -2590,7 +2590,7 @@
   background-color: #2196F3;
   color: rgba(255,255,255,0.5);
 }
-.palette-Blue-400-Hint-text.bg {
+.palette-Blue-400-Hint.bg {
   background-color: #2196F3;
   color: rgba(255,255,255,0.5);
 }
@@ -2610,7 +2610,7 @@
   background-color: #2196F3;
   color: #ffffff;
 }
-.palette-Blue-500-Secondary-text.bg {
+.palette-Blue-500-Secondary.bg {
   background-color: #2196F3;
   color: rgba(255,255,255,0.7);
 }
@@ -2622,7 +2622,7 @@
   background-color: #2196F3;
   color: rgba(255,255,255,0.5);
 }
-.palette-Blue-500-Hint-text.bg {
+.palette-Blue-500-Hint.bg {
   background-color: #2196F3;
   color: rgba(255,255,255,0.5);
 }
@@ -2642,7 +2642,7 @@
   background-color: #2196F3;
   color: #ffffff;
 }
-.palette-Blue-600-Secondary-text.bg {
+.palette-Blue-600-Secondary.bg {
   background-color: #2196F3;
   color: rgba(255,255,255,0.7);
 }
@@ -2654,7 +2654,7 @@
   background-color: #2196F3;
   color: rgba(255,255,255,0.5);
 }
-.palette-Blue-600-Hint-text.bg {
+.palette-Blue-600-Hint.bg {
   background-color: #2196F3;
   color: rgba(255,255,255,0.5);
 }
@@ -2674,7 +2674,7 @@
   background-color: #2196F3;
   color: #ffffff;
 }
-.palette-Blue-700-Secondary-text.bg {
+.palette-Blue-700-Secondary.bg {
   background-color: #2196F3;
   color: rgba(255,255,255,0.7);
 }
@@ -2686,7 +2686,7 @@
   background-color: #2196F3;
   color: rgba(255,255,255,0.5);
 }
-.palette-Blue-700-Hint-text.bg {
+.palette-Blue-700-Hint.bg {
   background-color: #2196F3;
   color: rgba(255,255,255,0.5);
 }
@@ -2706,7 +2706,7 @@
   background-color: #2196F3;
   color: #ffffff;
 }
-.palette-Blue-800-Secondary-text.bg {
+.palette-Blue-800-Secondary.bg {
   background-color: #2196F3;
   color: rgba(255,255,255,0.7);
 }
@@ -2718,7 +2718,7 @@
   background-color: #2196F3;
   color: rgba(255,255,255,0.5);
 }
-.palette-Blue-800-Hint-text.bg {
+.palette-Blue-800-Hint.bg {
   background-color: #2196F3;
   color: rgba(255,255,255,0.5);
 }
@@ -2738,7 +2738,7 @@
   background-color: #2196F3;
   color: #ffffff;
 }
-.palette-Blue-900-Secondary-text.bg {
+.palette-Blue-900-Secondary.bg {
   background-color: #2196F3;
   color: rgba(255,255,255,0.7);
 }
@@ -2750,7 +2750,7 @@
   background-color: #2196F3;
   color: rgba(255,255,255,0.5);
 }
-.palette-Blue-900-Hint-text.bg {
+.palette-Blue-900-Hint.bg {
   background-color: #2196F3;
   color: rgba(255,255,255,0.5);
 }
@@ -2770,7 +2770,7 @@
   background-color: #2196F3;
   color: #ffffff;
 }
-.palette-Blue-A100-Secondary-text.bg {
+.palette-Blue-A100-Secondary.bg {
   background-color: #2196F3;
   color: rgba(255,255,255,0.7);
 }
@@ -2782,7 +2782,7 @@
   background-color: #2196F3;
   color: rgba(255,255,255,0.5);
 }
-.palette-Blue-A100-Hint-text.bg {
+.palette-Blue-A100-Hint.bg {
   background-color: #2196F3;
   color: rgba(255,255,255,0.5);
 }
@@ -2802,7 +2802,7 @@
   background-color: #2196F3;
   color: #ffffff;
 }
-.palette-Blue-A200-Secondary-text.bg {
+.palette-Blue-A200-Secondary.bg {
   background-color: #2196F3;
   color: rgba(255,255,255,0.7);
 }
@@ -2814,7 +2814,7 @@
   background-color: #2196F3;
   color: rgba(255,255,255,0.5);
 }
-.palette-Blue-A200-Hint-text.bg {
+.palette-Blue-A200-Hint.bg {
   background-color: #2196F3;
   color: rgba(255,255,255,0.5);
 }
@@ -2834,7 +2834,7 @@
   background-color: #2196F3;
   color: #ffffff;
 }
-.palette-Blue-A400-Secondary-text.bg {
+.palette-Blue-A400-Secondary.bg {
   background-color: #2196F3;
   color: rgba(255,255,255,0.7);
 }
@@ -2846,7 +2846,7 @@
   background-color: #2196F3;
   color: rgba(255,255,255,0.5);
 }
-.palette-Blue-A400-Hint-text.bg {
+.palette-Blue-A400-Hint.bg {
   background-color: #2196F3;
   color: rgba(255,255,255,0.5);
 }
@@ -2866,7 +2866,7 @@
   background-color: #2196F3;
   color: #ffffff;
 }
-.palette-Blue-A700-Secondary-text.bg {
+.palette-Blue-A700-Secondary.bg {
   background-color: #2196F3;
   color: rgba(255,255,255,0.7);
 }
@@ -2878,7 +2878,7 @@
   background-color: #2196F3;
   color: rgba(255,255,255,0.5);
 }
-.palette-Blue-A700-Hint-text.bg {
+.palette-Blue-A700-Hint.bg {
   background-color: #2196F3;
   color: rgba(255,255,255,0.5);
 }
@@ -2899,7 +2899,7 @@
   background-color: #03A9F4;
   color: rgba(0,0,0,0.87);
 }
-.palette-Light-Blue-Secondary-text.bg {
+.palette-Light-Blue-Secondary.bg {
   background-color: #03A9F4;
   color: rgba(0,0,0,0.54);
 }
@@ -2911,7 +2911,7 @@
   background-color: #03A9F4;
   color: rgba(0,0,0,0.38);
 }
-.palette-Light-Blue-Hint-text.bg {
+.palette-Light-Blue-Hint.bg {
   background-color: #03A9F4;
   color: rgba(0,0,0,0.38);
 }
@@ -2931,7 +2931,7 @@
   background-color: #03A9F4;
   color: rgba(0,0,0,0.87);
 }
-.palette-Light-Blue-50-Secondary-text.bg {
+.palette-Light-Blue-50-Secondary.bg {
   background-color: #03A9F4;
   color: rgba(0,0,0,0.54);
 }
@@ -2943,7 +2943,7 @@
   background-color: #03A9F4;
   color: rgba(0,0,0,0.38);
 }
-.palette-Light-Blue-50-Hint-text.bg {
+.palette-Light-Blue-50-Hint.bg {
   background-color: #03A9F4;
   color: rgba(0,0,0,0.38);
 }
@@ -2963,7 +2963,7 @@
   background-color: #03A9F4;
   color: rgba(0,0,0,0.87);
 }
-.palette-Light-Blue-100-Secondary-text.bg {
+.palette-Light-Blue-100-Secondary.bg {
   background-color: #03A9F4;
   color: rgba(0,0,0,0.54);
 }
@@ -2975,7 +2975,7 @@
   background-color: #03A9F4;
   color: rgba(0,0,0,0.38);
 }
-.palette-Light-Blue-100-Hint-text.bg {
+.palette-Light-Blue-100-Hint.bg {
   background-color: #03A9F4;
   color: rgba(0,0,0,0.38);
 }
@@ -2995,7 +2995,7 @@
   background-color: #03A9F4;
   color: rgba(0,0,0,0.87);
 }
-.palette-Light-Blue-200-Secondary-text.bg {
+.palette-Light-Blue-200-Secondary.bg {
   background-color: #03A9F4;
   color: rgba(0,0,0,0.54);
 }
@@ -3007,7 +3007,7 @@
   background-color: #03A9F4;
   color: rgba(0,0,0,0.38);
 }
-.palette-Light-Blue-200-Hint-text.bg {
+.palette-Light-Blue-200-Hint.bg {
   background-color: #03A9F4;
   color: rgba(0,0,0,0.38);
 }
@@ -3027,7 +3027,7 @@
   background-color: #03A9F4;
   color: rgba(0,0,0,0.87);
 }
-.palette-Light-Blue-300-Secondary-text.bg {
+.palette-Light-Blue-300-Secondary.bg {
   background-color: #03A9F4;
   color: rgba(0,0,0,0.54);
 }
@@ -3039,7 +3039,7 @@
   background-color: #03A9F4;
   color: rgba(0,0,0,0.38);
 }
-.palette-Light-Blue-300-Hint-text.bg {
+.palette-Light-Blue-300-Hint.bg {
   background-color: #03A9F4;
   color: rgba(0,0,0,0.38);
 }
@@ -3059,7 +3059,7 @@
   background-color: #03A9F4;
   color: rgba(0,0,0,0.87);
 }
-.palette-Light-Blue-400-Secondary-text.bg {
+.palette-Light-Blue-400-Secondary.bg {
   background-color: #03A9F4;
   color: rgba(0,0,0,0.54);
 }
@@ -3071,7 +3071,7 @@
   background-color: #03A9F4;
   color: rgba(0,0,0,0.38);
 }
-.palette-Light-Blue-400-Hint-text.bg {
+.palette-Light-Blue-400-Hint.bg {
   background-color: #03A9F4;
   color: rgba(0,0,0,0.38);
 }
@@ -3091,7 +3091,7 @@
   background-color: #03A9F4;
   color: rgba(0,0,0,0.87);
 }
-.palette-Light-Blue-500-Secondary-text.bg {
+.palette-Light-Blue-500-Secondary.bg {
   background-color: #03A9F4;
   color: rgba(0,0,0,0.54);
 }
@@ -3103,7 +3103,7 @@
   background-color: #03A9F4;
   color: rgba(0,0,0,0.38);
 }
-.palette-Light-Blue-500-Hint-text.bg {
+.palette-Light-Blue-500-Hint.bg {
   background-color: #03A9F4;
   color: rgba(0,0,0,0.38);
 }
@@ -3123,7 +3123,7 @@
   background-color: #03A9F4;
   color: rgba(0,0,0,0.87);
 }
-.palette-Light-Blue-600-Secondary-text.bg {
+.palette-Light-Blue-600-Secondary.bg {
   background-color: #03A9F4;
   color: rgba(0,0,0,0.54);
 }
@@ -3135,7 +3135,7 @@
   background-color: #03A9F4;
   color: rgba(0,0,0,0.38);
 }
-.palette-Light-Blue-600-Hint-text.bg {
+.palette-Light-Blue-600-Hint.bg {
   background-color: #03A9F4;
   color: rgba(0,0,0,0.38);
 }
@@ -3155,7 +3155,7 @@
   background-color: #03A9F4;
   color: rgba(0,0,0,0.87);
 }
-.palette-Light-Blue-700-Secondary-text.bg {
+.palette-Light-Blue-700-Secondary.bg {
   background-color: #03A9F4;
   color: rgba(0,0,0,0.54);
 }
@@ -3167,7 +3167,7 @@
   background-color: #03A9F4;
   color: rgba(0,0,0,0.38);
 }
-.palette-Light-Blue-700-Hint-text.bg {
+.palette-Light-Blue-700-Hint.bg {
   background-color: #03A9F4;
   color: rgba(0,0,0,0.38);
 }
@@ -3187,7 +3187,7 @@
   background-color: #03A9F4;
   color: rgba(0,0,0,0.87);
 }
-.palette-Light-Blue-800-Secondary-text.bg {
+.palette-Light-Blue-800-Secondary.bg {
   background-color: #03A9F4;
   color: rgba(0,0,0,0.54);
 }
@@ -3199,7 +3199,7 @@
   background-color: #03A9F4;
   color: rgba(0,0,0,0.38);
 }
-.palette-Light-Blue-800-Hint-text.bg {
+.palette-Light-Blue-800-Hint.bg {
   background-color: #03A9F4;
   color: rgba(0,0,0,0.38);
 }
@@ -3219,7 +3219,7 @@
   background-color: #03A9F4;
   color: rgba(0,0,0,0.87);
 }
-.palette-Light-Blue-900-Secondary-text.bg {
+.palette-Light-Blue-900-Secondary.bg {
   background-color: #03A9F4;
   color: rgba(0,0,0,0.54);
 }
@@ -3231,7 +3231,7 @@
   background-color: #03A9F4;
   color: rgba(0,0,0,0.38);
 }
-.palette-Light-Blue-900-Hint-text.bg {
+.palette-Light-Blue-900-Hint.bg {
   background-color: #03A9F4;
   color: rgba(0,0,0,0.38);
 }
@@ -3251,7 +3251,7 @@
   background-color: #03A9F4;
   color: rgba(0,0,0,0.87);
 }
-.palette-Light-Blue-A100-Secondary-text.bg {
+.palette-Light-Blue-A100-Secondary.bg {
   background-color: #03A9F4;
   color: rgba(0,0,0,0.54);
 }
@@ -3263,7 +3263,7 @@
   background-color: #03A9F4;
   color: rgba(0,0,0,0.38);
 }
-.palette-Light-Blue-A100-Hint-text.bg {
+.palette-Light-Blue-A100-Hint.bg {
   background-color: #03A9F4;
   color: rgba(0,0,0,0.38);
 }
@@ -3283,7 +3283,7 @@
   background-color: #03A9F4;
   color: rgba(0,0,0,0.87);
 }
-.palette-Light-Blue-A200-Secondary-text.bg {
+.palette-Light-Blue-A200-Secondary.bg {
   background-color: #03A9F4;
   color: rgba(0,0,0,0.54);
 }
@@ -3295,7 +3295,7 @@
   background-color: #03A9F4;
   color: rgba(0,0,0,0.38);
 }
-.palette-Light-Blue-A200-Hint-text.bg {
+.palette-Light-Blue-A200-Hint.bg {
   background-color: #03A9F4;
   color: rgba(0,0,0,0.38);
 }
@@ -3315,7 +3315,7 @@
   background-color: #03A9F4;
   color: rgba(0,0,0,0.87);
 }
-.palette-Light-Blue-A400-Secondary-text.bg {
+.palette-Light-Blue-A400-Secondary.bg {
   background-color: #03A9F4;
   color: rgba(0,0,0,0.54);
 }
@@ -3327,7 +3327,7 @@
   background-color: #03A9F4;
   color: rgba(0,0,0,0.38);
 }
-.palette-Light-Blue-A400-Hint-text.bg {
+.palette-Light-Blue-A400-Hint.bg {
   background-color: #03A9F4;
   color: rgba(0,0,0,0.38);
 }
@@ -3347,7 +3347,7 @@
   background-color: #03A9F4;
   color: rgba(0,0,0,0.87);
 }
-.palette-Light-Blue-A700-Secondary-text.bg {
+.palette-Light-Blue-A700-Secondary.bg {
   background-color: #03A9F4;
   color: rgba(0,0,0,0.54);
 }
@@ -3359,7 +3359,7 @@
   background-color: #03A9F4;
   color: rgba(0,0,0,0.38);
 }
-.palette-Light-Blue-A700-Hint-text.bg {
+.palette-Light-Blue-A700-Hint.bg {
   background-color: #03A9F4;
   color: rgba(0,0,0,0.38);
 }
@@ -3380,7 +3380,7 @@
   background-color: #00BCD4;
   color: rgba(0,0,0,0.87);
 }
-.palette-Cyan-Secondary-text.bg {
+.palette-Cyan-Secondary.bg {
   background-color: #00BCD4;
   color: rgba(0,0,0,0.54);
 }
@@ -3392,7 +3392,7 @@
   background-color: #00BCD4;
   color: rgba(0,0,0,0.38);
 }
-.palette-Cyan-Hint-text.bg {
+.palette-Cyan-Hint.bg {
   background-color: #00BCD4;
   color: rgba(0,0,0,0.38);
 }
@@ -3412,7 +3412,7 @@
   background-color: #00BCD4;
   color: rgba(0,0,0,0.87);
 }
-.palette-Cyan-50-Secondary-text.bg {
+.palette-Cyan-50-Secondary.bg {
   background-color: #00BCD4;
   color: rgba(0,0,0,0.54);
 }
@@ -3424,7 +3424,7 @@
   background-color: #00BCD4;
   color: rgba(0,0,0,0.38);
 }
-.palette-Cyan-50-Hint-text.bg {
+.palette-Cyan-50-Hint.bg {
   background-color: #00BCD4;
   color: rgba(0,0,0,0.38);
 }
@@ -3444,7 +3444,7 @@
   background-color: #00BCD4;
   color: rgba(0,0,0,0.87);
 }
-.palette-Cyan-100-Secondary-text.bg {
+.palette-Cyan-100-Secondary.bg {
   background-color: #00BCD4;
   color: rgba(0,0,0,0.54);
 }
@@ -3456,7 +3456,7 @@
   background-color: #00BCD4;
   color: rgba(0,0,0,0.38);
 }
-.palette-Cyan-100-Hint-text.bg {
+.palette-Cyan-100-Hint.bg {
   background-color: #00BCD4;
   color: rgba(0,0,0,0.38);
 }
@@ -3476,7 +3476,7 @@
   background-color: #00BCD4;
   color: rgba(0,0,0,0.87);
 }
-.palette-Cyan-200-Secondary-text.bg {
+.palette-Cyan-200-Secondary.bg {
   background-color: #00BCD4;
   color: rgba(0,0,0,0.54);
 }
@@ -3488,7 +3488,7 @@
   background-color: #00BCD4;
   color: rgba(0,0,0,0.38);
 }
-.palette-Cyan-200-Hint-text.bg {
+.palette-Cyan-200-Hint.bg {
   background-color: #00BCD4;
   color: rgba(0,0,0,0.38);
 }
@@ -3508,7 +3508,7 @@
   background-color: #00BCD4;
   color: rgba(0,0,0,0.87);
 }
-.palette-Cyan-300-Secondary-text.bg {
+.palette-Cyan-300-Secondary.bg {
   background-color: #00BCD4;
   color: rgba(0,0,0,0.54);
 }
@@ -3520,7 +3520,7 @@
   background-color: #00BCD4;
   color: rgba(0,0,0,0.38);
 }
-.palette-Cyan-300-Hint-text.bg {
+.palette-Cyan-300-Hint.bg {
   background-color: #00BCD4;
   color: rgba(0,0,0,0.38);
 }
@@ -3540,7 +3540,7 @@
   background-color: #00BCD4;
   color: rgba(0,0,0,0.87);
 }
-.palette-Cyan-400-Secondary-text.bg {
+.palette-Cyan-400-Secondary.bg {
   background-color: #00BCD4;
   color: rgba(0,0,0,0.54);
 }
@@ -3552,7 +3552,7 @@
   background-color: #00BCD4;
   color: rgba(0,0,0,0.38);
 }
-.palette-Cyan-400-Hint-text.bg {
+.palette-Cyan-400-Hint.bg {
   background-color: #00BCD4;
   color: rgba(0,0,0,0.38);
 }
@@ -3572,7 +3572,7 @@
   background-color: #00BCD4;
   color: rgba(0,0,0,0.87);
 }
-.palette-Cyan-500-Secondary-text.bg {
+.palette-Cyan-500-Secondary.bg {
   background-color: #00BCD4;
   color: rgba(0,0,0,0.54);
 }
@@ -3584,7 +3584,7 @@
   background-color: #00BCD4;
   color: rgba(0,0,0,0.38);
 }
-.palette-Cyan-500-Hint-text.bg {
+.palette-Cyan-500-Hint.bg {
   background-color: #00BCD4;
   color: rgba(0,0,0,0.38);
 }
@@ -3604,7 +3604,7 @@
   background-color: #00BCD4;
   color: rgba(0,0,0,0.87);
 }
-.palette-Cyan-600-Secondary-text.bg {
+.palette-Cyan-600-Secondary.bg {
   background-color: #00BCD4;
   color: rgba(0,0,0,0.54);
 }
@@ -3616,7 +3616,7 @@
   background-color: #00BCD4;
   color: rgba(0,0,0,0.38);
 }
-.palette-Cyan-600-Hint-text.bg {
+.palette-Cyan-600-Hint.bg {
   background-color: #00BCD4;
   color: rgba(0,0,0,0.38);
 }
@@ -3636,7 +3636,7 @@
   background-color: #00BCD4;
   color: rgba(0,0,0,0.87);
 }
-.palette-Cyan-700-Secondary-text.bg {
+.palette-Cyan-700-Secondary.bg {
   background-color: #00BCD4;
   color: rgba(0,0,0,0.54);
 }
@@ -3648,7 +3648,7 @@
   background-color: #00BCD4;
   color: rgba(0,0,0,0.38);
 }
-.palette-Cyan-700-Hint-text.bg {
+.palette-Cyan-700-Hint.bg {
   background-color: #00BCD4;
   color: rgba(0,0,0,0.38);
 }
@@ -3668,7 +3668,7 @@
   background-color: #00BCD4;
   color: rgba(0,0,0,0.87);
 }
-.palette-Cyan-800-Secondary-text.bg {
+.palette-Cyan-800-Secondary.bg {
   background-color: #00BCD4;
   color: rgba(0,0,0,0.54);
 }
@@ -3680,7 +3680,7 @@
   background-color: #00BCD4;
   color: rgba(0,0,0,0.38);
 }
-.palette-Cyan-800-Hint-text.bg {
+.palette-Cyan-800-Hint.bg {
   background-color: #00BCD4;
   color: rgba(0,0,0,0.38);
 }
@@ -3700,7 +3700,7 @@
   background-color: #00BCD4;
   color: rgba(0,0,0,0.87);
 }
-.palette-Cyan-900-Secondary-text.bg {
+.palette-Cyan-900-Secondary.bg {
   background-color: #00BCD4;
   color: rgba(0,0,0,0.54);
 }
@@ -3712,7 +3712,7 @@
   background-color: #00BCD4;
   color: rgba(0,0,0,0.38);
 }
-.palette-Cyan-900-Hint-text.bg {
+.palette-Cyan-900-Hint.bg {
   background-color: #00BCD4;
   color: rgba(0,0,0,0.38);
 }
@@ -3732,7 +3732,7 @@
   background-color: #00BCD4;
   color: rgba(0,0,0,0.87);
 }
-.palette-Cyan-A100-Secondary-text.bg {
+.palette-Cyan-A100-Secondary.bg {
   background-color: #00BCD4;
   color: rgba(0,0,0,0.54);
 }
@@ -3744,7 +3744,7 @@
   background-color: #00BCD4;
   color: rgba(0,0,0,0.38);
 }
-.palette-Cyan-A100-Hint-text.bg {
+.palette-Cyan-A100-Hint.bg {
   background-color: #00BCD4;
   color: rgba(0,0,0,0.38);
 }
@@ -3764,7 +3764,7 @@
   background-color: #00BCD4;
   color: rgba(0,0,0,0.87);
 }
-.palette-Cyan-A200-Secondary-text.bg {
+.palette-Cyan-A200-Secondary.bg {
   background-color: #00BCD4;
   color: rgba(0,0,0,0.54);
 }
@@ -3776,7 +3776,7 @@
   background-color: #00BCD4;
   color: rgba(0,0,0,0.38);
 }
-.palette-Cyan-A200-Hint-text.bg {
+.palette-Cyan-A200-Hint.bg {
   background-color: #00BCD4;
   color: rgba(0,0,0,0.38);
 }
@@ -3796,7 +3796,7 @@
   background-color: #00BCD4;
   color: rgba(0,0,0,0.87);
 }
-.palette-Cyan-A400-Secondary-text.bg {
+.palette-Cyan-A400-Secondary.bg {
   background-color: #00BCD4;
   color: rgba(0,0,0,0.54);
 }
@@ -3808,7 +3808,7 @@
   background-color: #00BCD4;
   color: rgba(0,0,0,0.38);
 }
-.palette-Cyan-A400-Hint-text.bg {
+.palette-Cyan-A400-Hint.bg {
   background-color: #00BCD4;
   color: rgba(0,0,0,0.38);
 }
@@ -3828,7 +3828,7 @@
   background-color: #00BCD4;
   color: rgba(0,0,0,0.87);
 }
-.palette-Cyan-A700-Secondary-text.bg {
+.palette-Cyan-A700-Secondary.bg {
   background-color: #00BCD4;
   color: rgba(0,0,0,0.54);
 }
@@ -3840,7 +3840,7 @@
   background-color: #00BCD4;
   color: rgba(0,0,0,0.38);
 }
-.palette-Cyan-A700-Hint-text.bg {
+.palette-Cyan-A700-Hint.bg {
   background-color: #00BCD4;
   color: rgba(0,0,0,0.38);
 }
@@ -3861,7 +3861,7 @@
   background-color: #009688;
   color: #ffffff;
 }
-.palette-Teal-Secondary-text.bg {
+.palette-Teal-Secondary.bg {
   background-color: #009688;
   color: rgba(255,255,255,0.7);
 }
@@ -3873,7 +3873,7 @@
   background-color: #009688;
   color: rgba(255,255,255,0.5);
 }
-.palette-Teal-Hint-text.bg {
+.palette-Teal-Hint.bg {
   background-color: #009688;
   color: rgba(255,255,255,0.5);
 }
@@ -3893,7 +3893,7 @@
   background-color: #009688;
   color: #ffffff;
 }
-.palette-Teal-50-Secondary-text.bg {
+.palette-Teal-50-Secondary.bg {
   background-color: #009688;
   color: rgba(255,255,255,0.7);
 }
@@ -3905,7 +3905,7 @@
   background-color: #009688;
   color: rgba(255,255,255,0.5);
 }
-.palette-Teal-50-Hint-text.bg {
+.palette-Teal-50-Hint.bg {
   background-color: #009688;
   color: rgba(255,255,255,0.5);
 }
@@ -3925,7 +3925,7 @@
   background-color: #009688;
   color: #ffffff;
 }
-.palette-Teal-100-Secondary-text.bg {
+.palette-Teal-100-Secondary.bg {
   background-color: #009688;
   color: rgba(255,255,255,0.7);
 }
@@ -3937,7 +3937,7 @@
   background-color: #009688;
   color: rgba(255,255,255,0.5);
 }
-.palette-Teal-100-Hint-text.bg {
+.palette-Teal-100-Hint.bg {
   background-color: #009688;
   color: rgba(255,255,255,0.5);
 }
@@ -3957,7 +3957,7 @@
   background-color: #009688;
   color: #ffffff;
 }
-.palette-Teal-200-Secondary-text.bg {
+.palette-Teal-200-Secondary.bg {
   background-color: #009688;
   color: rgba(255,255,255,0.7);
 }
@@ -3969,7 +3969,7 @@
   background-color: #009688;
   color: rgba(255,255,255,0.5);
 }
-.palette-Teal-200-Hint-text.bg {
+.palette-Teal-200-Hint.bg {
   background-color: #009688;
   color: rgba(255,255,255,0.5);
 }
@@ -3989,7 +3989,7 @@
   background-color: #009688;
   color: #ffffff;
 }
-.palette-Teal-300-Secondary-text.bg {
+.palette-Teal-300-Secondary.bg {
   background-color: #009688;
   color: rgba(255,255,255,0.7);
 }
@@ -4001,7 +4001,7 @@
   background-color: #009688;
   color: rgba(255,255,255,0.5);
 }
-.palette-Teal-300-Hint-text.bg {
+.palette-Teal-300-Hint.bg {
   background-color: #009688;
   color: rgba(255,255,255,0.5);
 }
@@ -4021,7 +4021,7 @@
   background-color: #009688;
   color: #ffffff;
 }
-.palette-Teal-400-Secondary-text.bg {
+.palette-Teal-400-Secondary.bg {
   background-color: #009688;
   color: rgba(255,255,255,0.7);
 }
@@ -4033,7 +4033,7 @@
   background-color: #009688;
   color: rgba(255,255,255,0.5);
 }
-.palette-Teal-400-Hint-text.bg {
+.palette-Teal-400-Hint.bg {
   background-color: #009688;
   color: rgba(255,255,255,0.5);
 }
@@ -4053,7 +4053,7 @@
   background-color: #009688;
   color: #ffffff;
 }
-.palette-Teal-500-Secondary-text.bg {
+.palette-Teal-500-Secondary.bg {
   background-color: #009688;
   color: rgba(255,255,255,0.7);
 }
@@ -4065,7 +4065,7 @@
   background-color: #009688;
   color: rgba(255,255,255,0.5);
 }
-.palette-Teal-500-Hint-text.bg {
+.palette-Teal-500-Hint.bg {
   background-color: #009688;
   color: rgba(255,255,255,0.5);
 }
@@ -4085,7 +4085,7 @@
   background-color: #009688;
   color: #ffffff;
 }
-.palette-Teal-600-Secondary-text.bg {
+.palette-Teal-600-Secondary.bg {
   background-color: #009688;
   color: rgba(255,255,255,0.7);
 }
@@ -4097,7 +4097,7 @@
   background-color: #009688;
   color: rgba(255,255,255,0.5);
 }
-.palette-Teal-600-Hint-text.bg {
+.palette-Teal-600-Hint.bg {
   background-color: #009688;
   color: rgba(255,255,255,0.5);
 }
@@ -4117,7 +4117,7 @@
   background-color: #009688;
   color: #ffffff;
 }
-.palette-Teal-700-Secondary-text.bg {
+.palette-Teal-700-Secondary.bg {
   background-color: #009688;
   color: rgba(255,255,255,0.7);
 }
@@ -4129,7 +4129,7 @@
   background-color: #009688;
   color: rgba(255,255,255,0.5);
 }
-.palette-Teal-700-Hint-text.bg {
+.palette-Teal-700-Hint.bg {
   background-color: #009688;
   color: rgba(255,255,255,0.5);
 }
@@ -4149,7 +4149,7 @@
   background-color: #009688;
   color: #ffffff;
 }
-.palette-Teal-800-Secondary-text.bg {
+.palette-Teal-800-Secondary.bg {
   background-color: #009688;
   color: rgba(255,255,255,0.7);
 }
@@ -4161,7 +4161,7 @@
   background-color: #009688;
   color: rgba(255,255,255,0.5);
 }
-.palette-Teal-800-Hint-text.bg {
+.palette-Teal-800-Hint.bg {
   background-color: #009688;
   color: rgba(255,255,255,0.5);
 }
@@ -4181,7 +4181,7 @@
   background-color: #009688;
   color: #ffffff;
 }
-.palette-Teal-900-Secondary-text.bg {
+.palette-Teal-900-Secondary.bg {
   background-color: #009688;
   color: rgba(255,255,255,0.7);
 }
@@ -4193,7 +4193,7 @@
   background-color: #009688;
   color: rgba(255,255,255,0.5);
 }
-.palette-Teal-900-Hint-text.bg {
+.palette-Teal-900-Hint.bg {
   background-color: #009688;
   color: rgba(255,255,255,0.5);
 }
@@ -4213,7 +4213,7 @@
   background-color: #009688;
   color: #ffffff;
 }
-.palette-Teal-A100-Secondary-text.bg {
+.palette-Teal-A100-Secondary.bg {
   background-color: #009688;
   color: rgba(255,255,255,0.7);
 }
@@ -4225,7 +4225,7 @@
   background-color: #009688;
   color: rgba(255,255,255,0.5);
 }
-.palette-Teal-A100-Hint-text.bg {
+.palette-Teal-A100-Hint.bg {
   background-color: #009688;
   color: rgba(255,255,255,0.5);
 }
@@ -4245,7 +4245,7 @@
   background-color: #009688;
   color: #ffffff;
 }
-.palette-Teal-A200-Secondary-text.bg {
+.palette-Teal-A200-Secondary.bg {
   background-color: #009688;
   color: rgba(255,255,255,0.7);
 }
@@ -4257,7 +4257,7 @@
   background-color: #009688;
   color: rgba(255,255,255,0.5);
 }
-.palette-Teal-A200-Hint-text.bg {
+.palette-Teal-A200-Hint.bg {
   background-color: #009688;
   color: rgba(255,255,255,0.5);
 }
@@ -4277,7 +4277,7 @@
   background-color: #009688;
   color: #ffffff;
 }
-.palette-Teal-A400-Secondary-text.bg {
+.palette-Teal-A400-Secondary.bg {
   background-color: #009688;
   color: rgba(255,255,255,0.7);
 }
@@ -4289,7 +4289,7 @@
   background-color: #009688;
   color: rgba(255,255,255,0.5);
 }
-.palette-Teal-A400-Hint-text.bg {
+.palette-Teal-A400-Hint.bg {
   background-color: #009688;
   color: rgba(255,255,255,0.5);
 }
@@ -4309,7 +4309,7 @@
   background-color: #009688;
   color: #ffffff;
 }
-.palette-Teal-A700-Secondary-text.bg {
+.palette-Teal-A700-Secondary.bg {
   background-color: #009688;
   color: rgba(255,255,255,0.7);
 }
@@ -4321,7 +4321,7 @@
   background-color: #009688;
   color: rgba(255,255,255,0.5);
 }
-.palette-Teal-A700-Hint-text.bg {
+.palette-Teal-A700-Hint.bg {
   background-color: #009688;
   color: rgba(255,255,255,0.5);
 }
@@ -4342,7 +4342,7 @@
   background-color: #4CAF50;
   color: rgba(0,0,0,0.87);
 }
-.palette-Green-Secondary-text.bg {
+.palette-Green-Secondary.bg {
   background-color: #4CAF50;
   color: rgba(0,0,0,0.54);
 }
@@ -4354,7 +4354,7 @@
   background-color: #4CAF50;
   color: rgba(0,0,0,0.38);
 }
-.palette-Green-Hint-text.bg {
+.palette-Green-Hint.bg {
   background-color: #4CAF50;
   color: rgba(0,0,0,0.38);
 }
@@ -4374,7 +4374,7 @@
   background-color: #4CAF50;
   color: rgba(0,0,0,0.87);
 }
-.palette-Green-50-Secondary-text.bg {
+.palette-Green-50-Secondary.bg {
   background-color: #4CAF50;
   color: rgba(0,0,0,0.54);
 }
@@ -4386,7 +4386,7 @@
   background-color: #4CAF50;
   color: rgba(0,0,0,0.38);
 }
-.palette-Green-50-Hint-text.bg {
+.palette-Green-50-Hint.bg {
   background-color: #4CAF50;
   color: rgba(0,0,0,0.38);
 }
@@ -4406,7 +4406,7 @@
   background-color: #4CAF50;
   color: rgba(0,0,0,0.87);
 }
-.palette-Green-100-Secondary-text.bg {
+.palette-Green-100-Secondary.bg {
   background-color: #4CAF50;
   color: rgba(0,0,0,0.54);
 }
@@ -4418,7 +4418,7 @@
   background-color: #4CAF50;
   color: rgba(0,0,0,0.38);
 }
-.palette-Green-100-Hint-text.bg {
+.palette-Green-100-Hint.bg {
   background-color: #4CAF50;
   color: rgba(0,0,0,0.38);
 }
@@ -4438,7 +4438,7 @@
   background-color: #4CAF50;
   color: rgba(0,0,0,0.87);
 }
-.palette-Green-200-Secondary-text.bg {
+.palette-Green-200-Secondary.bg {
   background-color: #4CAF50;
   color: rgba(0,0,0,0.54);
 }
@@ -4450,7 +4450,7 @@
   background-color: #4CAF50;
   color: rgba(0,0,0,0.38);
 }
-.palette-Green-200-Hint-text.bg {
+.palette-Green-200-Hint.bg {
   background-color: #4CAF50;
   color: rgba(0,0,0,0.38);
 }
@@ -4470,7 +4470,7 @@
   background-color: #4CAF50;
   color: rgba(0,0,0,0.87);
 }
-.palette-Green-300-Secondary-text.bg {
+.palette-Green-300-Secondary.bg {
   background-color: #4CAF50;
   color: rgba(0,0,0,0.54);
 }
@@ -4482,7 +4482,7 @@
   background-color: #4CAF50;
   color: rgba(0,0,0,0.38);
 }
-.palette-Green-300-Hint-text.bg {
+.palette-Green-300-Hint.bg {
   background-color: #4CAF50;
   color: rgba(0,0,0,0.38);
 }
@@ -4502,7 +4502,7 @@
   background-color: #4CAF50;
   color: rgba(0,0,0,0.87);
 }
-.palette-Green-400-Secondary-text.bg {
+.palette-Green-400-Secondary.bg {
   background-color: #4CAF50;
   color: rgba(0,0,0,0.54);
 }
@@ -4514,7 +4514,7 @@
   background-color: #4CAF50;
   color: rgba(0,0,0,0.38);
 }
-.palette-Green-400-Hint-text.bg {
+.palette-Green-400-Hint.bg {
   background-color: #4CAF50;
   color: rgba(0,0,0,0.38);
 }
@@ -4534,7 +4534,7 @@
   background-color: #4CAF50;
   color: rgba(0,0,0,0.87);
 }
-.palette-Green-500-Secondary-text.bg {
+.palette-Green-500-Secondary.bg {
   background-color: #4CAF50;
   color: rgba(0,0,0,0.54);
 }
@@ -4546,7 +4546,7 @@
   background-color: #4CAF50;
   color: rgba(0,0,0,0.38);
 }
-.palette-Green-500-Hint-text.bg {
+.palette-Green-500-Hint.bg {
   background-color: #4CAF50;
   color: rgba(0,0,0,0.38);
 }
@@ -4566,7 +4566,7 @@
   background-color: #4CAF50;
   color: rgba(0,0,0,0.87);
 }
-.palette-Green-600-Secondary-text.bg {
+.palette-Green-600-Secondary.bg {
   background-color: #4CAF50;
   color: rgba(0,0,0,0.54);
 }
@@ -4578,7 +4578,7 @@
   background-color: #4CAF50;
   color: rgba(0,0,0,0.38);
 }
-.palette-Green-600-Hint-text.bg {
+.palette-Green-600-Hint.bg {
   background-color: #4CAF50;
   color: rgba(0,0,0,0.38);
 }
@@ -4598,7 +4598,7 @@
   background-color: #4CAF50;
   color: rgba(0,0,0,0.87);
 }
-.palette-Green-700-Secondary-text.bg {
+.palette-Green-700-Secondary.bg {
   background-color: #4CAF50;
   color: rgba(0,0,0,0.54);
 }
@@ -4610,7 +4610,7 @@
   background-color: #4CAF50;
   color: rgba(0,0,0,0.38);
 }
-.palette-Green-700-Hint-text.bg {
+.palette-Green-700-Hint.bg {
   background-color: #4CAF50;
   color: rgba(0,0,0,0.38);
 }
@@ -4630,7 +4630,7 @@
   background-color: #4CAF50;
   color: rgba(0,0,0,0.87);
 }
-.palette-Green-800-Secondary-text.bg {
+.palette-Green-800-Secondary.bg {
   background-color: #4CAF50;
   color: rgba(0,0,0,0.54);
 }
@@ -4642,7 +4642,7 @@
   background-color: #4CAF50;
   color: rgba(0,0,0,0.38);
 }
-.palette-Green-800-Hint-text.bg {
+.palette-Green-800-Hint.bg {
   background-color: #4CAF50;
   color: rgba(0,0,0,0.38);
 }
@@ -4662,7 +4662,7 @@
   background-color: #4CAF50;
   color: rgba(0,0,0,0.87);
 }
-.palette-Green-900-Secondary-text.bg {
+.palette-Green-900-Secondary.bg {
   background-color: #4CAF50;
   color: rgba(0,0,0,0.54);
 }
@@ -4674,7 +4674,7 @@
   background-color: #4CAF50;
   color: rgba(0,0,0,0.38);
 }
-.palette-Green-900-Hint-text.bg {
+.palette-Green-900-Hint.bg {
   background-color: #4CAF50;
   color: rgba(0,0,0,0.38);
 }
@@ -4694,7 +4694,7 @@
   background-color: #4CAF50;
   color: rgba(0,0,0,0.87);
 }
-.palette-Green-A100-Secondary-text.bg {
+.palette-Green-A100-Secondary.bg {
   background-color: #4CAF50;
   color: rgba(0,0,0,0.54);
 }
@@ -4706,7 +4706,7 @@
   background-color: #4CAF50;
   color: rgba(0,0,0,0.38);
 }
-.palette-Green-A100-Hint-text.bg {
+.palette-Green-A100-Hint.bg {
   background-color: #4CAF50;
   color: rgba(0,0,0,0.38);
 }
@@ -4726,7 +4726,7 @@
   background-color: #4CAF50;
   color: rgba(0,0,0,0.87);
 }
-.palette-Green-A200-Secondary-text.bg {
+.palette-Green-A200-Secondary.bg {
   background-color: #4CAF50;
   color: rgba(0,0,0,0.54);
 }
@@ -4738,7 +4738,7 @@
   background-color: #4CAF50;
   color: rgba(0,0,0,0.38);
 }
-.palette-Green-A200-Hint-text.bg {
+.palette-Green-A200-Hint.bg {
   background-color: #4CAF50;
   color: rgba(0,0,0,0.38);
 }
@@ -4758,7 +4758,7 @@
   background-color: #4CAF50;
   color: rgba(0,0,0,0.87);
 }
-.palette-Green-A400-Secondary-text.bg {
+.palette-Green-A400-Secondary.bg {
   background-color: #4CAF50;
   color: rgba(0,0,0,0.54);
 }
@@ -4770,7 +4770,7 @@
   background-color: #4CAF50;
   color: rgba(0,0,0,0.38);
 }
-.palette-Green-A400-Hint-text.bg {
+.palette-Green-A400-Hint.bg {
   background-color: #4CAF50;
   color: rgba(0,0,0,0.38);
 }
@@ -4790,7 +4790,7 @@
   background-color: #4CAF50;
   color: rgba(0,0,0,0.87);
 }
-.palette-Green-A700-Secondary-text.bg {
+.palette-Green-A700-Secondary.bg {
   background-color: #4CAF50;
   color: rgba(0,0,0,0.54);
 }
@@ -4802,7 +4802,7 @@
   background-color: #4CAF50;
   color: rgba(0,0,0,0.38);
 }
-.palette-Green-A700-Hint-text.bg {
+.palette-Green-A700-Hint.bg {
   background-color: #4CAF50;
   color: rgba(0,0,0,0.38);
 }
@@ -4823,7 +4823,7 @@
   background-color: #8BC34A;
   color: rgba(0,0,0,0.87);
 }
-.palette-Light-Green-Secondary-text.bg {
+.palette-Light-Green-Secondary.bg {
   background-color: #8BC34A;
   color: rgba(0,0,0,0.54);
 }
@@ -4835,7 +4835,7 @@
   background-color: #8BC34A;
   color: rgba(0,0,0,0.38);
 }
-.palette-Light-Green-Hint-text.bg {
+.palette-Light-Green-Hint.bg {
   background-color: #8BC34A;
   color: rgba(0,0,0,0.38);
 }
@@ -4855,7 +4855,7 @@
   background-color: #8BC34A;
   color: rgba(0,0,0,0.87);
 }
-.palette-Light-Green-50-Secondary-text.bg {
+.palette-Light-Green-50-Secondary.bg {
   background-color: #8BC34A;
   color: rgba(0,0,0,0.54);
 }
@@ -4867,7 +4867,7 @@
   background-color: #8BC34A;
   color: rgba(0,0,0,0.38);
 }
-.palette-Light-Green-50-Hint-text.bg {
+.palette-Light-Green-50-Hint.bg {
   background-color: #8BC34A;
   color: rgba(0,0,0,0.38);
 }
@@ -4887,7 +4887,7 @@
   background-color: #8BC34A;
   color: rgba(0,0,0,0.87);
 }
-.palette-Light-Green-100-Secondary-text.bg {
+.palette-Light-Green-100-Secondary.bg {
   background-color: #8BC34A;
   color: rgba(0,0,0,0.54);
 }
@@ -4899,7 +4899,7 @@
   background-color: #8BC34A;
   color: rgba(0,0,0,0.38);
 }
-.palette-Light-Green-100-Hint-text.bg {
+.palette-Light-Green-100-Hint.bg {
   background-color: #8BC34A;
   color: rgba(0,0,0,0.38);
 }
@@ -4919,7 +4919,7 @@
   background-color: #8BC34A;
   color: rgba(0,0,0,0.87);
 }
-.palette-Light-Green-200-Secondary-text.bg {
+.palette-Light-Green-200-Secondary.bg {
   background-color: #8BC34A;
   color: rgba(0,0,0,0.54);
 }
@@ -4931,7 +4931,7 @@
   background-color: #8BC34A;
   color: rgba(0,0,0,0.38);
 }
-.palette-Light-Green-200-Hint-text.bg {
+.palette-Light-Green-200-Hint.bg {
   background-color: #8BC34A;
   color: rgba(0,0,0,0.38);
 }
@@ -4951,7 +4951,7 @@
   background-color: #8BC34A;
   color: rgba(0,0,0,0.87);
 }
-.palette-Light-Green-300-Secondary-text.bg {
+.palette-Light-Green-300-Secondary.bg {
   background-color: #8BC34A;
   color: rgba(0,0,0,0.54);
 }
@@ -4963,7 +4963,7 @@
   background-color: #8BC34A;
   color: rgba(0,0,0,0.38);
 }
-.palette-Light-Green-300-Hint-text.bg {
+.palette-Light-Green-300-Hint.bg {
   background-color: #8BC34A;
   color: rgba(0,0,0,0.38);
 }
@@ -4983,7 +4983,7 @@
   background-color: #8BC34A;
   color: rgba(0,0,0,0.87);
 }
-.palette-Light-Green-400-Secondary-text.bg {
+.palette-Light-Green-400-Secondary.bg {
   background-color: #8BC34A;
   color: rgba(0,0,0,0.54);
 }
@@ -4995,7 +4995,7 @@
   background-color: #8BC34A;
   color: rgba(0,0,0,0.38);
 }
-.palette-Light-Green-400-Hint-text.bg {
+.palette-Light-Green-400-Hint.bg {
   background-color: #8BC34A;
   color: rgba(0,0,0,0.38);
 }
@@ -5015,7 +5015,7 @@
   background-color: #8BC34A;
   color: rgba(0,0,0,0.87);
 }
-.palette-Light-Green-500-Secondary-text.bg {
+.palette-Light-Green-500-Secondary.bg {
   background-color: #8BC34A;
   color: rgba(0,0,0,0.54);
 }
@@ -5027,7 +5027,7 @@
   background-color: #8BC34A;
   color: rgba(0,0,0,0.38);
 }
-.palette-Light-Green-500-Hint-text.bg {
+.palette-Light-Green-500-Hint.bg {
   background-color: #8BC34A;
   color: rgba(0,0,0,0.38);
 }
@@ -5047,7 +5047,7 @@
   background-color: #8BC34A;
   color: rgba(0,0,0,0.87);
 }
-.palette-Light-Green-600-Secondary-text.bg {
+.palette-Light-Green-600-Secondary.bg {
   background-color: #8BC34A;
   color: rgba(0,0,0,0.54);
 }
@@ -5059,7 +5059,7 @@
   background-color: #8BC34A;
   color: rgba(0,0,0,0.38);
 }
-.palette-Light-Green-600-Hint-text.bg {
+.palette-Light-Green-600-Hint.bg {
   background-color: #8BC34A;
   color: rgba(0,0,0,0.38);
 }
@@ -5079,7 +5079,7 @@
   background-color: #8BC34A;
   color: rgba(0,0,0,0.87);
 }
-.palette-Light-Green-700-Secondary-text.bg {
+.palette-Light-Green-700-Secondary.bg {
   background-color: #8BC34A;
   color: rgba(0,0,0,0.54);
 }
@@ -5091,7 +5091,7 @@
   background-color: #8BC34A;
   color: rgba(0,0,0,0.38);
 }
-.palette-Light-Green-700-Hint-text.bg {
+.palette-Light-Green-700-Hint.bg {
   background-color: #8BC34A;
   color: rgba(0,0,0,0.38);
 }
@@ -5111,7 +5111,7 @@
   background-color: #8BC34A;
   color: rgba(0,0,0,0.87);
 }
-.palette-Light-Green-800-Secondary-text.bg {
+.palette-Light-Green-800-Secondary.bg {
   background-color: #8BC34A;
   color: rgba(0,0,0,0.54);
 }
@@ -5123,7 +5123,7 @@
   background-color: #8BC34A;
   color: rgba(0,0,0,0.38);
 }
-.palette-Light-Green-800-Hint-text.bg {
+.palette-Light-Green-800-Hint.bg {
   background-color: #8BC34A;
   color: rgba(0,0,0,0.38);
 }
@@ -5143,7 +5143,7 @@
   background-color: #8BC34A;
   color: rgba(0,0,0,0.87);
 }
-.palette-Light-Green-900-Secondary-text.bg {
+.palette-Light-Green-900-Secondary.bg {
   background-color: #8BC34A;
   color: rgba(0,0,0,0.54);
 }
@@ -5155,7 +5155,7 @@
   background-color: #8BC34A;
   color: rgba(0,0,0,0.38);
 }
-.palette-Light-Green-900-Hint-text.bg {
+.palette-Light-Green-900-Hint.bg {
   background-color: #8BC34A;
   color: rgba(0,0,0,0.38);
 }
@@ -5175,7 +5175,7 @@
   background-color: #8BC34A;
   color: rgba(0,0,0,0.87);
 }
-.palette-Light-Green-A100-Secondary-text.bg {
+.palette-Light-Green-A100-Secondary.bg {
   background-color: #8BC34A;
   color: rgba(0,0,0,0.54);
 }
@@ -5187,7 +5187,7 @@
   background-color: #8BC34A;
   color: rgba(0,0,0,0.38);
 }
-.palette-Light-Green-A100-Hint-text.bg {
+.palette-Light-Green-A100-Hint.bg {
   background-color: #8BC34A;
   color: rgba(0,0,0,0.38);
 }
@@ -5207,7 +5207,7 @@
   background-color: #8BC34A;
   color: rgba(0,0,0,0.87);
 }
-.palette-Light-Green-A200-Secondary-text.bg {
+.palette-Light-Green-A200-Secondary.bg {
   background-color: #8BC34A;
   color: rgba(0,0,0,0.54);
 }
@@ -5219,7 +5219,7 @@
   background-color: #8BC34A;
   color: rgba(0,0,0,0.38);
 }
-.palette-Light-Green-A200-Hint-text.bg {
+.palette-Light-Green-A200-Hint.bg {
   background-color: #8BC34A;
   color: rgba(0,0,0,0.38);
 }
@@ -5239,7 +5239,7 @@
   background-color: #8BC34A;
   color: rgba(0,0,0,0.87);
 }
-.palette-Light-Green-A400-Secondary-text.bg {
+.palette-Light-Green-A400-Secondary.bg {
   background-color: #8BC34A;
   color: rgba(0,0,0,0.54);
 }
@@ -5251,7 +5251,7 @@
   background-color: #8BC34A;
   color: rgba(0,0,0,0.38);
 }
-.palette-Light-Green-A400-Hint-text.bg {
+.palette-Light-Green-A400-Hint.bg {
   background-color: #8BC34A;
   color: rgba(0,0,0,0.38);
 }
@@ -5271,7 +5271,7 @@
   background-color: #8BC34A;
   color: rgba(0,0,0,0.87);
 }
-.palette-Light-Green-A700-Secondary-text.bg {
+.palette-Light-Green-A700-Secondary.bg {
   background-color: #8BC34A;
   color: rgba(0,0,0,0.54);
 }
@@ -5283,7 +5283,7 @@
   background-color: #8BC34A;
   color: rgba(0,0,0,0.38);
 }
-.palette-Light-Green-A700-Hint-text.bg {
+.palette-Light-Green-A700-Hint.bg {
   background-color: #8BC34A;
   color: rgba(0,0,0,0.38);
 }
@@ -5304,7 +5304,7 @@
   background-color: #CDDC39;
   color: rgba(0,0,0,0.87);
 }
-.palette-Lime-Secondary-text.bg {
+.palette-Lime-Secondary.bg {
   background-color: #CDDC39;
   color: rgba(0,0,0,0.54);
 }
@@ -5316,7 +5316,7 @@
   background-color: #CDDC39;
   color: rgba(0,0,0,0.38);
 }
-.palette-Lime-Hint-text.bg {
+.palette-Lime-Hint.bg {
   background-color: #CDDC39;
   color: rgba(0,0,0,0.38);
 }
@@ -5336,7 +5336,7 @@
   background-color: #CDDC39;
   color: rgba(0,0,0,0.87);
 }
-.palette-Lime-50-Secondary-text.bg {
+.palette-Lime-50-Secondary.bg {
   background-color: #CDDC39;
   color: rgba(0,0,0,0.54);
 }
@@ -5348,7 +5348,7 @@
   background-color: #CDDC39;
   color: rgba(0,0,0,0.38);
 }
-.palette-Lime-50-Hint-text.bg {
+.palette-Lime-50-Hint.bg {
   background-color: #CDDC39;
   color: rgba(0,0,0,0.38);
 }
@@ -5368,7 +5368,7 @@
   background-color: #CDDC39;
   color: rgba(0,0,0,0.87);
 }
-.palette-Lime-100-Secondary-text.bg {
+.palette-Lime-100-Secondary.bg {
   background-color: #CDDC39;
   color: rgba(0,0,0,0.54);
 }
@@ -5380,7 +5380,7 @@
   background-color: #CDDC39;
   color: rgba(0,0,0,0.38);
 }
-.palette-Lime-100-Hint-text.bg {
+.palette-Lime-100-Hint.bg {
   background-color: #CDDC39;
   color: rgba(0,0,0,0.38);
 }
@@ -5400,7 +5400,7 @@
   background-color: #CDDC39;
   color: rgba(0,0,0,0.87);
 }
-.palette-Lime-200-Secondary-text.bg {
+.palette-Lime-200-Secondary.bg {
   background-color: #CDDC39;
   color: rgba(0,0,0,0.54);
 }
@@ -5412,7 +5412,7 @@
   background-color: #CDDC39;
   color: rgba(0,0,0,0.38);
 }
-.palette-Lime-200-Hint-text.bg {
+.palette-Lime-200-Hint.bg {
   background-color: #CDDC39;
   color: rgba(0,0,0,0.38);
 }
@@ -5432,7 +5432,7 @@
   background-color: #CDDC39;
   color: rgba(0,0,0,0.87);
 }
-.palette-Lime-300-Secondary-text.bg {
+.palette-Lime-300-Secondary.bg {
   background-color: #CDDC39;
   color: rgba(0,0,0,0.54);
 }
@@ -5444,7 +5444,7 @@
   background-color: #CDDC39;
   color: rgba(0,0,0,0.38);
 }
-.palette-Lime-300-Hint-text.bg {
+.palette-Lime-300-Hint.bg {
   background-color: #CDDC39;
   color: rgba(0,0,0,0.38);
 }
@@ -5464,7 +5464,7 @@
   background-color: #CDDC39;
   color: rgba(0,0,0,0.87);
 }
-.palette-Lime-400-Secondary-text.bg {
+.palette-Lime-400-Secondary.bg {
   background-color: #CDDC39;
   color: rgba(0,0,0,0.54);
 }
@@ -5476,7 +5476,7 @@
   background-color: #CDDC39;
   color: rgba(0,0,0,0.38);
 }
-.palette-Lime-400-Hint-text.bg {
+.palette-Lime-400-Hint.bg {
   background-color: #CDDC39;
   color: rgba(0,0,0,0.38);
 }
@@ -5496,7 +5496,7 @@
   background-color: #CDDC39;
   color: rgba(0,0,0,0.87);
 }
-.palette-Lime-500-Secondary-text.bg {
+.palette-Lime-500-Secondary.bg {
   background-color: #CDDC39;
   color: rgba(0,0,0,0.54);
 }
@@ -5508,7 +5508,7 @@
   background-color: #CDDC39;
   color: rgba(0,0,0,0.38);
 }
-.palette-Lime-500-Hint-text.bg {
+.palette-Lime-500-Hint.bg {
   background-color: #CDDC39;
   color: rgba(0,0,0,0.38);
 }
@@ -5528,7 +5528,7 @@
   background-color: #CDDC39;
   color: rgba(0,0,0,0.87);
 }
-.palette-Lime-600-Secondary-text.bg {
+.palette-Lime-600-Secondary.bg {
   background-color: #CDDC39;
   color: rgba(0,0,0,0.54);
 }
@@ -5540,7 +5540,7 @@
   background-color: #CDDC39;
   color: rgba(0,0,0,0.38);
 }
-.palette-Lime-600-Hint-text.bg {
+.palette-Lime-600-Hint.bg {
   background-color: #CDDC39;
   color: rgba(0,0,0,0.38);
 }
@@ -5560,7 +5560,7 @@
   background-color: #CDDC39;
   color: rgba(0,0,0,0.87);
 }
-.palette-Lime-700-Secondary-text.bg {
+.palette-Lime-700-Secondary.bg {
   background-color: #CDDC39;
   color: rgba(0,0,0,0.54);
 }
@@ -5572,7 +5572,7 @@
   background-color: #CDDC39;
   color: rgba(0,0,0,0.38);
 }
-.palette-Lime-700-Hint-text.bg {
+.palette-Lime-700-Hint.bg {
   background-color: #CDDC39;
   color: rgba(0,0,0,0.38);
 }
@@ -5592,7 +5592,7 @@
   background-color: #CDDC39;
   color: rgba(0,0,0,0.87);
 }
-.palette-Lime-800-Secondary-text.bg {
+.palette-Lime-800-Secondary.bg {
   background-color: #CDDC39;
   color: rgba(0,0,0,0.54);
 }
@@ -5604,7 +5604,7 @@
   background-color: #CDDC39;
   color: rgba(0,0,0,0.38);
 }
-.palette-Lime-800-Hint-text.bg {
+.palette-Lime-800-Hint.bg {
   background-color: #CDDC39;
   color: rgba(0,0,0,0.38);
 }
@@ -5624,7 +5624,7 @@
   background-color: #CDDC39;
   color: rgba(0,0,0,0.87);
 }
-.palette-Lime-900-Secondary-text.bg {
+.palette-Lime-900-Secondary.bg {
   background-color: #CDDC39;
   color: rgba(0,0,0,0.54);
 }
@@ -5636,7 +5636,7 @@
   background-color: #CDDC39;
   color: rgba(0,0,0,0.38);
 }
-.palette-Lime-900-Hint-text.bg {
+.palette-Lime-900-Hint.bg {
   background-color: #CDDC39;
   color: rgba(0,0,0,0.38);
 }
@@ -5656,7 +5656,7 @@
   background-color: #CDDC39;
   color: rgba(0,0,0,0.87);
 }
-.palette-Lime-A100-Secondary-text.bg {
+.palette-Lime-A100-Secondary.bg {
   background-color: #CDDC39;
   color: rgba(0,0,0,0.54);
 }
@@ -5668,7 +5668,7 @@
   background-color: #CDDC39;
   color: rgba(0,0,0,0.38);
 }
-.palette-Lime-A100-Hint-text.bg {
+.palette-Lime-A100-Hint.bg {
   background-color: #CDDC39;
   color: rgba(0,0,0,0.38);
 }
@@ -5688,7 +5688,7 @@
   background-color: #CDDC39;
   color: rgba(0,0,0,0.87);
 }
-.palette-Lime-A200-Secondary-text.bg {
+.palette-Lime-A200-Secondary.bg {
   background-color: #CDDC39;
   color: rgba(0,0,0,0.54);
 }
@@ -5700,7 +5700,7 @@
   background-color: #CDDC39;
   color: rgba(0,0,0,0.38);
 }
-.palette-Lime-A200-Hint-text.bg {
+.palette-Lime-A200-Hint.bg {
   background-color: #CDDC39;
   color: rgba(0,0,0,0.38);
 }
@@ -5720,7 +5720,7 @@
   background-color: #CDDC39;
   color: rgba(0,0,0,0.87);
 }
-.palette-Lime-A400-Secondary-text.bg {
+.palette-Lime-A400-Secondary.bg {
   background-color: #CDDC39;
   color: rgba(0,0,0,0.54);
 }
@@ -5732,7 +5732,7 @@
   background-color: #CDDC39;
   color: rgba(0,0,0,0.38);
 }
-.palette-Lime-A400-Hint-text.bg {
+.palette-Lime-A400-Hint.bg {
   background-color: #CDDC39;
   color: rgba(0,0,0,0.38);
 }
@@ -5752,7 +5752,7 @@
   background-color: #CDDC39;
   color: rgba(0,0,0,0.87);
 }
-.palette-Lime-A700-Secondary-text.bg {
+.palette-Lime-A700-Secondary.bg {
   background-color: #CDDC39;
   color: rgba(0,0,0,0.54);
 }
@@ -5764,7 +5764,7 @@
   background-color: #CDDC39;
   color: rgba(0,0,0,0.38);
 }
-.palette-Lime-A700-Hint-text.bg {
+.palette-Lime-A700-Hint.bg {
   background-color: #CDDC39;
   color: rgba(0,0,0,0.38);
 }
@@ -5785,7 +5785,7 @@
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.87);
 }
-.palette-Yellow-Secondary-text.bg {
+.palette-Yellow-Secondary.bg {
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.54);
 }
@@ -5797,7 +5797,7 @@
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.38);
 }
-.palette-Yellow-Hint-text.bg {
+.palette-Yellow-Hint.bg {
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.38);
 }
@@ -5817,7 +5817,7 @@
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.87);
 }
-.palette-Yellow-50-Secondary-text.bg {
+.palette-Yellow-50-Secondary.bg {
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.54);
 }
@@ -5829,7 +5829,7 @@
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.38);
 }
-.palette-Yellow-50-Hint-text.bg {
+.palette-Yellow-50-Hint.bg {
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.38);
 }
@@ -5849,7 +5849,7 @@
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.87);
 }
-.palette-Yellow-100-Secondary-text.bg {
+.palette-Yellow-100-Secondary.bg {
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.54);
 }
@@ -5861,7 +5861,7 @@
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.38);
 }
-.palette-Yellow-100-Hint-text.bg {
+.palette-Yellow-100-Hint.bg {
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.38);
 }
@@ -5881,7 +5881,7 @@
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.87);
 }
-.palette-Yellow-200-Secondary-text.bg {
+.palette-Yellow-200-Secondary.bg {
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.54);
 }
@@ -5893,7 +5893,7 @@
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.38);
 }
-.palette-Yellow-200-Hint-text.bg {
+.palette-Yellow-200-Hint.bg {
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.38);
 }
@@ -5913,7 +5913,7 @@
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.87);
 }
-.palette-Yellow-300-Secondary-text.bg {
+.palette-Yellow-300-Secondary.bg {
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.54);
 }
@@ -5925,7 +5925,7 @@
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.38);
 }
-.palette-Yellow-300-Hint-text.bg {
+.palette-Yellow-300-Hint.bg {
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.38);
 }
@@ -5945,7 +5945,7 @@
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.87);
 }
-.palette-Yellow-400-Secondary-text.bg {
+.palette-Yellow-400-Secondary.bg {
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.54);
 }
@@ -5957,7 +5957,7 @@
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.38);
 }
-.palette-Yellow-400-Hint-text.bg {
+.palette-Yellow-400-Hint.bg {
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.38);
 }
@@ -5977,7 +5977,7 @@
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.87);
 }
-.palette-Yellow-500-Secondary-text.bg {
+.palette-Yellow-500-Secondary.bg {
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.54);
 }
@@ -5989,7 +5989,7 @@
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.38);
 }
-.palette-Yellow-500-Hint-text.bg {
+.palette-Yellow-500-Hint.bg {
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.38);
 }
@@ -6009,7 +6009,7 @@
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.87);
 }
-.palette-Yellow-600-Secondary-text.bg {
+.palette-Yellow-600-Secondary.bg {
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.54);
 }
@@ -6021,7 +6021,7 @@
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.38);
 }
-.palette-Yellow-600-Hint-text.bg {
+.palette-Yellow-600-Hint.bg {
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.38);
 }
@@ -6041,7 +6041,7 @@
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.87);
 }
-.palette-Yellow-700-Secondary-text.bg {
+.palette-Yellow-700-Secondary.bg {
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.54);
 }
@@ -6053,7 +6053,7 @@
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.38);
 }
-.palette-Yellow-700-Hint-text.bg {
+.palette-Yellow-700-Hint.bg {
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.38);
 }
@@ -6073,7 +6073,7 @@
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.87);
 }
-.palette-Yellow-800-Secondary-text.bg {
+.palette-Yellow-800-Secondary.bg {
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.54);
 }
@@ -6085,7 +6085,7 @@
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.38);
 }
-.palette-Yellow-800-Hint-text.bg {
+.palette-Yellow-800-Hint.bg {
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.38);
 }
@@ -6105,7 +6105,7 @@
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.87);
 }
-.palette-Yellow-900-Secondary-text.bg {
+.palette-Yellow-900-Secondary.bg {
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.54);
 }
@@ -6117,7 +6117,7 @@
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.38);
 }
-.palette-Yellow-900-Hint-text.bg {
+.palette-Yellow-900-Hint.bg {
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.38);
 }
@@ -6137,7 +6137,7 @@
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.87);
 }
-.palette-Yellow-A100-Secondary-text.bg {
+.palette-Yellow-A100-Secondary.bg {
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.54);
 }
@@ -6149,7 +6149,7 @@
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.38);
 }
-.palette-Yellow-A100-Hint-text.bg {
+.palette-Yellow-A100-Hint.bg {
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.38);
 }
@@ -6169,7 +6169,7 @@
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.87);
 }
-.palette-Yellow-A200-Secondary-text.bg {
+.palette-Yellow-A200-Secondary.bg {
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.54);
 }
@@ -6181,7 +6181,7 @@
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.38);
 }
-.palette-Yellow-A200-Hint-text.bg {
+.palette-Yellow-A200-Hint.bg {
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.38);
 }
@@ -6201,7 +6201,7 @@
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.87);
 }
-.palette-Yellow-A400-Secondary-text.bg {
+.palette-Yellow-A400-Secondary.bg {
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.54);
 }
@@ -6213,7 +6213,7 @@
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.38);
 }
-.palette-Yellow-A400-Hint-text.bg {
+.palette-Yellow-A400-Hint.bg {
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.38);
 }
@@ -6233,7 +6233,7 @@
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.87);
 }
-.palette-Yellow-A700-Secondary-text.bg {
+.palette-Yellow-A700-Secondary.bg {
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.54);
 }
@@ -6245,7 +6245,7 @@
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.38);
 }
-.palette-Yellow-A700-Hint-text.bg {
+.palette-Yellow-A700-Hint.bg {
   background-color: #FFEB3B;
   color: rgba(0,0,0,0.38);
 }
@@ -6266,7 +6266,7 @@
   background-color: #FFC107;
   color: rgba(0,0,0,0.87);
 }
-.palette-Amber-Secondary-text.bg {
+.palette-Amber-Secondary.bg {
   background-color: #FFC107;
   color: rgba(0,0,0,0.54);
 }
@@ -6278,7 +6278,7 @@
   background-color: #FFC107;
   color: rgba(0,0,0,0.38);
 }
-.palette-Amber-Hint-text.bg {
+.palette-Amber-Hint.bg {
   background-color: #FFC107;
   color: rgba(0,0,0,0.38);
 }
@@ -6298,7 +6298,7 @@
   background-color: #FFC107;
   color: rgba(0,0,0,0.87);
 }
-.palette-Amber-50-Secondary-text.bg {
+.palette-Amber-50-Secondary.bg {
   background-color: #FFC107;
   color: rgba(0,0,0,0.54);
 }
@@ -6310,7 +6310,7 @@
   background-color: #FFC107;
   color: rgba(0,0,0,0.38);
 }
-.palette-Amber-50-Hint-text.bg {
+.palette-Amber-50-Hint.bg {
   background-color: #FFC107;
   color: rgba(0,0,0,0.38);
 }
@@ -6330,7 +6330,7 @@
   background-color: #FFC107;
   color: rgba(0,0,0,0.87);
 }
-.palette-Amber-100-Secondary-text.bg {
+.palette-Amber-100-Secondary.bg {
   background-color: #FFC107;
   color: rgba(0,0,0,0.54);
 }
@@ -6342,7 +6342,7 @@
   background-color: #FFC107;
   color: rgba(0,0,0,0.38);
 }
-.palette-Amber-100-Hint-text.bg {
+.palette-Amber-100-Hint.bg {
   background-color: #FFC107;
   color: rgba(0,0,0,0.38);
 }
@@ -6362,7 +6362,7 @@
   background-color: #FFC107;
   color: rgba(0,0,0,0.87);
 }
-.palette-Amber-200-Secondary-text.bg {
+.palette-Amber-200-Secondary.bg {
   background-color: #FFC107;
   color: rgba(0,0,0,0.54);
 }
@@ -6374,7 +6374,7 @@
   background-color: #FFC107;
   color: rgba(0,0,0,0.38);
 }
-.palette-Amber-200-Hint-text.bg {
+.palette-Amber-200-Hint.bg {
   background-color: #FFC107;
   color: rgba(0,0,0,0.38);
 }
@@ -6394,7 +6394,7 @@
   background-color: #FFC107;
   color: rgba(0,0,0,0.87);
 }
-.palette-Amber-300-Secondary-text.bg {
+.palette-Amber-300-Secondary.bg {
   background-color: #FFC107;
   color: rgba(0,0,0,0.54);
 }
@@ -6406,7 +6406,7 @@
   background-color: #FFC107;
   color: rgba(0,0,0,0.38);
 }
-.palette-Amber-300-Hint-text.bg {
+.palette-Amber-300-Hint.bg {
   background-color: #FFC107;
   color: rgba(0,0,0,0.38);
 }
@@ -6426,7 +6426,7 @@
   background-color: #FFC107;
   color: rgba(0,0,0,0.87);
 }
-.palette-Amber-400-Secondary-text.bg {
+.palette-Amber-400-Secondary.bg {
   background-color: #FFC107;
   color: rgba(0,0,0,0.54);
 }
@@ -6438,7 +6438,7 @@
   background-color: #FFC107;
   color: rgba(0,0,0,0.38);
 }
-.palette-Amber-400-Hint-text.bg {
+.palette-Amber-400-Hint.bg {
   background-color: #FFC107;
   color: rgba(0,0,0,0.38);
 }
@@ -6458,7 +6458,7 @@
   background-color: #FFC107;
   color: rgba(0,0,0,0.87);
 }
-.palette-Amber-500-Secondary-text.bg {
+.palette-Amber-500-Secondary.bg {
   background-color: #FFC107;
   color: rgba(0,0,0,0.54);
 }
@@ -6470,7 +6470,7 @@
   background-color: #FFC107;
   color: rgba(0,0,0,0.38);
 }
-.palette-Amber-500-Hint-text.bg {
+.palette-Amber-500-Hint.bg {
   background-color: #FFC107;
   color: rgba(0,0,0,0.38);
 }
@@ -6490,7 +6490,7 @@
   background-color: #FFC107;
   color: rgba(0,0,0,0.87);
 }
-.palette-Amber-600-Secondary-text.bg {
+.palette-Amber-600-Secondary.bg {
   background-color: #FFC107;
   color: rgba(0,0,0,0.54);
 }
@@ -6502,7 +6502,7 @@
   background-color: #FFC107;
   color: rgba(0,0,0,0.38);
 }
-.palette-Amber-600-Hint-text.bg {
+.palette-Amber-600-Hint.bg {
   background-color: #FFC107;
   color: rgba(0,0,0,0.38);
 }
@@ -6522,7 +6522,7 @@
   background-color: #FFC107;
   color: rgba(0,0,0,0.87);
 }
-.palette-Amber-700-Secondary-text.bg {
+.palette-Amber-700-Secondary.bg {
   background-color: #FFC107;
   color: rgba(0,0,0,0.54);
 }
@@ -6534,7 +6534,7 @@
   background-color: #FFC107;
   color: rgba(0,0,0,0.38);
 }
-.palette-Amber-700-Hint-text.bg {
+.palette-Amber-700-Hint.bg {
   background-color: #FFC107;
   color: rgba(0,0,0,0.38);
 }
@@ -6554,7 +6554,7 @@
   background-color: #FFC107;
   color: rgba(0,0,0,0.87);
 }
-.palette-Amber-800-Secondary-text.bg {
+.palette-Amber-800-Secondary.bg {
   background-color: #FFC107;
   color: rgba(0,0,0,0.54);
 }
@@ -6566,7 +6566,7 @@
   background-color: #FFC107;
   color: rgba(0,0,0,0.38);
 }
-.palette-Amber-800-Hint-text.bg {
+.palette-Amber-800-Hint.bg {
   background-color: #FFC107;
   color: rgba(0,0,0,0.38);
 }
@@ -6586,7 +6586,7 @@
   background-color: #FFC107;
   color: rgba(0,0,0,0.87);
 }
-.palette-Amber-900-Secondary-text.bg {
+.palette-Amber-900-Secondary.bg {
   background-color: #FFC107;
   color: rgba(0,0,0,0.54);
 }
@@ -6598,7 +6598,7 @@
   background-color: #FFC107;
   color: rgba(0,0,0,0.38);
 }
-.palette-Amber-900-Hint-text.bg {
+.palette-Amber-900-Hint.bg {
   background-color: #FFC107;
   color: rgba(0,0,0,0.38);
 }
@@ -6618,7 +6618,7 @@
   background-color: #FFC107;
   color: rgba(0,0,0,0.87);
 }
-.palette-Amber-A100-Secondary-text.bg {
+.palette-Amber-A100-Secondary.bg {
   background-color: #FFC107;
   color: rgba(0,0,0,0.54);
 }
@@ -6630,7 +6630,7 @@
   background-color: #FFC107;
   color: rgba(0,0,0,0.38);
 }
-.palette-Amber-A100-Hint-text.bg {
+.palette-Amber-A100-Hint.bg {
   background-color: #FFC107;
   color: rgba(0,0,0,0.38);
 }
@@ -6650,7 +6650,7 @@
   background-color: #FFC107;
   color: rgba(0,0,0,0.87);
 }
-.palette-Amber-A200-Secondary-text.bg {
+.palette-Amber-A200-Secondary.bg {
   background-color: #FFC107;
   color: rgba(0,0,0,0.54);
 }
@@ -6662,7 +6662,7 @@
   background-color: #FFC107;
   color: rgba(0,0,0,0.38);
 }
-.palette-Amber-A200-Hint-text.bg {
+.palette-Amber-A200-Hint.bg {
   background-color: #FFC107;
   color: rgba(0,0,0,0.38);
 }
@@ -6682,7 +6682,7 @@
   background-color: #FFC107;
   color: rgba(0,0,0,0.87);
 }
-.palette-Amber-A400-Secondary-text.bg {
+.palette-Amber-A400-Secondary.bg {
   background-color: #FFC107;
   color: rgba(0,0,0,0.54);
 }
@@ -6694,7 +6694,7 @@
   background-color: #FFC107;
   color: rgba(0,0,0,0.38);
 }
-.palette-Amber-A400-Hint-text.bg {
+.palette-Amber-A400-Hint.bg {
   background-color: #FFC107;
   color: rgba(0,0,0,0.38);
 }
@@ -6714,7 +6714,7 @@
   background-color: #FFC107;
   color: rgba(0,0,0,0.87);
 }
-.palette-Amber-A700-Secondary-text.bg {
+.palette-Amber-A700-Secondary.bg {
   background-color: #FFC107;
   color: rgba(0,0,0,0.54);
 }
@@ -6726,7 +6726,7 @@
   background-color: #FFC107;
   color: rgba(0,0,0,0.38);
 }
-.palette-Amber-A700-Hint-text.bg {
+.palette-Amber-A700-Hint.bg {
   background-color: #FFC107;
   color: rgba(0,0,0,0.38);
 }
@@ -6747,7 +6747,7 @@
   background-color: #FF9800;
   color: rgba(0,0,0,0.87);
 }
-.palette-Orange-Secondary-text.bg {
+.palette-Orange-Secondary.bg {
   background-color: #FF9800;
   color: rgba(0,0,0,0.54);
 }
@@ -6759,7 +6759,7 @@
   background-color: #FF9800;
   color: rgba(0,0,0,0.38);
 }
-.palette-Orange-Hint-text.bg {
+.palette-Orange-Hint.bg {
   background-color: #FF9800;
   color: rgba(0,0,0,0.38);
 }
@@ -6779,7 +6779,7 @@
   background-color: #FF9800;
   color: rgba(0,0,0,0.87);
 }
-.palette-Orange-50-Secondary-text.bg {
+.palette-Orange-50-Secondary.bg {
   background-color: #FF9800;
   color: rgba(0,0,0,0.54);
 }
@@ -6791,7 +6791,7 @@
   background-color: #FF9800;
   color: rgba(0,0,0,0.38);
 }
-.palette-Orange-50-Hint-text.bg {
+.palette-Orange-50-Hint.bg {
   background-color: #FF9800;
   color: rgba(0,0,0,0.38);
 }
@@ -6811,7 +6811,7 @@
   background-color: #FF9800;
   color: rgba(0,0,0,0.87);
 }
-.palette-Orange-100-Secondary-text.bg {
+.palette-Orange-100-Secondary.bg {
   background-color: #FF9800;
   color: rgba(0,0,0,0.54);
 }
@@ -6823,7 +6823,7 @@
   background-color: #FF9800;
   color: rgba(0,0,0,0.38);
 }
-.palette-Orange-100-Hint-text.bg {
+.palette-Orange-100-Hint.bg {
   background-color: #FF9800;
   color: rgba(0,0,0,0.38);
 }
@@ -6843,7 +6843,7 @@
   background-color: #FF9800;
   color: rgba(0,0,0,0.87);
 }
-.palette-Orange-200-Secondary-text.bg {
+.palette-Orange-200-Secondary.bg {
   background-color: #FF9800;
   color: rgba(0,0,0,0.54);
 }
@@ -6855,7 +6855,7 @@
   background-color: #FF9800;
   color: rgba(0,0,0,0.38);
 }
-.palette-Orange-200-Hint-text.bg {
+.palette-Orange-200-Hint.bg {
   background-color: #FF9800;
   color: rgba(0,0,0,0.38);
 }
@@ -6875,7 +6875,7 @@
   background-color: #FF9800;
   color: rgba(0,0,0,0.87);
 }
-.palette-Orange-300-Secondary-text.bg {
+.palette-Orange-300-Secondary.bg {
   background-color: #FF9800;
   color: rgba(0,0,0,0.54);
 }
@@ -6887,7 +6887,7 @@
   background-color: #FF9800;
   color: rgba(0,0,0,0.38);
 }
-.palette-Orange-300-Hint-text.bg {
+.palette-Orange-300-Hint.bg {
   background-color: #FF9800;
   color: rgba(0,0,0,0.38);
 }
@@ -6907,7 +6907,7 @@
   background-color: #FF9800;
   color: rgba(0,0,0,0.87);
 }
-.palette-Orange-400-Secondary-text.bg {
+.palette-Orange-400-Secondary.bg {
   background-color: #FF9800;
   color: rgba(0,0,0,0.54);
 }
@@ -6919,7 +6919,7 @@
   background-color: #FF9800;
   color: rgba(0,0,0,0.38);
 }
-.palette-Orange-400-Hint-text.bg {
+.palette-Orange-400-Hint.bg {
   background-color: #FF9800;
   color: rgba(0,0,0,0.38);
 }
@@ -6939,7 +6939,7 @@
   background-color: #FF9800;
   color: rgba(0,0,0,0.87);
 }
-.palette-Orange-500-Secondary-text.bg {
+.palette-Orange-500-Secondary.bg {
   background-color: #FF9800;
   color: rgba(0,0,0,0.54);
 }
@@ -6951,7 +6951,7 @@
   background-color: #FF9800;
   color: rgba(0,0,0,0.38);
 }
-.palette-Orange-500-Hint-text.bg {
+.palette-Orange-500-Hint.bg {
   background-color: #FF9800;
   color: rgba(0,0,0,0.38);
 }
@@ -6971,7 +6971,7 @@
   background-color: #FF9800;
   color: rgba(0,0,0,0.87);
 }
-.palette-Orange-600-Secondary-text.bg {
+.palette-Orange-600-Secondary.bg {
   background-color: #FF9800;
   color: rgba(0,0,0,0.54);
 }
@@ -6983,7 +6983,7 @@
   background-color: #FF9800;
   color: rgba(0,0,0,0.38);
 }
-.palette-Orange-600-Hint-text.bg {
+.palette-Orange-600-Hint.bg {
   background-color: #FF9800;
   color: rgba(0,0,0,0.38);
 }
@@ -7003,7 +7003,7 @@
   background-color: #FF9800;
   color: rgba(0,0,0,0.87);
 }
-.palette-Orange-700-Secondary-text.bg {
+.palette-Orange-700-Secondary.bg {
   background-color: #FF9800;
   color: rgba(0,0,0,0.54);
 }
@@ -7015,7 +7015,7 @@
   background-color: #FF9800;
   color: rgba(0,0,0,0.38);
 }
-.palette-Orange-700-Hint-text.bg {
+.palette-Orange-700-Hint.bg {
   background-color: #FF9800;
   color: rgba(0,0,0,0.38);
 }
@@ -7035,7 +7035,7 @@
   background-color: #FF9800;
   color: rgba(0,0,0,0.87);
 }
-.palette-Orange-800-Secondary-text.bg {
+.palette-Orange-800-Secondary.bg {
   background-color: #FF9800;
   color: rgba(0,0,0,0.54);
 }
@@ -7047,7 +7047,7 @@
   background-color: #FF9800;
   color: rgba(0,0,0,0.38);
 }
-.palette-Orange-800-Hint-text.bg {
+.palette-Orange-800-Hint.bg {
   background-color: #FF9800;
   color: rgba(0,0,0,0.38);
 }
@@ -7067,7 +7067,7 @@
   background-color: #FF9800;
   color: rgba(0,0,0,0.87);
 }
-.palette-Orange-900-Secondary-text.bg {
+.palette-Orange-900-Secondary.bg {
   background-color: #FF9800;
   color: rgba(0,0,0,0.54);
 }
@@ -7079,7 +7079,7 @@
   background-color: #FF9800;
   color: rgba(0,0,0,0.38);
 }
-.palette-Orange-900-Hint-text.bg {
+.palette-Orange-900-Hint.bg {
   background-color: #FF9800;
   color: rgba(0,0,0,0.38);
 }
@@ -7099,7 +7099,7 @@
   background-color: #FF9800;
   color: rgba(0,0,0,0.87);
 }
-.palette-Orange-A100-Secondary-text.bg {
+.palette-Orange-A100-Secondary.bg {
   background-color: #FF9800;
   color: rgba(0,0,0,0.54);
 }
@@ -7111,7 +7111,7 @@
   background-color: #FF9800;
   color: rgba(0,0,0,0.38);
 }
-.palette-Orange-A100-Hint-text.bg {
+.palette-Orange-A100-Hint.bg {
   background-color: #FF9800;
   color: rgba(0,0,0,0.38);
 }
@@ -7131,7 +7131,7 @@
   background-color: #FF9800;
   color: rgba(0,0,0,0.87);
 }
-.palette-Orange-A200-Secondary-text.bg {
+.palette-Orange-A200-Secondary.bg {
   background-color: #FF9800;
   color: rgba(0,0,0,0.54);
 }
@@ -7143,7 +7143,7 @@
   background-color: #FF9800;
   color: rgba(0,0,0,0.38);
 }
-.palette-Orange-A200-Hint-text.bg {
+.palette-Orange-A200-Hint.bg {
   background-color: #FF9800;
   color: rgba(0,0,0,0.38);
 }
@@ -7163,7 +7163,7 @@
   background-color: #FF9800;
   color: rgba(0,0,0,0.87);
 }
-.palette-Orange-A400-Secondary-text.bg {
+.palette-Orange-A400-Secondary.bg {
   background-color: #FF9800;
   color: rgba(0,0,0,0.54);
 }
@@ -7175,7 +7175,7 @@
   background-color: #FF9800;
   color: rgba(0,0,0,0.38);
 }
-.palette-Orange-A400-Hint-text.bg {
+.palette-Orange-A400-Hint.bg {
   background-color: #FF9800;
   color: rgba(0,0,0,0.38);
 }
@@ -7195,7 +7195,7 @@
   background-color: #FF9800;
   color: rgba(0,0,0,0.87);
 }
-.palette-Orange-A700-Secondary-text.bg {
+.palette-Orange-A700-Secondary.bg {
   background-color: #FF9800;
   color: rgba(0,0,0,0.54);
 }
@@ -7207,7 +7207,7 @@
   background-color: #FF9800;
   color: rgba(0,0,0,0.38);
 }
-.palette-Orange-A700-Hint-text.bg {
+.palette-Orange-A700-Hint.bg {
   background-color: #FF9800;
   color: rgba(0,0,0,0.38);
 }
@@ -7228,7 +7228,7 @@
   background-color: #FF5722;
   color: #ffffff;
 }
-.palette-Deep-Orange-Secondary-text.bg {
+.palette-Deep-Orange-Secondary.bg {
   background-color: #FF5722;
   color: rgba(255,255,255,0.7);
 }
@@ -7240,7 +7240,7 @@
   background-color: #FF5722;
   color: rgba(255,255,255,0.5);
 }
-.palette-Deep-Orange-Hint-text.bg {
+.palette-Deep-Orange-Hint.bg {
   background-color: #FF5722;
   color: rgba(255,255,255,0.5);
 }
@@ -7260,7 +7260,7 @@
   background-color: #FF5722;
   color: #ffffff;
 }
-.palette-Deep-Orange-50-Secondary-text.bg {
+.palette-Deep-Orange-50-Secondary.bg {
   background-color: #FF5722;
   color: rgba(255,255,255,0.7);
 }
@@ -7272,7 +7272,7 @@
   background-color: #FF5722;
   color: rgba(255,255,255,0.5);
 }
-.palette-Deep-Orange-50-Hint-text.bg {
+.palette-Deep-Orange-50-Hint.bg {
   background-color: #FF5722;
   color: rgba(255,255,255,0.5);
 }
@@ -7292,7 +7292,7 @@
   background-color: #FF5722;
   color: #ffffff;
 }
-.palette-Deep-Orange-100-Secondary-text.bg {
+.palette-Deep-Orange-100-Secondary.bg {
   background-color: #FF5722;
   color: rgba(255,255,255,0.7);
 }
@@ -7304,7 +7304,7 @@
   background-color: #FF5722;
   color: rgba(255,255,255,0.5);
 }
-.palette-Deep-Orange-100-Hint-text.bg {
+.palette-Deep-Orange-100-Hint.bg {
   background-color: #FF5722;
   color: rgba(255,255,255,0.5);
 }
@@ -7324,7 +7324,7 @@
   background-color: #FF5722;
   color: #ffffff;
 }
-.palette-Deep-Orange-200-Secondary-text.bg {
+.palette-Deep-Orange-200-Secondary.bg {
   background-color: #FF5722;
   color: rgba(255,255,255,0.7);
 }
@@ -7336,7 +7336,7 @@
   background-color: #FF5722;
   color: rgba(255,255,255,0.5);
 }
-.palette-Deep-Orange-200-Hint-text.bg {
+.palette-Deep-Orange-200-Hint.bg {
   background-color: #FF5722;
   color: rgba(255,255,255,0.5);
 }
@@ -7356,7 +7356,7 @@
   background-color: #FF5722;
   color: #ffffff;
 }
-.palette-Deep-Orange-300-Secondary-text.bg {
+.palette-Deep-Orange-300-Secondary.bg {
   background-color: #FF5722;
   color: rgba(255,255,255,0.7);
 }
@@ -7368,7 +7368,7 @@
   background-color: #FF5722;
   color: rgba(255,255,255,0.5);
 }
-.palette-Deep-Orange-300-Hint-text.bg {
+.palette-Deep-Orange-300-Hint.bg {
   background-color: #FF5722;
   color: rgba(255,255,255,0.5);
 }
@@ -7388,7 +7388,7 @@
   background-color: #FF5722;
   color: #ffffff;
 }
-.palette-Deep-Orange-400-Secondary-text.bg {
+.palette-Deep-Orange-400-Secondary.bg {
   background-color: #FF5722;
   color: rgba(255,255,255,0.7);
 }
@@ -7400,7 +7400,7 @@
   background-color: #FF5722;
   color: rgba(255,255,255,0.5);
 }
-.palette-Deep-Orange-400-Hint-text.bg {
+.palette-Deep-Orange-400-Hint.bg {
   background-color: #FF5722;
   color: rgba(255,255,255,0.5);
 }
@@ -7420,7 +7420,7 @@
   background-color: #FF5722;
   color: #ffffff;
 }
-.palette-Deep-Orange-500-Secondary-text.bg {
+.palette-Deep-Orange-500-Secondary.bg {
   background-color: #FF5722;
   color: rgba(255,255,255,0.7);
 }
@@ -7432,7 +7432,7 @@
   background-color: #FF5722;
   color: rgba(255,255,255,0.5);
 }
-.palette-Deep-Orange-500-Hint-text.bg {
+.palette-Deep-Orange-500-Hint.bg {
   background-color: #FF5722;
   color: rgba(255,255,255,0.5);
 }
@@ -7452,7 +7452,7 @@
   background-color: #FF5722;
   color: #ffffff;
 }
-.palette-Deep-Orange-600-Secondary-text.bg {
+.palette-Deep-Orange-600-Secondary.bg {
   background-color: #FF5722;
   color: rgba(255,255,255,0.7);
 }
@@ -7464,7 +7464,7 @@
   background-color: #FF5722;
   color: rgba(255,255,255,0.5);
 }
-.palette-Deep-Orange-600-Hint-text.bg {
+.palette-Deep-Orange-600-Hint.bg {
   background-color: #FF5722;
   color: rgba(255,255,255,0.5);
 }
@@ -7484,7 +7484,7 @@
   background-color: #FF5722;
   color: #ffffff;
 }
-.palette-Deep-Orange-700-Secondary-text.bg {
+.palette-Deep-Orange-700-Secondary.bg {
   background-color: #FF5722;
   color: rgba(255,255,255,0.7);
 }
@@ -7496,7 +7496,7 @@
   background-color: #FF5722;
   color: rgba(255,255,255,0.5);
 }
-.palette-Deep-Orange-700-Hint-text.bg {
+.palette-Deep-Orange-700-Hint.bg {
   background-color: #FF5722;
   color: rgba(255,255,255,0.5);
 }
@@ -7516,7 +7516,7 @@
   background-color: #FF5722;
   color: #ffffff;
 }
-.palette-Deep-Orange-800-Secondary-text.bg {
+.palette-Deep-Orange-800-Secondary.bg {
   background-color: #FF5722;
   color: rgba(255,255,255,0.7);
 }
@@ -7528,7 +7528,7 @@
   background-color: #FF5722;
   color: rgba(255,255,255,0.5);
 }
-.palette-Deep-Orange-800-Hint-text.bg {
+.palette-Deep-Orange-800-Hint.bg {
   background-color: #FF5722;
   color: rgba(255,255,255,0.5);
 }
@@ -7548,7 +7548,7 @@
   background-color: #FF5722;
   color: #ffffff;
 }
-.palette-Deep-Orange-900-Secondary-text.bg {
+.palette-Deep-Orange-900-Secondary.bg {
   background-color: #FF5722;
   color: rgba(255,255,255,0.7);
 }
@@ -7560,7 +7560,7 @@
   background-color: #FF5722;
   color: rgba(255,255,255,0.5);
 }
-.palette-Deep-Orange-900-Hint-text.bg {
+.palette-Deep-Orange-900-Hint.bg {
   background-color: #FF5722;
   color: rgba(255,255,255,0.5);
 }
@@ -7580,7 +7580,7 @@
   background-color: #FF5722;
   color: #ffffff;
 }
-.palette-Deep-Orange-A100-Secondary-text.bg {
+.palette-Deep-Orange-A100-Secondary.bg {
   background-color: #FF5722;
   color: rgba(255,255,255,0.7);
 }
@@ -7592,7 +7592,7 @@
   background-color: #FF5722;
   color: rgba(255,255,255,0.5);
 }
-.palette-Deep-Orange-A100-Hint-text.bg {
+.palette-Deep-Orange-A100-Hint.bg {
   background-color: #FF5722;
   color: rgba(255,255,255,0.5);
 }
@@ -7612,7 +7612,7 @@
   background-color: #FF5722;
   color: #ffffff;
 }
-.palette-Deep-Orange-A200-Secondary-text.bg {
+.palette-Deep-Orange-A200-Secondary.bg {
   background-color: #FF5722;
   color: rgba(255,255,255,0.7);
 }
@@ -7624,7 +7624,7 @@
   background-color: #FF5722;
   color: rgba(255,255,255,0.5);
 }
-.palette-Deep-Orange-A200-Hint-text.bg {
+.palette-Deep-Orange-A200-Hint.bg {
   background-color: #FF5722;
   color: rgba(255,255,255,0.5);
 }
@@ -7644,7 +7644,7 @@
   background-color: #FF5722;
   color: #ffffff;
 }
-.palette-Deep-Orange-A400-Secondary-text.bg {
+.palette-Deep-Orange-A400-Secondary.bg {
   background-color: #FF5722;
   color: rgba(255,255,255,0.7);
 }
@@ -7656,7 +7656,7 @@
   background-color: #FF5722;
   color: rgba(255,255,255,0.5);
 }
-.palette-Deep-Orange-A400-Hint-text.bg {
+.palette-Deep-Orange-A400-Hint.bg {
   background-color: #FF5722;
   color: rgba(255,255,255,0.5);
 }
@@ -7676,7 +7676,7 @@
   background-color: #FF5722;
   color: #ffffff;
 }
-.palette-Deep-Orange-A700-Secondary-text.bg {
+.palette-Deep-Orange-A700-Secondary.bg {
   background-color: #FF5722;
   color: rgba(255,255,255,0.7);
 }
@@ -7688,7 +7688,7 @@
   background-color: #FF5722;
   color: rgba(255,255,255,0.5);
 }
-.palette-Deep-Orange-A700-Hint-text.bg {
+.palette-Deep-Orange-A700-Hint.bg {
   background-color: #FF5722;
   color: rgba(255,255,255,0.5);
 }
@@ -7709,7 +7709,7 @@
   background-color: #795548;
   color: #ffffff;
 }
-.palette-Brown-Secondary-text.bg {
+.palette-Brown-Secondary.bg {
   background-color: #795548;
   color: rgba(255,255,255,0.7);
 }
@@ -7721,7 +7721,7 @@
   background-color: #795548;
   color: rgba(255,255,255,0.5);
 }
-.palette-Brown-Hint-text.bg {
+.palette-Brown-Hint.bg {
   background-color: #795548;
   color: rgba(255,255,255,0.5);
 }
@@ -7741,7 +7741,7 @@
   background-color: #795548;
   color: #ffffff;
 }
-.palette-Brown-50-Secondary-text.bg {
+.palette-Brown-50-Secondary.bg {
   background-color: #795548;
   color: rgba(255,255,255,0.7);
 }
@@ -7753,7 +7753,7 @@
   background-color: #795548;
   color: rgba(255,255,255,0.5);
 }
-.palette-Brown-50-Hint-text.bg {
+.palette-Brown-50-Hint.bg {
   background-color: #795548;
   color: rgba(255,255,255,0.5);
 }
@@ -7773,7 +7773,7 @@
   background-color: #795548;
   color: #ffffff;
 }
-.palette-Brown-100-Secondary-text.bg {
+.palette-Brown-100-Secondary.bg {
   background-color: #795548;
   color: rgba(255,255,255,0.7);
 }
@@ -7785,7 +7785,7 @@
   background-color: #795548;
   color: rgba(255,255,255,0.5);
 }
-.palette-Brown-100-Hint-text.bg {
+.palette-Brown-100-Hint.bg {
   background-color: #795548;
   color: rgba(255,255,255,0.5);
 }
@@ -7805,7 +7805,7 @@
   background-color: #795548;
   color: #ffffff;
 }
-.palette-Brown-200-Secondary-text.bg {
+.palette-Brown-200-Secondary.bg {
   background-color: #795548;
   color: rgba(255,255,255,0.7);
 }
@@ -7817,7 +7817,7 @@
   background-color: #795548;
   color: rgba(255,255,255,0.5);
 }
-.palette-Brown-200-Hint-text.bg {
+.palette-Brown-200-Hint.bg {
   background-color: #795548;
   color: rgba(255,255,255,0.5);
 }
@@ -7837,7 +7837,7 @@
   background-color: #795548;
   color: #ffffff;
 }
-.palette-Brown-300-Secondary-text.bg {
+.palette-Brown-300-Secondary.bg {
   background-color: #795548;
   color: rgba(255,255,255,0.7);
 }
@@ -7849,7 +7849,7 @@
   background-color: #795548;
   color: rgba(255,255,255,0.5);
 }
-.palette-Brown-300-Hint-text.bg {
+.palette-Brown-300-Hint.bg {
   background-color: #795548;
   color: rgba(255,255,255,0.5);
 }
@@ -7869,7 +7869,7 @@
   background-color: #795548;
   color: #ffffff;
 }
-.palette-Brown-400-Secondary-text.bg {
+.palette-Brown-400-Secondary.bg {
   background-color: #795548;
   color: rgba(255,255,255,0.7);
 }
@@ -7881,7 +7881,7 @@
   background-color: #795548;
   color: rgba(255,255,255,0.5);
 }
-.palette-Brown-400-Hint-text.bg {
+.palette-Brown-400-Hint.bg {
   background-color: #795548;
   color: rgba(255,255,255,0.5);
 }
@@ -7901,7 +7901,7 @@
   background-color: #795548;
   color: #ffffff;
 }
-.palette-Brown-500-Secondary-text.bg {
+.palette-Brown-500-Secondary.bg {
   background-color: #795548;
   color: rgba(255,255,255,0.7);
 }
@@ -7913,7 +7913,7 @@
   background-color: #795548;
   color: rgba(255,255,255,0.5);
 }
-.palette-Brown-500-Hint-text.bg {
+.palette-Brown-500-Hint.bg {
   background-color: #795548;
   color: rgba(255,255,255,0.5);
 }
@@ -7933,7 +7933,7 @@
   background-color: #795548;
   color: #ffffff;
 }
-.palette-Brown-600-Secondary-text.bg {
+.palette-Brown-600-Secondary.bg {
   background-color: #795548;
   color: rgba(255,255,255,0.7);
 }
@@ -7945,7 +7945,7 @@
   background-color: #795548;
   color: rgba(255,255,255,0.5);
 }
-.palette-Brown-600-Hint-text.bg {
+.palette-Brown-600-Hint.bg {
   background-color: #795548;
   color: rgba(255,255,255,0.5);
 }
@@ -7965,7 +7965,7 @@
   background-color: #795548;
   color: #ffffff;
 }
-.palette-Brown-700-Secondary-text.bg {
+.palette-Brown-700-Secondary.bg {
   background-color: #795548;
   color: rgba(255,255,255,0.7);
 }
@@ -7977,7 +7977,7 @@
   background-color: #795548;
   color: rgba(255,255,255,0.5);
 }
-.palette-Brown-700-Hint-text.bg {
+.palette-Brown-700-Hint.bg {
   background-color: #795548;
   color: rgba(255,255,255,0.5);
 }
@@ -7997,7 +7997,7 @@
   background-color: #795548;
   color: #ffffff;
 }
-.palette-Brown-800-Secondary-text.bg {
+.palette-Brown-800-Secondary.bg {
   background-color: #795548;
   color: rgba(255,255,255,0.7);
 }
@@ -8009,7 +8009,7 @@
   background-color: #795548;
   color: rgba(255,255,255,0.5);
 }
-.palette-Brown-800-Hint-text.bg {
+.palette-Brown-800-Hint.bg {
   background-color: #795548;
   color: rgba(255,255,255,0.5);
 }
@@ -8029,7 +8029,7 @@
   background-color: #795548;
   color: #ffffff;
 }
-.palette-Brown-900-Secondary-text.bg {
+.palette-Brown-900-Secondary.bg {
   background-color: #795548;
   color: rgba(255,255,255,0.7);
 }
@@ -8041,7 +8041,7 @@
   background-color: #795548;
   color: rgba(255,255,255,0.5);
 }
-.palette-Brown-900-Hint-text.bg {
+.palette-Brown-900-Hint.bg {
   background-color: #795548;
   color: rgba(255,255,255,0.5);
 }
@@ -8062,7 +8062,7 @@
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.87);
 }
-.palette-Grey-Secondary-text.bg {
+.palette-Grey-Secondary.bg {
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.54);
 }
@@ -8074,7 +8074,7 @@
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.38);
 }
-.palette-Grey-Hint-text.bg {
+.palette-Grey-Hint.bg {
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.38);
 }
@@ -8094,7 +8094,7 @@
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.87);
 }
-.palette-Grey-50-Secondary-text.bg {
+.palette-Grey-50-Secondary.bg {
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.54);
 }
@@ -8106,7 +8106,7 @@
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.38);
 }
-.palette-Grey-50-Hint-text.bg {
+.palette-Grey-50-Hint.bg {
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.38);
 }
@@ -8126,7 +8126,7 @@
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.87);
 }
-.palette-Grey-100-Secondary-text.bg {
+.palette-Grey-100-Secondary.bg {
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.54);
 }
@@ -8138,7 +8138,7 @@
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.38);
 }
-.palette-Grey-100-Hint-text.bg {
+.palette-Grey-100-Hint.bg {
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.38);
 }
@@ -8158,7 +8158,7 @@
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.87);
 }
-.palette-Grey-200-Secondary-text.bg {
+.palette-Grey-200-Secondary.bg {
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.54);
 }
@@ -8170,7 +8170,7 @@
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.38);
 }
-.palette-Grey-200-Hint-text.bg {
+.palette-Grey-200-Hint.bg {
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.38);
 }
@@ -8190,7 +8190,7 @@
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.87);
 }
-.palette-Grey-300-Secondary-text.bg {
+.palette-Grey-300-Secondary.bg {
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.54);
 }
@@ -8202,7 +8202,7 @@
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.38);
 }
-.palette-Grey-300-Hint-text.bg {
+.palette-Grey-300-Hint.bg {
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.38);
 }
@@ -8222,7 +8222,7 @@
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.87);
 }
-.palette-Grey-400-Secondary-text.bg {
+.palette-Grey-400-Secondary.bg {
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.54);
 }
@@ -8234,7 +8234,7 @@
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.38);
 }
-.palette-Grey-400-Hint-text.bg {
+.palette-Grey-400-Hint.bg {
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.38);
 }
@@ -8254,7 +8254,7 @@
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.87);
 }
-.palette-Grey-500-Secondary-text.bg {
+.palette-Grey-500-Secondary.bg {
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.54);
 }
@@ -8266,7 +8266,7 @@
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.38);
 }
-.palette-Grey-500-Hint-text.bg {
+.palette-Grey-500-Hint.bg {
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.38);
 }
@@ -8286,7 +8286,7 @@
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.87);
 }
-.palette-Grey-600-Secondary-text.bg {
+.palette-Grey-600-Secondary.bg {
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.54);
 }
@@ -8298,7 +8298,7 @@
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.38);
 }
-.palette-Grey-600-Hint-text.bg {
+.palette-Grey-600-Hint.bg {
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.38);
 }
@@ -8318,7 +8318,7 @@
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.87);
 }
-.palette-Grey-700-Secondary-text.bg {
+.palette-Grey-700-Secondary.bg {
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.54);
 }
@@ -8330,7 +8330,7 @@
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.38);
 }
-.palette-Grey-700-Hint-text.bg {
+.palette-Grey-700-Hint.bg {
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.38);
 }
@@ -8350,7 +8350,7 @@
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.87);
 }
-.palette-Grey-800-Secondary-text.bg {
+.palette-Grey-800-Secondary.bg {
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.54);
 }
@@ -8362,7 +8362,7 @@
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.38);
 }
-.palette-Grey-800-Hint-text.bg {
+.palette-Grey-800-Hint.bg {
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.38);
 }
@@ -8382,7 +8382,7 @@
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.87);
 }
-.palette-Grey-900-Secondary-text.bg {
+.palette-Grey-900-Secondary.bg {
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.54);
 }
@@ -8394,7 +8394,7 @@
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.38);
 }
-.palette-Grey-900-Hint-text.bg {
+.palette-Grey-900-Hint.bg {
   background-color: #9E9E9E;
   color: rgba(0,0,0,0.38);
 }
@@ -8415,7 +8415,7 @@
   background-color: #607D8B;
   color: #ffffff;
 }
-.palette-Blue-Grey-Secondary-text.bg {
+.palette-Blue-Grey-Secondary.bg {
   background-color: #607D8B;
   color: rgba(255,255,255,0.7);
 }
@@ -8427,7 +8427,7 @@
   background-color: #607D8B;
   color: rgba(255,255,255,0.5);
 }
-.palette-Blue-Grey-Hint-text.bg {
+.palette-Blue-Grey-Hint.bg {
   background-color: #607D8B;
   color: rgba(255,255,255,0.5);
 }
@@ -8447,7 +8447,7 @@
   background-color: #607D8B;
   color: #ffffff;
 }
-.palette-Blue-Grey-50-Secondary-text.bg {
+.palette-Blue-Grey-50-Secondary.bg {
   background-color: #607D8B;
   color: rgba(255,255,255,0.7);
 }
@@ -8459,7 +8459,7 @@
   background-color: #607D8B;
   color: rgba(255,255,255,0.5);
 }
-.palette-Blue-Grey-50-Hint-text.bg {
+.palette-Blue-Grey-50-Hint.bg {
   background-color: #607D8B;
   color: rgba(255,255,255,0.5);
 }
@@ -8479,7 +8479,7 @@
   background-color: #607D8B;
   color: #ffffff;
 }
-.palette-Blue-Grey-100-Secondary-text.bg {
+.palette-Blue-Grey-100-Secondary.bg {
   background-color: #607D8B;
   color: rgba(255,255,255,0.7);
 }
@@ -8491,7 +8491,7 @@
   background-color: #607D8B;
   color: rgba(255,255,255,0.5);
 }
-.palette-Blue-Grey-100-Hint-text.bg {
+.palette-Blue-Grey-100-Hint.bg {
   background-color: #607D8B;
   color: rgba(255,255,255,0.5);
 }
@@ -8511,7 +8511,7 @@
   background-color: #607D8B;
   color: #ffffff;
 }
-.palette-Blue-Grey-200-Secondary-text.bg {
+.palette-Blue-Grey-200-Secondary.bg {
   background-color: #607D8B;
   color: rgba(255,255,255,0.7);
 }
@@ -8523,7 +8523,7 @@
   background-color: #607D8B;
   color: rgba(255,255,255,0.5);
 }
-.palette-Blue-Grey-200-Hint-text.bg {
+.palette-Blue-Grey-200-Hint.bg {
   background-color: #607D8B;
   color: rgba(255,255,255,0.5);
 }
@@ -8543,7 +8543,7 @@
   background-color: #607D8B;
   color: #ffffff;
 }
-.palette-Blue-Grey-300-Secondary-text.bg {
+.palette-Blue-Grey-300-Secondary.bg {
   background-color: #607D8B;
   color: rgba(255,255,255,0.7);
 }
@@ -8555,7 +8555,7 @@
   background-color: #607D8B;
   color: rgba(255,255,255,0.5);
 }
-.palette-Blue-Grey-300-Hint-text.bg {
+.palette-Blue-Grey-300-Hint.bg {
   background-color: #607D8B;
   color: rgba(255,255,255,0.5);
 }
@@ -8575,7 +8575,7 @@
   background-color: #607D8B;
   color: #ffffff;
 }
-.palette-Blue-Grey-400-Secondary-text.bg {
+.palette-Blue-Grey-400-Secondary.bg {
   background-color: #607D8B;
   color: rgba(255,255,255,0.7);
 }
@@ -8587,7 +8587,7 @@
   background-color: #607D8B;
   color: rgba(255,255,255,0.5);
 }
-.palette-Blue-Grey-400-Hint-text.bg {
+.palette-Blue-Grey-400-Hint.bg {
   background-color: #607D8B;
   color: rgba(255,255,255,0.5);
 }
@@ -8607,7 +8607,7 @@
   background-color: #607D8B;
   color: #ffffff;
 }
-.palette-Blue-Grey-500-Secondary-text.bg {
+.palette-Blue-Grey-500-Secondary.bg {
   background-color: #607D8B;
   color: rgba(255,255,255,0.7);
 }
@@ -8619,7 +8619,7 @@
   background-color: #607D8B;
   color: rgba(255,255,255,0.5);
 }
-.palette-Blue-Grey-500-Hint-text.bg {
+.palette-Blue-Grey-500-Hint.bg {
   background-color: #607D8B;
   color: rgba(255,255,255,0.5);
 }
@@ -8639,7 +8639,7 @@
   background-color: #607D8B;
   color: #ffffff;
 }
-.palette-Blue-Grey-600-Secondary-text.bg {
+.palette-Blue-Grey-600-Secondary.bg {
   background-color: #607D8B;
   color: rgba(255,255,255,0.7);
 }
@@ -8651,7 +8651,7 @@
   background-color: #607D8B;
   color: rgba(255,255,255,0.5);
 }
-.palette-Blue-Grey-600-Hint-text.bg {
+.palette-Blue-Grey-600-Hint.bg {
   background-color: #607D8B;
   color: rgba(255,255,255,0.5);
 }
@@ -8671,7 +8671,7 @@
   background-color: #607D8B;
   color: #ffffff;
 }
-.palette-Blue-Grey-700-Secondary-text.bg {
+.palette-Blue-Grey-700-Secondary.bg {
   background-color: #607D8B;
   color: rgba(255,255,255,0.7);
 }
@@ -8683,7 +8683,7 @@
   background-color: #607D8B;
   color: rgba(255,255,255,0.5);
 }
-.palette-Blue-Grey-700-Hint-text.bg {
+.palette-Blue-Grey-700-Hint.bg {
   background-color: #607D8B;
   color: rgba(255,255,255,0.5);
 }
@@ -8703,7 +8703,7 @@
   background-color: #607D8B;
   color: #ffffff;
 }
-.palette-Blue-Grey-800-Secondary-text.bg {
+.palette-Blue-Grey-800-Secondary.bg {
   background-color: #607D8B;
   color: rgba(255,255,255,0.7);
 }
@@ -8715,7 +8715,7 @@
   background-color: #607D8B;
   color: rgba(255,255,255,0.5);
 }
-.palette-Blue-Grey-800-Hint-text.bg {
+.palette-Blue-Grey-800-Hint.bg {
   background-color: #607D8B;
   color: rgba(255,255,255,0.5);
 }
@@ -8735,7 +8735,7 @@
   background-color: #607D8B;
   color: #ffffff;
 }
-.palette-Blue-Grey-900-Secondary-text.bg {
+.palette-Blue-Grey-900-Secondary.bg {
   background-color: #607D8B;
   color: rgba(255,255,255,0.7);
 }
@@ -8747,7 +8747,7 @@
   background-color: #607D8B;
   color: rgba(255,255,255,0.5);
 }
-.palette-Blue-Grey-900-Hint-text.bg {
+.palette-Blue-Grey-900-Hint.bg {
   background-color: #607D8B;
   color: rgba(255,255,255,0.5);
 }
@@ -8768,7 +8768,7 @@
   background-color: #000000;
   color: #ffffff;
 }
-.palette-Black-Secondary-text.bg {
+.palette-Black-Secondary.bg {
   background-color: #000000;
   color: rgba(255,255,255,0.7);
 }
@@ -8780,7 +8780,7 @@
   background-color: #000000;
   color: rgba(255,255,255,0.5);
 }
-.palette-Black-Hint-text.bg {
+.palette-Black-Hint.bg {
   background-color: #000000;
   color: rgba(255,255,255,0.5);
 }
@@ -8800,7 +8800,7 @@
   background-color: #000000;
   color: #ffffff;
 }
-.palette-Black-500-Secondary-text.bg {
+.palette-Black-500-Secondary.bg {
   background-color: #000000;
   color: rgba(255,255,255,0.7);
 }
@@ -8812,7 +8812,7 @@
   background-color: #000000;
   color: rgba(255,255,255,0.5);
 }
-.palette-Black-500-Hint-text.bg {
+.palette-Black-500-Hint.bg {
   background-color: #000000;
   color: rgba(255,255,255,0.5);
 }
@@ -8832,7 +8832,7 @@
   background-color: #000000;
   color: #ffffff;
 }
-.palette-Black-text-Secondary-text.bg {
+.palette-Black-text-Secondary.bg {
   background-color: #000000;
   color: rgba(255,255,255,0.7);
 }
@@ -8844,7 +8844,7 @@
   background-color: #000000;
   color: rgba(255,255,255,0.5);
 }
-.palette-Black-text-Hint-text.bg {
+.palette-Black-text-Hint.bg {
   background-color: #000000;
   color: rgba(255,255,255,0.5);
 }
@@ -8864,7 +8864,7 @@
   background-color: #000000;
   color: #ffffff;
 }
-.palette-Black-Primary-Secondary-text.bg {
+.palette-Black-Primary-Secondary.bg {
   background-color: #000000;
   color: rgba(255,255,255,0.7);
 }
@@ -8876,7 +8876,7 @@
   background-color: #000000;
   color: rgba(255,255,255,0.5);
 }
-.palette-Black-Primary-Hint-text.bg {
+.palette-Black-Primary-Hint.bg {
   background-color: #000000;
   color: rgba(255,255,255,0.5);
 }
@@ -8885,34 +8885,34 @@
   color: rgba(255,255,255,0.12);
 }
 
-.palette-Black-Secondary-text.bg {
+.palette-Black-Secondary.bg {
   background-color: rgba(0,0,0,0.54);
   color: #ffffff;
 }
-.palette-Black-Secondary-text.text {
+.palette-Black-Secondary.text {
   color: rgba(0,0,0,0.54);
 }
-.palette-Black-Secondary-text-Primary.bg {
+.palette-Black-Secondary-Primary.bg {
   background-color: #000000;
   color: #ffffff;
 }
-.palette-Black-Secondary-text-Secondary-text.bg {
+.palette-Black-Secondary-Secondary.bg {
   background-color: #000000;
   color: rgba(255,255,255,0.7);
 }
-.palette-Black-Secondary-text-Icons.bg {
+.palette-Black-Secondary-Icons.bg {
   background-color: #000000;
   color: rgba(255,255,255,0.5);
 }
-.palette-Black-Secondary-text-Disabled.bg {
+.palette-Black-Secondary-Disabled.bg {
   background-color: #000000;
   color: rgba(255,255,255,0.5);
 }
-.palette-Black-Secondary-text-Hint-text.bg {
+.palette-Black-Secondary-Hint.bg {
   background-color: #000000;
   color: rgba(255,255,255,0.5);
 }
-.palette-Black-Secondary-text-Dividers.bg {
+.palette-Black-Secondary-Dividers.bg {
   background-color: #000000;
   color: rgba(255,255,255,0.12);
 }
@@ -8928,7 +8928,7 @@
   background-color: #000000;
   color: #ffffff;
 }
-.palette-Black-Icons-Secondary-text.bg {
+.palette-Black-Icons-Secondary.bg {
   background-color: #000000;
   color: rgba(255,255,255,0.7);
 }
@@ -8940,7 +8940,7 @@
   background-color: #000000;
   color: rgba(255,255,255,0.5);
 }
-.palette-Black-Icons-Hint-text.bg {
+.palette-Black-Icons-Hint.bg {
   background-color: #000000;
   color: rgba(255,255,255,0.5);
 }
@@ -8960,7 +8960,7 @@
   background-color: #000000;
   color: #ffffff;
 }
-.palette-Black-Disabled-Secondary-text.bg {
+.palette-Black-Disabled-Secondary.bg {
   background-color: #000000;
   color: rgba(255,255,255,0.7);
 }
@@ -8972,7 +8972,7 @@
   background-color: #000000;
   color: rgba(255,255,255,0.5);
 }
-.palette-Black-Disabled-Hint-text.bg {
+.palette-Black-Disabled-Hint.bg {
   background-color: #000000;
   color: rgba(255,255,255,0.5);
 }
@@ -8981,34 +8981,34 @@
   color: rgba(255,255,255,0.12);
 }
 
-.palette-Black-Hint-text.bg {
+.palette-Black-Hint.bg {
   background-color: rgba(0,0,0,0.38);
   color: #ffffff;
 }
-.palette-Black-Hint-text.text {
+.palette-Black-Hint.text {
   color: rgba(0,0,0,0.38);
 }
-.palette-Black-Hint-text-Primary.bg {
+.palette-Black-Hint-Primary.bg {
   background-color: #000000;
   color: #ffffff;
 }
-.palette-Black-Hint-text-Secondary-text.bg {
+.palette-Black-Hint-Secondary.bg {
   background-color: #000000;
   color: rgba(255,255,255,0.7);
 }
-.palette-Black-Hint-text-Icons.bg {
+.palette-Black-Hint-Icons.bg {
   background-color: #000000;
   color: rgba(255,255,255,0.5);
 }
-.palette-Black-Hint-text-Disabled.bg {
+.palette-Black-Hint-Disabled.bg {
   background-color: #000000;
   color: rgba(255,255,255,0.5);
 }
-.palette-Black-Hint-text-Hint-text.bg {
+.palette-Black-Hint-Hint.bg {
   background-color: #000000;
   color: rgba(255,255,255,0.5);
 }
-.palette-Black-Hint-text-Dividers.bg {
+.palette-Black-Hint-Dividers.bg {
   background-color: #000000;
   color: rgba(255,255,255,0.12);
 }
@@ -9024,7 +9024,7 @@
   background-color: #000000;
   color: #ffffff;
 }
-.palette-Black-Dividers-Secondary-text.bg {
+.palette-Black-Dividers-Secondary.bg {
   background-color: #000000;
   color: rgba(255,255,255,0.7);
 }
@@ -9036,7 +9036,7 @@
   background-color: #000000;
   color: rgba(255,255,255,0.5);
 }
-.palette-Black-Dividers-Hint-text.bg {
+.palette-Black-Dividers-Hint.bg {
   background-color: #000000;
   color: rgba(255,255,255,0.5);
 }
@@ -9057,7 +9057,7 @@
   background-color: #ffffff;
   color: rgba(0,0,0,0.87);
 }
-.palette-White-Secondary-text.bg {
+.palette-White-Secondary.bg {
   background-color: #ffffff;
   color: rgba(0,0,0,0.54);
 }
@@ -9069,7 +9069,7 @@
   background-color: #ffffff;
   color: rgba(0,0,0,0.38);
 }
-.palette-White-Hint-text.bg {
+.palette-White-Hint.bg {
   background-color: #ffffff;
   color: rgba(0,0,0,0.38);
 }
@@ -9089,7 +9089,7 @@
   background-color: #ffffff;
   color: rgba(0,0,0,0.87);
 }
-.palette-White-500-Secondary-text.bg {
+.palette-White-500-Secondary.bg {
   background-color: #ffffff;
   color: rgba(0,0,0,0.54);
 }
@@ -9101,7 +9101,7 @@
   background-color: #ffffff;
   color: rgba(0,0,0,0.38);
 }
-.palette-White-500-Hint-text.bg {
+.palette-White-500-Hint.bg {
   background-color: #ffffff;
   color: rgba(0,0,0,0.38);
 }
@@ -9121,7 +9121,7 @@
   background-color: #ffffff;
   color: rgba(0,0,0,0.87);
 }
-.palette-White-text-Secondary-text.bg {
+.palette-White-text-Secondary.bg {
   background-color: #ffffff;
   color: rgba(0,0,0,0.54);
 }
@@ -9133,7 +9133,7 @@
   background-color: #ffffff;
   color: rgba(0,0,0,0.38);
 }
-.palette-White-text-Hint-text.bg {
+.palette-White-text-Hint.bg {
   background-color: #ffffff;
   color: rgba(0,0,0,0.38);
 }
@@ -9153,7 +9153,7 @@
   background-color: #ffffff;
   color: rgba(0,0,0,0.87);
 }
-.palette-White-Primary-Secondary-text.bg {
+.palette-White-Primary-Secondary.bg {
   background-color: #ffffff;
   color: rgba(0,0,0,0.54);
 }
@@ -9165,7 +9165,7 @@
   background-color: #ffffff;
   color: rgba(0,0,0,0.38);
 }
-.palette-White-Primary-Hint-text.bg {
+.palette-White-Primary-Hint.bg {
   background-color: #ffffff;
   color: rgba(0,0,0,0.38);
 }
@@ -9174,34 +9174,34 @@
   color: rgba(0,0,0,0.12);
 }
 
-.palette-White-Secondary-text.bg {
+.palette-White-Secondary.bg {
   background-color: rgba(255,255,255,0.7);
   color: rgba(0,0,0,0.87);
 }
-.palette-White-Secondary-text.text {
+.palette-White-Secondary.text {
   color: rgba(255,255,255,0.7);
 }
-.palette-White-Secondary-text-Primary.bg {
+.palette-White-Secondary-Primary.bg {
   background-color: #ffffff;
   color: rgba(0,0,0,0.87);
 }
-.palette-White-Secondary-text-Secondary-text.bg {
+.palette-White-Secondary-Secondary.bg {
   background-color: #ffffff;
   color: rgba(0,0,0,0.54);
 }
-.palette-White-Secondary-text-Icons.bg {
+.palette-White-Secondary-Icons.bg {
   background-color: #ffffff;
   color: rgba(0,0,0,0.38);
 }
-.palette-White-Secondary-text-Disabled.bg {
+.palette-White-Secondary-Disabled.bg {
   background-color: #ffffff;
   color: rgba(0,0,0,0.38);
 }
-.palette-White-Secondary-text-Hint-text.bg {
+.palette-White-Secondary-Hint.bg {
   background-color: #ffffff;
   color: rgba(0,0,0,0.38);
 }
-.palette-White-Secondary-text-Dividers.bg {
+.palette-White-Secondary-Dividers.bg {
   background-color: #ffffff;
   color: rgba(0,0,0,0.12);
 }
@@ -9217,7 +9217,7 @@
   background-color: #ffffff;
   color: rgba(0,0,0,0.87);
 }
-.palette-White-Icons-Secondary-text.bg {
+.palette-White-Icons-Secondary.bg {
   background-color: #ffffff;
   color: rgba(0,0,0,0.54);
 }
@@ -9229,7 +9229,7 @@
   background-color: #ffffff;
   color: rgba(0,0,0,0.38);
 }
-.palette-White-Icons-Hint-text.bg {
+.palette-White-Icons-Hint.bg {
   background-color: #ffffff;
   color: rgba(0,0,0,0.38);
 }
@@ -9249,7 +9249,7 @@
   background-color: #ffffff;
   color: rgba(0,0,0,0.87);
 }
-.palette-White-Disabled-Secondary-text.bg {
+.palette-White-Disabled-Secondary.bg {
   background-color: #ffffff;
   color: rgba(0,0,0,0.54);
 }
@@ -9261,7 +9261,7 @@
   background-color: #ffffff;
   color: rgba(0,0,0,0.38);
 }
-.palette-White-Disabled-Hint-text.bg {
+.palette-White-Disabled-Hint.bg {
   background-color: #ffffff;
   color: rgba(0,0,0,0.38);
 }
@@ -9270,34 +9270,34 @@
   color: rgba(0,0,0,0.12);
 }
 
-.palette-White-Hint-text.bg {
+.palette-White-Hint.bg {
   background-color: rgba(255,255,255,0.5);
   color: rgba(0,0,0,0.87);
 }
-.palette-White-Hint-text.text {
+.palette-White-Hint.text {
   color: rgba(255,255,255,0.5);
 }
-.palette-White-Hint-text-Primary.bg {
+.palette-White-Hint-Primary.bg {
   background-color: #ffffff;
   color: rgba(0,0,0,0.87);
 }
-.palette-White-Hint-text-Secondary-text.bg {
+.palette-White-Hint-Secondary.bg {
   background-color: #ffffff;
   color: rgba(0,0,0,0.54);
 }
-.palette-White-Hint-text-Icons.bg {
+.palette-White-Hint-Icons.bg {
   background-color: #ffffff;
   color: rgba(0,0,0,0.38);
 }
-.palette-White-Hint-text-Disabled.bg {
+.palette-White-Hint-Disabled.bg {
   background-color: #ffffff;
   color: rgba(0,0,0,0.38);
 }
-.palette-White-Hint-text-Hint-text.bg {
+.palette-White-Hint-Hint.bg {
   background-color: #ffffff;
   color: rgba(0,0,0,0.38);
 }
-.palette-White-Hint-text-Dividers.bg {
+.palette-White-Hint-Dividers.bg {
   background-color: #ffffff;
   color: rgba(0,0,0,0.12);
 }
@@ -9313,7 +9313,7 @@
   background-color: #ffffff;
   color: rgba(0,0,0,0.87);
 }
-.palette-White-Dividers-Secondary-text.bg {
+.palette-White-Dividers-Secondary.bg {
   background-color: #ffffff;
   color: rgba(0,0,0,0.54);
 }
@@ -9325,7 +9325,7 @@
   background-color: #ffffff;
   color: rgba(0,0,0,0.38);
 }
-.palette-White-Dividers-Hint-text.bg {
+.palette-White-Dividers-Hint.bg {
   background-color: #ffffff;
   color: rgba(0,0,0,0.38);
 }

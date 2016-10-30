@@ -1406,9 +1406,9 @@
     color: paletteText(Black, Primary);
   }
 
-  &.Black-Secondary-text {
-    background-color: palette(Black, Secondary text);
-    color: paletteText(Black, Secondary text);
+  &.Black-Secondary {
+    background-color: palette(Black, Secondary);
+    color: paletteText(Black, Secondary);
   }
 
   &.Black-Icons {
@@ -1421,9 +1421,9 @@
     color: paletteText(Black, Disabled);
   }
 
-  &.Black-Hint-text {
-    background-color: palette(Black, Hint text);
-    color: paletteText(Black, Hint text);
+  &.Black-Hint {
+    background-color: palette(Black, Hint);
+    color: paletteText(Black, Hint);
   }
 
   &.Black-Dividers {
@@ -1452,9 +1452,9 @@
     color: paletteText(White, Primary);
   }
 
-  &.White-Secondary-text {
-    background-color: palette(White, Secondary text);
-    color: paletteText(White, Secondary text);
+  &.White-Secondary {
+    background-color: palette(White, Secondary);
+    color: paletteText(White, Secondary);
   }
 
   &.White-Icons {
@@ -1467,9 +1467,9 @@
     color: paletteText(White, Disabled);
   }
 
-  &.White-Hint-text {
-    background-color: palette(White, Hint text);
-    color: paletteText(White, Hint text);
+  &.White-Hint {
+    background-color: palette(White, Hint);
+    color: paletteText(White, Hint);
   }
 
   &.White-Dividers {
@@ -2609,8 +2609,8 @@
     color: palette(Black, Primary);
   }
 
-  &.Black-Secondary-text {
-    color: palette(Black, Secondary text);
+  &.Black-Secondary {
+    color: palette(Black, Secondary);
   }
 
   &.Black-Icons {
@@ -2621,8 +2621,8 @@
     color: palette(Black, Disabled);
   }
 
-  &.Black-Hint-text {
-    color: palette(Black, Hint text);
+  &.Black-Hint {
+    color: palette(Black, Hint);
   }
 
   &.Black-Dividers {
@@ -2646,8 +2646,8 @@
     color: palette(White, Primary);
   }
 
-  &.White-Secondary-text {
-    color: palette(White, Secondary text);
+  &.White-Secondary {
+    color: palette(White, Secondary);
   }
 
   &.White-Icons {
@@ -2658,8 +2658,8 @@
     color: palette(White, Disabled);
   }
 
-  &.White-Hint-text {
-    color: palette(White, Hint text);
+  &.White-Hint {
+    color: palette(White, Hint);
   }
 
   &.White-Dividers {

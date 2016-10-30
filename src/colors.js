@@ -300,10 +300,10 @@ module.exports = {
     'text': { 'color': 'rgba(0,0,0,0.87)', 'text': 'White' },
 
     'Primary': { 'color': 'rgba(0,0,0,0.87)', 'text': 'White' },
-    'Secondary text': { 'color': 'rgba(0,0,0,0.54)', 'text': 'White' },
+    'Secondary': { 'color': 'rgba(0,0,0,0.54)', 'text': 'White' },
     'Icons': { 'color': 'rgba(0,0,0,0.38)', 'text': 'White' },
     'Disabled': { 'color': 'rgba(0,0,0,0.38)', 'text': 'White' },
-    'Hint text': { 'color': 'rgba(0,0,0,0.38)', 'text': 'White' },
+    'Hint': { 'color': 'rgba(0,0,0,0.38)', 'text': 'White' },
     'Dividers': { 'color': 'rgba(0,0,0,0.12)', 'text': 'White' }
   },
 
@@ -312,10 +312,10 @@ module.exports = {
     'text': { 'color': '#ffffff', 'text': 'White' },
 
     'Primary': { 'color': '#ffffff', 'text': 'Black' },
-    'Secondary text': { 'color': 'rgba(255,255,255,0.7)', 'text': 'Black' },
+    'Secondary': { 'color': 'rgba(255,255,255,0.7)', 'text': 'Black' },
     'Icons': { 'color': 'rgba(255,255,255,0.5)', 'text': 'Black' },
     'Disabled': { 'color': 'rgba(255,255,255,0.5)', 'text': 'Black' },
-    'Hint text': { 'color': 'rgba(255,255,255,0.5)', 'text': 'Black' },
+    'Hint': { 'color': 'rgba(255,255,255,0.5)', 'text': 'Black' },
     'Dividers': { 'color': 'rgba(255,255,255,0.12)', 'text': 'Black' }
   },
 }
