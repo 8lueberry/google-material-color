@@ -33,14 +33,26 @@ Details can be found on the [google design specs website](http://www.google.com/
 **Shades** (note that not all color have all the shades)
 > 50, 100, 200, 300, 400, 500, 600, 700, 800, 900, 1000, A100, A200, A400, A700
 
+**Text Colors**
+> White, Black
+
+**Text Shades**
+> Primary, Secondary, Icons, Disabled, Hint, Dividers
+
 
 ## Usage
 
 ### Stylus
 
-Import [palette.styl](http://danlevan.github.io/google-material-color/dist/palette.styl) and call the function `palette('[color]', '[shade]')` in your styl file.
+Import [palette.styl](http://danlevan.github.io/google-material-color/dist/palette.styl).
+
+Call the function `palette('[color]', '[shade]')`.
 
 > The shade is optional (500 is the default shade).
+
+Call the function `paletteText('[color]', '[shade]', '[textShade]')`.
+
+> The shade is optional (500 is the default shade). The textShade is optional (Primary is the default textShade).
 
 `example.styl`
 
@@ -50,16 +62,26 @@ Import [palette.styl](http://danlevan.github.io/google-material-color/dist/palet
 
 .my-div
   background-color palette('Light Blue', '700')
-  color palette('Red') // default shade is 500
+  color paletteText('Red', '700', 'Secondary')
+
+.my-default-div
+  background-color palette('Light Blue') // default shade is 500
+  color paletteText('Red') // default text shade is Primary
 ```
 
-> If you need direct access to the variables, you can access it like `$palette['Light Blue']['500']`
+> If you need direct access to the variables, you can access it like `$palette['Light Blue']['500']` and `$palette[$paletteText['Light Blue']['500']]['Primary']`
 
 ### Sass (SCSS)
 
-Import [palette.scss](http://danlevan.github.io/google-material-color/dist/palette.scss) and call the function `palette([color], [shade])`.
+Import [palette.scss](http://danlevan.github.io/google-material-color/dist/palette.scss).
+
+Call the function `palette([color], [shade])`.
 
 > The shade is optional (500 is the default shade).
+
+Call the function `paletteText([color], [shade], [textShade])`.
+
+> The shade is optional (500 is the default shade). The textShade is optional (Primary is the default textShade).
 
 `example.scss`
 
@@ -69,17 +91,28 @@ Import [palette.scss](http://danlevan.github.io/google-material-color/dist/palet
 
 .my-div {
   background-color: palette(Light Blue, 700);
-  color: palette(Red); // default shade is 500
+  color: paletteText(Light Blue, 700, Secondary);
+}
+
+.my-default-div {
+  background-color: palette(Red); // default shade is 500
+  color: paletteText(Light Blue); // default text shade is Primary
 }
 ```
 
-> If you need direct access to the variables, you can access it through a map like `$colorMap: map-get($palette, Light Blue); $color: map-get($colorMap, 700);`.
+> If you need direct access to the variables, you can access it through a map like `$colorMap: map-get($palette, Light Blue); $color: map-get($colorMap, 700);` and `$colorMap: map-get($paletteText, Light Blue); $textColor: map-get($colorMap, 700); $colorMap: map-get($palette, $textColor); $color: map-get($colorMap, Secondary);`.
 
 ### Less
 
-Import [palette.less](http://danlevan.github.io/google-material-color/dist/palette.less) and call the mixin `.palette([color], [shade])`.
+Import [palette.less](http://danlevan.github.io/google-material-color/dist/palette.less).
+
+Call the mixin `.palette([color], [shade])`.
 
 > The shade is optional (500 is the default shade).
+
+Call the mixin `.palette-text([color], [shade], [textShade])`.
+
+> The shade is optional (500 is the default shade). The textShade is optional (Primary is the default textShade).
 
 `example.scss`
 
@@ -100,16 +133,19 @@ Import [palette.less](http://danlevan.github.io/google-material-color/dist/palet
 
 ```
 
-If you need access to the variables, you can access it through variable like `@palette-Light-Blue-500`
+If you need access to the variables, you can access it through variable like `@palette-Light-Blue-500` and `@colorVar: %('palette-%s-Secondary', @palette-text-Light-Blue-500); @color: @@colorVar`
 
 
 ### CSS
 
-Include [palette.css](http://danlevan.github.io/google-material-color/dist/palette.css) in your html. The CSS class follows the pattern `palette-[color]-[shade]` (spaces replaced by `-`).
+Include [palette.css](http://danlevan.github.io/google-material-color/dist/palette.css) in your html. The CSS class follows the pattern `palette-[color]-[shade]-[textShade]`, (spaces replaced by `-`). 
 
 The CSS provides colors for the background and text
+
 * `background-color`: by adding the `bg` class to the element
-* `color`: by adding the `text` class to the element
+* `color`: will be White or Black if adding the `bg` class to the element; will be the color setted if adding the `text` class (does not support textShade) to the element
+
+
 
 `example.html`
 
@@ -117,8 +153,9 @@ The CSS provides colors for the background and text
 <link href='palette.css' rel='stylesheet' type='text/css'>
 ...
 
-<div class="palette-Light-Blue-700 bg">
+<div class="palette-Light-Blue-700-Secondary bg">
   The background is Light Blue
+  The text is White
 </div>
 
 <div class="palette-Light-Blue-700 text">
@@ -133,9 +170,15 @@ If you're using cssnext, this project also includes a variable files for css. Re
 Include [palette.css](http://danlevan.github.io/google-material-color/dist/palette-var.css) in your html.
 ```css
 :root {
-  --Red-50: #FFEBEE
-  --Red-100: #FFCDD2
-  --Red-200: #EF9A9A
+  --palette-Red-50: #FFEBEE
+  --palette-Red-100: #FFCDD2
+  --palette-Red-200: #EF9A9A
+  ...
+  --palette-Red-Primary: #ffffff;
+  --palette-Red-Secondary: rgba(255,255,255,0.7);
+  ...
+  --palette-Red-50-Primary: #ffffff;
+  --palette-Red-50-Secondary: rgba(255,255,255,0.7);
   ...
 ```
 
@@ -152,6 +195,7 @@ You can import the [palette.js](http://danlevan.github.io/google-material-color/
 <script>
   document.getElementById('my-div')
     .style['background-color'] = palette.get('Light Blue', '700');
+    .style['color'] = palette.getText('Light Blue', '700', 'Secondary');
 </script>
 ```
 

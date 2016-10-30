@@ -24,7 +24,7 @@ $paletteText: (<%
   @return $result;
 }
 
-@function paletteText($color, $shade: 500, $shadeText: 'Primary') {
+@function paletteText($color, $shade: 500, $shadeText: Primary) {
   $colorMap: map-get($paletteText, $color);
   $textColor: map-get($colorMap, $shade);
   $colorMap: map-get($palette, $textColor);
