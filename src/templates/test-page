@@ -148,6 +148,7 @@
         var tds = document.getElementsByClassName('js');
         for(var i=0; i<tds.length; i++) {
           tds[i].style['background-color'] = palette.get(tds[i].dataset.color, tds[i].dataset.shade);
+          tds[i].style['color'] = palette.getText(tds[i].dataset.color, tds[i].dataset.shade);
         }
 
         var tdsText = document.getElementsByClassName('js-text');

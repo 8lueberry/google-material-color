@@ -5,11 +5,15 @@
   &.<%- color.replace(' ', '-') %> {
     .palette('<%- color %>');
     background-color: @palette;
+    .palette-text('<%- color %>');
+    color: @palette-text;
   }
 <% _.forIn(shades, function(hex, shade) { %>
   &.<%- color.replace(' ', '-') %>-<%- shade.replace(' ', '-') %> {
     .palette('<%- color %>'; '<%- shade %>');
     background-color: @palette;
+    .palette-text('<%- color %>'; '<%- shade %>');
+    color: @palette-text;
   }
 <% }) %>
 <% }) %>

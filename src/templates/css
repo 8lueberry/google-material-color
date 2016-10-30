@@ -1,16 +1,34 @@
 <% _.forIn(colors, function(shades, color) {
 %>.palette-<%- color.replace(' ', '-') %>.bg {
-  background-color: <%- shades['500'] %>;
+  background-color: <%- shades['500'].color %>;
+  color: <%- colors[shades['500'].text]['Primary'].color %>;
 }
 .palette-<%- color.replace(' ', '-') %>.text {
-  color: <%- shades['500'] %>;
+  color: <%- shades['500'].color %>;
 }
+<% _.forIn(colors[shades['500'].text], function(textColor, textShade) {
+  if (textShade != '500' && textShade != 'text') {
+%>.palette-<%- color.replace(' ', '-') %>-<%- textShade.replace(' ', '-') %>.bg {
+  background-color: <%- shades['500'].color %>;
+  color: <%- textColor.color %>;
+}
+<% }
+}) %>
 <% _.forIn(shades, function(hex, shade) {
 %>.palette-<%- color.replace(' ', '-') %>-<%- shade.replace(' ', '-') %>.bg {
-  background-color: <%- hex %>;
+  background-color: <%- hex.color %>;
+  color: <%- colors[shades[shade].text]['Primary'].color %>;
 }
 .palette-<%- color.replace(' ', '-') %>-<%- shade.replace(' ', '-') %>.text {
-  color: <%- hex %>;
+  color: <%- hex.color %>;
 }
+<% _.forIn(colors[shades['500'].text], function(textColor, textShade) {
+  if (textShade != '500' && textShade != 'text') {
+%>.palette-<%- color.replace(' ', '-') %>-<%- shade.replace(' ', '-') %>-<%- textShade.replace(' ', '-') %>.bg {
+  background-color: <%- shades['500'].color %>;
+  color: <%- textColor.color %>;
+}
+<% }
+}) %>
 <% }) %>
 <% }) %>

@@ -2,7 +2,17 @@ $palette: (<%
   _.forIn(colors, function(shades, color) { %>
   <%- color %>: (<%
     _.forIn(shades, function(hex, shade) { %>
-    <%- shade %>: <%- hex %>,<%
+    <%- shade %>: <%- hex.color %>,<%
+    }) %>
+  ),<%
+})%>
+);
+
+$paletteText: (<%
+  _.forIn(colors, function(shades, color) { %>
+  <%- color %>: (<%
+    _.forIn(shades, function(hex, shade) { %>
+    <%- shade %>: <%- hex.text %>,<%
     }) %>
   ),<%
 })%>
@@ -11,5 +21,13 @@ $palette: (<%
 @function palette($color, $shade: 500) {
   $colorMap: map-get($palette, $color);
   $result: map-get($colorMap, $shade);
+  @return $result;
+}
+
+@function paletteText($color, $shade: 500, $shadeText: 'Primary') {
+  $colorMap: map-get($paletteText, $color);
+  $textColor: map-get($colorMap, $shade);
+  $colorMap: map-get($palette, $textColor);
+  $result: map-get($colorMap, $shadeText);
   @return $result;
 }
