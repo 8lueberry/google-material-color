@@ -208,29 +208,7 @@ If you would like to suggest improvements or other libraries, you can also open 
 
 ## Contributing
 
-### Fork
-
-Feel free to fork the project
-
-    $ git clone git://github.com/danlevan/google-material-color.git
-
-### Running this
-
-Install [gulp](http://gulpjs.com/)
-
-    $ npm install --global gulp
-
-Install the package
-
-    $ npm install
-
-Run `gulp` to build the packages. The packages are in /dist/.
-
-    $ gulp
-
-Run `gulp test` to build the test page. The test page can be found in /test/.
-
-    $ gulp test
+See the [contributing](CONTRIBUTING.md) doc
 
 ## Release History
 See the [changelog](CHANGELOG.md)
