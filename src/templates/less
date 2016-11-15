@@ -1,9 +1,22 @@
 <%
 _.forIn(colors, function(shades, color) {
 _.forIn(shades, function(hex, shade) {
-%>@palette-<%- color.replace(' ', '-') %>-<%- shade.replace(' ', '-') %>: <%- hex %>;
+%>@palette-<%- color.replace(' ', '-') %>-<%- shade.replace(' ', '-') %>: <%- hex.color %>;
 <% }) }) %>
+
+<%
+_.forIn(colors, function(shades, color) {
+_.forIn(shades, function(hex, shade) {
+%>@palette-text-<%- color.replace(' ', '-') %>-<%- shade.replace(' ', '-') %>: '<%- hex.text %>';
+<% }) }) %>
+
 .palette(@color; @shade: '500') {
   @colorVar: %('palette-%s-%s', replace(@color, ' ', '-'), replace(@shade, ' ', '-'));
   @palette: @@colorVar;
+}
+
+.palette-text(@color; @shade: '500'; @text-shade: 'Primary') {
+  @textVar: %('palette-text-%s-%s', replace(@color, ' ', '-'), replace(@shade, ' ', '-'));
+  @colorVar: %('palette-%s-%s', @@textVar, replace(@text-shade, ' ', '-'));
+  @palette-text: @@colorVar;
 }

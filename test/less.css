@@ -4,870 +4,1167 @@
  */
 .less.Red {
   background-color: #f44336;
+  color: #ffffff;
 }
 .less.Red-50 {
   background-color: #ffebee;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Red-100 {
   background-color: #ffcdd2;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Red-200 {
   background-color: #ef9a9a;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Red-300 {
   background-color: #e57373;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Red-400 {
   background-color: #ef5350;
+  color: #ffffff;
 }
 .less.Red-500 {
   background-color: #f44336;
+  color: #ffffff;
 }
 .less.Red-600 {
   background-color: #e53935;
+  color: #ffffff;
 }
 .less.Red-700 {
   background-color: #d32f2f;
+  color: #ffffff;
 }
 .less.Red-800 {
   background-color: #c62828;
+  color: #ffffff;
 }
 .less.Red-900 {
   background-color: #b71c1c;
+  color: #ffffff;
 }
 .less.Red-A100 {
   background-color: #ff8a80;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Red-A200 {
   background-color: #ff5252;
+  color: #ffffff;
 }
 .less.Red-A400 {
   background-color: #ff1744;
+  color: #ffffff;
 }
 .less.Red-A700 {
   background-color: #d50000;
+  color: #ffffff;
 }
 .less.Pink {
   background-color: #e91e63;
+  color: #ffffff;
 }
 .less.Pink-50 {
   background-color: #fce4ec;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Pink-100 {
   background-color: #f8bbd0;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Pink-200 {
   background-color: #f48fb1;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Pink-300 {
   background-color: #f06292;
+  color: #ffffff;
 }
 .less.Pink-400 {
   background-color: #ec407a;
+  color: #ffffff;
 }
 .less.Pink-500 {
   background-color: #e91e63;
+  color: #ffffff;
 }
 .less.Pink-600 {
   background-color: #d81b60;
+  color: #ffffff;
 }
 .less.Pink-700 {
   background-color: #c2185b;
+  color: #ffffff;
 }
 .less.Pink-800 {
   background-color: #ad1457;
+  color: #ffffff;
 }
 .less.Pink-900 {
   background-color: #880e4f;
+  color: #ffffff;
 }
 .less.Pink-A100 {
   background-color: #ff80ab;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Pink-A200 {
   background-color: #ff4081;
+  color: #ffffff;
 }
 .less.Pink-A400 {
   background-color: #f50057;
+  color: #ffffff;
 }
 .less.Pink-A700 {
   background-color: #c51162;
+  color: #ffffff;
 }
 .less.Purple {
   background-color: #9c27b0;
+  color: #ffffff;
 }
 .less.Purple-50 {
   background-color: #f3e5f5;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Purple-100 {
   background-color: #e1bee7;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Purple-200 {
   background-color: #ce93d8;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Purple-300 {
   background-color: #ba68c8;
+  color: #ffffff;
 }
 .less.Purple-400 {
   background-color: #ab47bc;
+  color: #ffffff;
 }
 .less.Purple-500 {
   background-color: #9c27b0;
+  color: #ffffff;
 }
 .less.Purple-600 {
   background-color: #8e24aa;
+  color: #ffffff;
 }
 .less.Purple-700 {
   background-color: #7b1fa2;
+  color: #ffffff;
 }
 .less.Purple-800 {
   background-color: #6a1b9a;
+  color: #ffffff;
 }
 .less.Purple-900 {
   background-color: #4a148c;
+  color: #ffffff;
 }
 .less.Purple-A100 {
   background-color: #ea80fc;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Purple-A200 {
   background-color: #e040fb;
+  color: #ffffff;
 }
 .less.Purple-A400 {
   background-color: #d500f9;
+  color: #ffffff;
 }
 .less.Purple-A700 {
   background-color: #aa00ff;
+  color: #ffffff;
 }
 .less.Deep-Purple {
   background-color: #673ab7;
+  color: #ffffff;
 }
 .less.Deep-Purple-50 {
   background-color: #ede7f6;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Deep-Purple-100 {
   background-color: #d1c4e9;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Deep-Purple-200 {
   background-color: #b39ddb;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Deep-Purple-300 {
   background-color: #9575cd;
+  color: #ffffff;
 }
 .less.Deep-Purple-400 {
   background-color: #7e57c2;
+  color: #ffffff;
 }
 .less.Deep-Purple-500 {
   background-color: #673ab7;
+  color: #ffffff;
 }
 .less.Deep-Purple-600 {
   background-color: #5e35b1;
+  color: #ffffff;
 }
 .less.Deep-Purple-700 {
   background-color: #512da8;
+  color: #ffffff;
 }
 .less.Deep-Purple-800 {
   background-color: #4527a0;
+  color: #ffffff;
 }
 .less.Deep-Purple-900 {
   background-color: #311b92;
+  color: #ffffff;
 }
 .less.Deep-Purple-A100 {
   background-color: #b388ff;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Deep-Purple-A200 {
   background-color: #7c4dff;
+  color: #ffffff;
 }
 .less.Deep-Purple-A400 {
   background-color: #651fff;
+  color: #ffffff;
 }
 .less.Deep-Purple-A700 {
   background-color: #6200ea;
+  color: #ffffff;
 }
 .less.Indigo {
   background-color: #3f51b5;
+  color: #ffffff;
 }
 .less.Indigo-50 {
   background-color: #e8eaf6;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Indigo-100 {
   background-color: #c5cae9;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Indigo-200 {
   background-color: #9fa8da;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Indigo-300 {
   background-color: #7986cb;
+  color: #ffffff;
 }
 .less.Indigo-400 {
   background-color: #5c6bc0;
+  color: #ffffff;
 }
 .less.Indigo-500 {
   background-color: #3f51b5;
+  color: #ffffff;
 }
 .less.Indigo-600 {
   background-color: #3949ab;
+  color: #ffffff;
 }
 .less.Indigo-700 {
   background-color: #303f9f;
+  color: #ffffff;
 }
 .less.Indigo-800 {
   background-color: #283593;
+  color: #ffffff;
 }
 .less.Indigo-900 {
   background-color: #1a237e;
+  color: #ffffff;
 }
 .less.Indigo-A100 {
   background-color: #8c9eff;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Indigo-A200 {
   background-color: #536dfe;
+  color: #ffffff;
 }
 .less.Indigo-A400 {
   background-color: #3d5afe;
+  color: #ffffff;
 }
 .less.Indigo-A700 {
   background-color: #304ffe;
+  color: #ffffff;
 }
 .less.Blue {
   background-color: #2196f3;
+  color: #ffffff;
 }
 .less.Blue-50 {
   background-color: #e3f2fd;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Blue-100 {
   background-color: #bbdefb;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Blue-200 {
   background-color: #90caf9;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Blue-300 {
   background-color: #64b5f6;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Blue-400 {
   background-color: #42a5f5;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Blue-500 {
   background-color: #2196f3;
+  color: #ffffff;
 }
 .less.Blue-600 {
   background-color: #1e88e5;
+  color: #ffffff;
 }
 .less.Blue-700 {
   background-color: #1976d2;
+  color: #ffffff;
 }
 .less.Blue-800 {
   background-color: #1565c0;
+  color: #ffffff;
 }
 .less.Blue-900 {
   background-color: #0d47a1;
+  color: #ffffff;
 }
 .less.Blue-A100 {
   background-color: #82b1ff;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Blue-A200 {
   background-color: #448aff;
+  color: #ffffff;
 }
 .less.Blue-A400 {
   background-color: #2979ff;
+  color: #ffffff;
 }
 .less.Blue-A700 {
   background-color: #2962ff;
+  color: #ffffff;
 }
 .less.Light-Blue {
   background-color: #03a9f4;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Light-Blue-50 {
   background-color: #e1f5fe;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Light-Blue-100 {
   background-color: #b3e5fc;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Light-Blue-200 {
   background-color: #81d4fa;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Light-Blue-300 {
   background-color: #4fc3f7;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Light-Blue-400 {
   background-color: #29b6f6;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Light-Blue-500 {
   background-color: #03a9f4;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Light-Blue-600 {
   background-color: #039be5;
+  color: #ffffff;
 }
 .less.Light-Blue-700 {
   background-color: #0288d1;
+  color: #ffffff;
 }
 .less.Light-Blue-800 {
   background-color: #0277bd;
+  color: #ffffff;
 }
 .less.Light-Blue-900 {
   background-color: #01579b;
+  color: #ffffff;
 }
 .less.Light-Blue-A100 {
   background-color: #80d8ff;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Light-Blue-A200 {
   background-color: #40c4ff;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Light-Blue-A400 {
   background-color: #00b0ff;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Light-Blue-A700 {
   background-color: #0091ea;
+  color: #ffffff;
 }
 .less.Cyan {
   background-color: #00bcd4;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Cyan-50 {
   background-color: #e0f7fa;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Cyan-100 {
   background-color: #b2ebf2;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Cyan-200 {
   background-color: #80deea;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Cyan-300 {
   background-color: #4dd0e1;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Cyan-400 {
   background-color: #26c6da;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Cyan-500 {
   background-color: #00bcd4;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Cyan-600 {
   background-color: #00acc1;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Cyan-700 {
   background-color: #0097a7;
+  color: #ffffff;
 }
 .less.Cyan-800 {
   background-color: #00838f;
+  color: #ffffff;
 }
 .less.Cyan-900 {
   background-color: #006064;
+  color: #ffffff;
 }
 .less.Cyan-A100 {
   background-color: #84ffff;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Cyan-A200 {
   background-color: #18ffff;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Cyan-A400 {
   background-color: #00e5ff;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Cyan-A700 {
   background-color: #00b8d4;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Teal {
   background-color: #009688;
+  color: #ffffff;
 }
 .less.Teal-50 {
   background-color: #e0f2f1;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Teal-100 {
   background-color: #b2dfdb;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Teal-200 {
   background-color: #80cbc4;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Teal-300 {
   background-color: #4db6ac;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Teal-400 {
   background-color: #26a69a;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Teal-500 {
   background-color: #009688;
+  color: #ffffff;
 }
 .less.Teal-600 {
   background-color: #00897b;
+  color: #ffffff;
 }
 .less.Teal-700 {
   background-color: #00796b;
+  color: #ffffff;
 }
 .less.Teal-800 {
   background-color: #00695c;
+  color: #ffffff;
 }
 .less.Teal-900 {
   background-color: #004d40;
+  color: #ffffff;
 }
 .less.Teal-A100 {
   background-color: #a7ffeb;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Teal-A200 {
   background-color: #64ffda;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Teal-A400 {
   background-color: #1de9b6;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Teal-A700 {
   background-color: #00bfa5;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Green {
   background-color: #4caf50;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Green-50 {
   background-color: #e8f5e9;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Green-100 {
   background-color: #c8e6c9;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Green-200 {
   background-color: #a5d6a7;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Green-300 {
   background-color: #81c784;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Green-400 {
   background-color: #66bb6a;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Green-500 {
   background-color: #4caf50;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Green-600 {
   background-color: #43a047;
+  color: #ffffff;
 }
 .less.Green-700 {
   background-color: #388e3c;
+  color: #ffffff;
 }
 .less.Green-800 {
   background-color: #2e7d32;
+  color: #ffffff;
 }
 .less.Green-900 {
   background-color: #1b5e20;
+  color: #ffffff;
 }
 .less.Green-A100 {
   background-color: #b9f6ca;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Green-A200 {
   background-color: #69f0ae;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Green-A400 {
   background-color: #00e676;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Green-A700 {
   background-color: #00c853;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Light-Green {
   background-color: #8bc34a;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Light-Green-50 {
   background-color: #f1f8e9;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Light-Green-100 {
   background-color: #dcedc8;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Light-Green-200 {
   background-color: #c5e1a5;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Light-Green-300 {
   background-color: #aed581;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Light-Green-400 {
   background-color: #9ccc65;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Light-Green-500 {
   background-color: #8bc34a;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Light-Green-600 {
   background-color: #7cb342;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Light-Green-700 {
   background-color: #689f38;
+  color: #ffffff;
 }
 .less.Light-Green-800 {
   background-color: #558b2f;
+  color: #ffffff;
 }
 .less.Light-Green-900 {
   background-color: #33691e;
+  color: #ffffff;
 }
 .less.Light-Green-A100 {
   background-color: #ccff90;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Light-Green-A200 {
   background-color: #b2ff59;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Light-Green-A400 {
   background-color: #76ff03;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Light-Green-A700 {
   background-color: #64dd17;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Lime {
   background-color: #cddc39;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Lime-50 {
   background-color: #f9fbe7;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Lime-100 {
   background-color: #f0f4c3;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Lime-200 {
   background-color: #e6ee9c;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Lime-300 {
   background-color: #dce775;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Lime-400 {
   background-color: #d4e157;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Lime-500 {
   background-color: #cddc39;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Lime-600 {
   background-color: #c0ca33;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Lime-700 {
   background-color: #afb42b;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Lime-800 {
   background-color: #9e9d24;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Lime-900 {
   background-color: #827717;
+  color: #ffffff;
 }
 .less.Lime-A100 {
   background-color: #f4ff81;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Lime-A200 {
   background-color: #eeff41;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Lime-A400 {
   background-color: #c6ff00;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Lime-A700 {
   background-color: #aeea00;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Yellow {
   background-color: #ffeb3b;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Yellow-50 {
   background-color: #fffde7;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Yellow-100 {
   background-color: #fff9c4;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Yellow-200 {
   background-color: #fff59d;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Yellow-300 {
   background-color: #fff176;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Yellow-400 {
   background-color: #ffee58;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Yellow-500 {
   background-color: #ffeb3b;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Yellow-600 {
   background-color: #fdd835;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Yellow-700 {
   background-color: #fbc02d;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Yellow-800 {
   background-color: #f9a825;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Yellow-900 {
   background-color: #f57f17;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Yellow-A100 {
   background-color: #ffff8d;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Yellow-A200 {
   background-color: #ffff00;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Yellow-A400 {
   background-color: #ffea00;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Yellow-A700 {
   background-color: #ffd600;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Amber {
   background-color: #ffc107;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Amber-50 {
   background-color: #fff8e1;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Amber-100 {
   background-color: #ffecb3;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Amber-200 {
   background-color: #ffe082;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Amber-300 {
   background-color: #ffd54f;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Amber-400 {
   background-color: #ffca28;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Amber-500 {
   background-color: #ffc107;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Amber-600 {
   background-color: #ffb300;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Amber-700 {
   background-color: #ffa000;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Amber-800 {
   background-color: #ff8f00;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Amber-900 {
   background-color: #ff6f00;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Amber-A100 {
   background-color: #ffe57f;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Amber-A200 {
   background-color: #ffd740;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Amber-A400 {
   background-color: #ffc400;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Amber-A700 {
   background-color: #ffab00;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Orange {
   background-color: #ff9800;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Orange-50 {
   background-color: #fff3e0;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Orange-100 {
   background-color: #ffe0b2;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Orange-200 {
   background-color: #ffcc80;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Orange-300 {
   background-color: #ffb74d;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Orange-400 {
   background-color: #ffa726;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Orange-500 {
   background-color: #ff9800;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Orange-600 {
   background-color: #fb8c00;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Orange-700 {
   background-color: #f57c00;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Orange-800 {
   background-color: #ef6c00;
+  color: #ffffff;
 }
 .less.Orange-900 {
   background-color: #e65100;
+  color: #ffffff;
 }
 .less.Orange-A100 {
   background-color: #ffd180;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Orange-A200 {
   background-color: #ffab40;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Orange-A400 {
   background-color: #ff9100;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Orange-A700 {
   background-color: #ff6d00;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Deep-Orange {
   background-color: #ff5722;
+  color: #ffffff;
 }
 .less.Deep-Orange-50 {
   background-color: #fbe9e7;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Deep-Orange-100 {
   background-color: #ffccbc;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Deep-Orange-200 {
   background-color: #ffab91;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Deep-Orange-300 {
   background-color: #ff8a65;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Deep-Orange-400 {
   background-color: #ff7043;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Deep-Orange-500 {
   background-color: #ff5722;
+  color: #ffffff;
 }
 .less.Deep-Orange-600 {
   background-color: #f4511e;
+  color: #ffffff;
 }
 .less.Deep-Orange-700 {
   background-color: #e64a19;
+  color: #ffffff;
 }
 .less.Deep-Orange-800 {
   background-color: #d84315;
+  color: #ffffff;
 }
 .less.Deep-Orange-900 {
   background-color: #bf360c;
+  color: #ffffff;
 }
 .less.Deep-Orange-A100 {
   background-color: #ff9e80;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Deep-Orange-A200 {
   background-color: #ff6e40;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Deep-Orange-A400 {
   background-color: #ff3d00;
+  color: #ffffff;
 }
 .less.Deep-Orange-A700 {
   background-color: #dd2c00;
+  color: #ffffff;
 }
 .less.Brown {
   background-color: #795548;
+  color: #ffffff;
 }
 .less.Brown-50 {
   background-color: #efebe9;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Brown-100 {
   background-color: #d7ccc8;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Brown-200 {
   background-color: #bcaaa4;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Brown-300 {
   background-color: #a1887f;
+  color: #ffffff;
 }
 .less.Brown-400 {
   background-color: #8d6e63;
+  color: #ffffff;
 }
 .less.Brown-500 {
   background-color: #795548;
+  color: #ffffff;
 }
 .less.Brown-600 {
   background-color: #6d4c41;
+  color: #ffffff;
 }
 .less.Brown-700 {
   background-color: #5d4037;
+  color: #ffffff;
 }
 .less.Brown-800 {
   background-color: #4e342e;
+  color: #ffffff;
 }
 .less.Brown-900 {
   background-color: #3e2723;
+  color: #ffffff;
 }
 .less.Grey {
   background-color: #9e9e9e;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Grey-50 {
   background-color: #fafafa;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Grey-100 {
   background-color: #f5f5f5;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Grey-200 {
   background-color: #eeeeee;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Grey-300 {
   background-color: #e0e0e0;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Grey-400 {
   background-color: #bdbdbd;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Grey-500 {
   background-color: #9e9e9e;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Grey-600 {
   background-color: #757575;
+  color: #ffffff;
 }
 .less.Grey-700 {
   background-color: #616161;
+  color: #ffffff;
 }
 .less.Grey-800 {
   background-color: #424242;
+  color: #ffffff;
 }
 .less.Grey-900 {
   background-color: #212121;
+  color: #ffffff;
 }
 .less.Blue-Grey {
   background-color: #607d8b;
+  color: #ffffff;
 }
 .less.Blue-Grey-50 {
   background-color: #eceff1;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Blue-Grey-100 {
   background-color: #cfd8dc;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Blue-Grey-200 {
   background-color: #b0bec5;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Blue-Grey-300 {
   background-color: #90a4ae;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.Blue-Grey-400 {
   background-color: #78909c;
+  color: #ffffff;
 }
 .less.Blue-Grey-500 {
   background-color: #607d8b;
+  color: #ffffff;
 }
 .less.Blue-Grey-600 {
   background-color: #546e7a;
+  color: #ffffff;
 }
 .less.Blue-Grey-700 {
   background-color: #455a64;
+  color: #ffffff;
 }
 .less.Blue-Grey-800 {
   background-color: #37474f;
+  color: #ffffff;
 }
 .less.Blue-Grey-900 {
   background-color: #263238;
+  color: #ffffff;
 }
 .less.Black {
   background-color: #000000;
+  color: #ffffff;
 }
 .less.Black-500 {
   background-color: #000000;
+  color: #ffffff;
 }
-.less.Black-Text {
+.less.Black-text {
   background-color: rgba(0, 0, 0, 0.87);
+  color: #ffffff;
 }
-.less.Black-Secondary-Text {
+.less.Black-Primary {
+  background-color: rgba(0, 0, 0, 0.87);
+  color: #ffffff;
+}
+.less.Black-Secondary {
   background-color: rgba(0, 0, 0, 0.54);
+  color: #ffffff;
 }
 .less.Black-Icons {
-  background-color: rgba(0, 0, 0, 0.54);
+  background-color: rgba(0, 0, 0, 0.38);
+  color: #ffffff;
 }
 .less.Black-Disabled {
-  background-color: rgba(0, 0, 0, 0.26);
+  background-color: rgba(0, 0, 0, 0.38);
+  color: #ffffff;
 }
-.less.Black-Hint-Text {
-  background-color: rgba(0, 0, 0, 0.26);
+.less.Black-Hint {
+  background-color: rgba(0, 0, 0, 0.38);
+  color: #ffffff;
 }
 .less.Black-Dividers {
   background-color: rgba(0, 0, 0, 0.12);
+  color: #ffffff;
 }
 .less.White {
   background-color: #ffffff;
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.White-500 {
   background-color: #ffffff;
+  color: rgba(0, 0, 0, 0.87);
 }
-.less.White-Text {
+.less.White-text {
   background-color: #ffffff;
+  color: #ffffff;
 }
-.less.White-Secondary-Text {
+.less.White-Primary {
+  background-color: #ffffff;
+  color: rgba(0, 0, 0, 0.87);
+}
+.less.White-Secondary {
   background-color: rgba(255, 255, 255, 0.7);
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.White-Icons {
-  background-color: #ffffff;
+  background-color: rgba(255, 255, 255, 0.5);
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.White-Disabled {
-  background-color: rgba(255, 255, 255, 0.3);
+  background-color: rgba(255, 255, 255, 0.5);
+  color: rgba(0, 0, 0, 0.87);
 }
-.less.White-Hint-Text {
-  background-color: rgba(255, 255, 255, 0.3);
+.less.White-Hint {
+  background-color: rgba(255, 255, 255, 0.5);
+  color: rgba(0, 0, 0, 0.87);
 }
 .less.White-Dividers {
   background-color: rgba(255, 255, 255, 0.12);
+  color: rgba(0, 0, 0, 0.87);
 }
 .less-text.Red {
   color: #f44336;
@@ -1694,20 +1991,23 @@
 .less-text.Black-500 {
   color: #000000;
 }
-.less-text.Black-Text {
+.less-text.Black-text {
   color: rgba(0, 0, 0, 0.87);
 }
-.less-text.Black-Secondary-Text {
+.less-text.Black-Primary {
+  color: rgba(0, 0, 0, 0.87);
+}
+.less-text.Black-Secondary {
   color: rgba(0, 0, 0, 0.54);
 }
 .less-text.Black-Icons {
-  color: rgba(0, 0, 0, 0.54);
+  color: rgba(0, 0, 0, 0.38);
 }
 .less-text.Black-Disabled {
-  color: rgba(0, 0, 0, 0.26);
+  color: rgba(0, 0, 0, 0.38);
 }
-.less-text.Black-Hint-Text {
-  color: rgba(0, 0, 0, 0.26);
+.less-text.Black-Hint {
+  color: rgba(0, 0, 0, 0.38);
 }
 .less-text.Black-Dividers {
   color: rgba(0, 0, 0, 0.12);
@@ -1718,20 +2018,23 @@
 .less-text.White-500 {
   color: #ffffff;
 }
-.less-text.White-Text {
+.less-text.White-text {
   color: #ffffff;
 }
-.less-text.White-Secondary-Text {
+.less-text.White-Primary {
+  color: #ffffff;
+}
+.less-text.White-Secondary {
   color: rgba(255, 255, 255, 0.7);
 }
 .less-text.White-Icons {
-  color: #ffffff;
+  color: rgba(255, 255, 255, 0.5);
 }
 .less-text.White-Disabled {
-  color: rgba(255, 255, 255, 0.3);
+  color: rgba(255, 255, 255, 0.5);
 }
-.less-text.White-Hint-Text {
-  color: rgba(255, 255, 255, 0.3);
+.less-text.White-Hint {
+  color: rgba(255, 255, 255, 0.5);
 }
 .less-text.White-Dividers {
   color: rgba(255, 255, 255, 0.12);

@@ -31,7 +31,16 @@
 _.forIn(colors, function(shades, color) { %>
       '<%- color %>': { <%
 _.forIn(shades, function(hex, shade) { %>
-        '<%- shade %>': '<%- hex %>', <%
+        '<%- shade %>': '<%- hex.color %>', <%
+}) %>
+      },
+<% }) %>
+    },
+    paletteText: { <%
+_.forIn(colors, function(shades, color) { %>
+      '<%- color %>': { <%
+_.forIn(shades, function(hex, shade) { %>
+        '<%- shade %>': '<%- hex.text %>', <%
 }) %>
       },
 <% }) %>
@@ -39,6 +48,10 @@ _.forIn(shades, function(hex, shade) { %>
 
     get: function (color, shade) {
       return this.palette[color][shade || '500'];
+    },
+
+    getText: function(color, shade, textShade) {
+      return this.palette[this.paletteText[color][shade || '500']][textShade || 'Primary'];
     },
     
     random: function(shade) {

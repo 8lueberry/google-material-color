@@ -1,7 +1,20 @@
 :root { <%
-  _.forIn(colors, function(shades, color) { %><%
-  _.forIn(shades, function(hex, shade) { %>
-  --palette-<%- color.replace(' ', '-') %>-<%- shade.replace(' ', '-') %>: <%- hex %>;<%
+  _.forIn(colors, function(shades, color) { %>
+  --palette-<%- color.replace(' ', '-') %>: <%- shades['500'].color %>;
+  <%_.forIn(colors[shades['500'].text], function(textColor, textShade) {
+  if (textShade != '500' && textShade != 'text') {
+  %>--palette-<%- color.replace(' ', '-') %>-<%- textShade.replace(' ', '-') %>: <%- textColor.color %>;
+  <%
+  }
+  })
+  _.forIn(shades, function(hex, shade) { 
+  %>--palette-<%- color.replace(' ', '-') %>-<%- shade.replace(' ', '-') %>: <%- hex.color %>;
+  <%_.forIn(colors[shades['500'].text], function(textColor, textShade) {
+  if (textShade != '500' && textShade != 'text') {
+  %>--palette-<%- color.replace(' ', '-') %>-<%- shade.replace(' ', '-') %>-<%- textShade.replace(' ', '-') %>: <%- textColor.color %>;
+  <%
+  }
+  })
   }) %>
 <% })
 %>}

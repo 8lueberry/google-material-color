@@ -4,10 +4,12 @@
 <% _.forIn(colors, function(shades, color) { %>
   &.<%- color.replace(' ', '-') %> {
     background-color: palette(<%- color %>);
+    color: paletteText(<%- color %>);
   }
 <% _.forIn(shades, function(hex, shade) { %>
   &.<%- color.replace(' ', '-') %>-<%- shade.replace(' ', '-') %> {
     background-color: palette(<%- color %>, <%- shade %>);
+    color: paletteText(<%- color %>, <%- shade %>);
   }
 <% }) %>
 <% }) %>

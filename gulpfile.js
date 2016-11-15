@@ -16,7 +16,7 @@ var util = require('util');
 
 var paths = {
   destination: 'dist',
-  test: 'test/',
+  test: 'test',
 
   stylus: 'palette.styl',
   sass: 'palette.scss',
@@ -35,7 +35,7 @@ var banner = '' +
 /**
  * Generates all the plugins
  */
-gulp.task('default', ['sync', 'clean-dist', 'stylus', 'sass', 'less', 'css', 'css-var', 'js']);
+gulp.task('default', [/*'sync', */'clean-dist', 'stylus', 'sass', 'less', 'css', 'css-var', 'js']);
 
 /**
  * Generates the test files: compile lib to css
@@ -177,7 +177,7 @@ gulp.task('test-less', ['less', 'test-less-template'], function () {
 gulp.task('test-less-template', function() {
   return gulp.src('src/templates/test-less')
     .pipe(template({
-      path: paths.less,
+      path: path.join('../', paths.destination, paths.less),
       colors: colors,
     }))
     .pipe(rename('less.less'))
@@ -212,7 +212,7 @@ gulp.task('test-page', ['clean-dist', 'clean-test'], function() {
  * Cleans the distribution folder
  */
 gulp.task('clean-dist', function() {
-  return gulp.src(path.join(paths.destination, '**'), {read: false})
+  return gulp.src(paths.destination, {read: false})
     .pipe(clean());
 });
 
@@ -220,7 +220,7 @@ gulp.task('clean-dist', function() {
  * Cleans the test
  */
 gulp.task('clean-test', function() {
-  return gulp.src(path.join(paths.test, '**'), {read: false})
+  return gulp.src(paths.test, {read: false})
     .pipe(clean());
 });
 

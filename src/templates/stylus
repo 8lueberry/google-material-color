@@ -2,7 +2,17 @@ $palette = {<%
   _.forIn(colors, function(shades, color) { %>
   '<%- color %>': {<%
     _.forIn(shades, function(hex, shade) { %>
-    '<%- shade %>': <%- hex %>,<%
+    '<%- shade %>': <%- hex.color %>,<%
+    }) %>
+  },<%
+})%>
+}
+
+$paletteText = {<%
+  _.forIn(colors, function(shades, color) { %>
+  '<%- color %>': {<%
+    _.forIn(shades, function(hex, shade) { %>
+    '<%- shade %>': '<%- hex.text %>',<%
     }) %>
   },<%
 })%>
@@ -10,3 +20,6 @@ $palette = {<%
 
 palette(color, accent='500')
   return $palette[color][accent]
+
+paletteText(color, accent='500', textAccent='Primary')
+  return $palette[$paletteText[color][accent]][textAccent]
