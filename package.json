@@ -18,7 +18,7 @@
     "sass",
     "less",
     "stylus",
-    "css"
+    "css" 
   ],
   "author": "Dan Le Van",
   "license": "MIT",
